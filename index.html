@@ -3,14 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Sitio Web</title>
-    <style>
-        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; background-color: #f4f4f9; color: #333; }
-        h1 { color: #0066cc; }
-    </style>
+    <title>PM² Trainer</title>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>¡Hola, bienvenido a mi web!</h1>
-    <p>Este sitio web está alojado gratuitamente en GitHub Pages.</p>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">PM²</span>
+                <div>
+                    <h1>PM² Trainer</h1>
+                    <p>Simulador de preparación PM²</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <section id="setup">
+            <div id="loading" class="loading">
+                <div class="spinner"></div>
+                <h3>Cargando preguntas...</h3>
+                <p>Preparando los bancos de preguntas PM²</p>
+            </div>
+            <div id="setupContent" style="display: none;">
+                <div class="panel mode-panel">
+                    <div class="mode-title">
+                        <span class="mode-icon">&#127919;</span>
+                        <div>
+                            <h2>Elige la modalidad</h2>
+                            <p>Selecciona el tipo de test que quieres realizar.</p>
+                        </div>
+                    </div>
+                    <div class="setting">
+                        <label for="modo">Modalidad del test</label>
+                        <select id="modo">
+                            <option value="10">&#127891; Simulacro rápido — 10 preguntas</option>
+                            <option value="25">&#128221; Examen parcial — 25 preguntas</option>
+                            <option value="70">&#128218; Certificación PM² — 70 preguntas</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="topic-header">
+                    <div>
+                        <h2>&#128218; Selecciona los temas</h2>
+                        <p>Puedes seleccionar uno, varios o todos los temas.</p>
+                    </div>
+                    <button id="selectAll" class="secondary-btn" type="button">
+                        Seleccionar todos
+                    </button>
+                </div>
+                <div id="topics" class="topics-grid"></div>
+                <div class="start-container">
+                    <button id="start" class="start-btn" type="button">
+                        &#128640; Comenzar test
+                    </button>
+                </div>
+            </div>
+        </section>
+        <section id="app"></section>
+    </main>
+    <div id="infoModal" class="modal" aria-hidden="true">
+        <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+            <button id="closeModal" class="close-btn" type="button" aria-label="Cerrar ventana">
+                ×
+            </button>
+            <h2 id="modalTitle"></h2>
+            <p id="modalText"></p>
+            <button id="modalCloseBottom" class="secondary-btn modal-bottom-btn" type="button">
+                Cerrar
+            </button>
+        </div>
+    </div>
+    <script src="app.js"></script>
 </body>
 </html>
