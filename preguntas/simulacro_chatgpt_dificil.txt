@@ -1,0 +1,1199 @@
+En PM², ¿qué variable forma parte de las cuatro variables de referencia que deben equilibrarse junto con alcance, coste y calendario?
+- Calidad
+- Comunicación
+- Madurez organizativa
+- Transición
+= Calidad
+> El enfoque PM² equilibra tiempo, costes, alcance y calidad.
+---
+¿Qué describe mejor una puerta de fase en PM²?
+- Una reunión opcional de seguimiento semanal
+- Un punto de revisión y aprobación al final de una fase
+- Un registro de incidencias de alto nivel
+- Un artefacto exclusivo de la fase de ejecución
+= Un punto de revisión y aprobación al final de una fase
+> Las puertas de fase son puntos de revisión y aprobación al final de cada fase.
+---
+¿Qué puerta se sitúa al final de la Fase de Inicio?
+- LpE (Listo para Ejecución)
+- LpC (Listo para Cierre)
+- LpP (Listo para Planificación)
+- LPA (Listo para Aceptación)
+= LpP (Listo para Planificación)
+> LpP es la primera puerta y se encuentra al final de Inicio.
+---
+¿Qué puerta se sitúa al final de la Fase de Planificación?
+- LpP (Listo para Planificación)
+- LpC (Listo para Cierre)
+- LPC (Listo para Control)
+- LpE (Listo para Ejecución)
+= LpE (Listo para Ejecución)
+> LpE es la segunda puerta y se encuentra al final de Planificación.
+---
+¿Qué puerta se sitúa al final de la Fase de Ejecución?
+- LpC (Listo para Cierre)
+- LpP (Listo para Planificación)
+- LpE (Listo para Ejecución)
+- LPA (Listo para Aceptación)
+= LpC (Listo para Cierre)
+> LpC es la tercera y última puerta de fase.
+---
+¿Quién es el agente clave principal durante la Fase de Inicio?
+- El Director de Proyecto (DP)
+- El Propietario del Proyecto (PP)
+- El Equipo Central del Proyecto (ECP)
+- La Oficina de Soporte a Proyectos (OSP)
+= El Propietario del Proyecto (PP)
+> La guía identifica al PP como agente clave principal de Inicio.
+---
+¿Quién es el agente clave de la Fase de Planificación?
+- El Propietario del Proyecto (PP)
+- El Equipo Central del Proyecto (ECP)
+- El Director de Proyecto (DP)
+- El Responsable de Negocio (RN)
+= El Director de Proyecto (DP)
+> En Planificación el agente clave es el DP, responsable de coordinar los planes.
+---
+¿Quién lleva a cabo la ejecución del Plan de Trabajo y produce los entregables durante Ejecución?
+- El Comité de Dirección del Proyecto (CDP)
+- El Propietario del Proyecto (PP)
+- El Órgano de Gobernanza Pertinente (OGP)
+- El Equipo Central del Proyecto (ECP)
+= El Equipo Central del Proyecto (ECP)
+> El ECP ejecuta el Plan de Trabajo y produce los entregables.
+---
+¿Qué ocurre con los entregables terminados durante la Fase de Cierre?
+- Se transfieren oficialmente al Propietario del Proyecto (PP)
+- Se devuelven al Órgano de Gobernanza Pertinente
+- Se mantienen bajo custodia exclusiva del ECP
+- Se convierten automáticamente en requisitos
+= Se transfieren oficialmente al Propietario del Proyecto (PP)
+> Cierre incluye la transferencia oficial de los entregables al PP.
+---
+¿Qué actividad caracteriza al Seguimiento y Control?
+- Crear el Caso de Negocio desde cero
+- Medir continuamente las actividades y evaluar el progreso frente a los planes
+- Aprobar exclusivamente el presupuesto
+- Cerrar administrativamente el proyecto
+= Medir continuamente las actividades y evaluar el progreso frente a los planes
+> La guía define seguimiento como medición continua y evaluación frente a los planes.
+---
+¿Qué caracteriza al control frente al seguimiento?
+- Registrar únicamente las lecciones aprendidas
+- Crear la Solicitud de Inicio
+- Identificar desviaciones y tomar acciones correctivas
+- Transferir los entregables al PP
+= Identificar desviaciones y tomar acciones correctivas
+> El control aborda desviaciones, incidencias y riesgos mediante acciones.
+---
+¿En qué momento se realizan las actividades de Seguimiento y Control?
+- Sólo durante Planificación
+- Sólo después de la aceptación final
+- Sólo durante Cierre
+- A lo largo de todo el ciclo de vida
+= A lo largo de todo el ciclo de vida
+> Seguimiento y Control se realiza durante todo el ciclo de vida.
+---
+¿Qué documento formaliza el compromiso de examinar en profundidad un problema, necesidad u oportunidad?
+- Solicitud de Inicio de Proyecto
+- Acta de Constitución del Proyecto
+- Informe de Fin de Proyecto
+- Plan de Aceptación de Entregables
+= Solicitud de Inicio de Proyecto
+> La Solicitud de Inicio formaliza el compromiso de examinar el contexto planteado.
+---
+¿Qué documento establece la lógica del proyecto, proporciona su justificación y marca restricciones presupuestarias?
+- Manual del Proyecto
+- Caso de Negocio
+- Plan de Trabajo del Proyecto
+- Registro de Decisiones
+= Caso de Negocio
+> El Caso de Negocio contiene la lógica, justificación y restricciones presupuestarias.
+---
+¿Sobre qué documento se construye el Acta de Constitución del Proyecto?
+- Sobre el Informe de Fin de Proyecto
+- Sobre el Registro de Riesgos
+- Sobre el Caso de Negocio
+- Sobre el Plan de Aceptación
+= Sobre el Caso de Negocio
+> La guía indica que el Acta se construye sobre el Caso de Negocio.
+---
+¿Qué documento define el alcance, los requisitos de alto nivel y los entregables?
+- Solicitud de Inicio de Proyecto
+- Manual del Proyecto
+- Informe de Estado del Proyecto
+- Acta de Constitución del Proyecto
+= Acta de Constitución del Proyecto
+> Esas tres materias forman parte de la definición del Acta.
+---
+¿Qué documento presenta los objetivos de dirección del proyecto y el enfoque de gestión?
+- Manual del Proyecto
+- Caso de Negocio
+- Plan de Trabajo del Proyecto
+- Registro de Incidencias
+= Manual del Proyecto
+> El Manual presenta los objetivos de dirección y el enfoque de gestión.
+---
+¿Qué documento incluye el desglose del trabajo, las estimaciones de esfuerzo y costes y el cronograma?
+- Acta de Constitución del Proyecto
+- Plan de Trabajo del Proyecto
+- Informe de Fin de Proyecto
+- Matriz de Partes Interesadas
+= Plan de Trabajo del Proyecto
+> Esos tres elementos aparecen en la descripción del Plan de Trabajo.
+---
+¿Qué documento resume la experiencia del proyecto, su progreso y las Lecciones Aprendidas?
+- Caso de Negocio
+- Manual del Proyecto
+- Informe de Fin de Proyecto
+- Solicitud de Inicio
+= Informe de Fin de Proyecto
+> El Informe de Fin de Proyecto recoge experiencia, progreso y Lecciones Aprendidas.
+---
+Según la guía, ¿qué duración aproximada y tamaño de equipo caracterizan a un proyecto PM² que reúne las condiciones para aplicar la metodología al completo?
+- Menos de una semana y una sola persona
+- Exactamente 4 semanas y dos personas
+- Más de un año y al menos 20 personas
+- Más de 4-5 semanas e involucra a más de 2-3 personas
+= Más de 4-5 semanas e involucra a más de 2-3 personas
+> La guía usa esos umbrales aproximados como una de las características del proyecto PM².
+---
+¿Qué exige un proyecto PM² respecto de la gobernanza?
+- Una estructura de gobernanza clara y una asignación clara de roles y responsabilidades
+- Eliminar todos los roles de aprobación
+- Delegar toda la gobernanza al ECP
+- Usar exclusivamente gobernanza informal
+= Una estructura de gobernanza clara y una asignación clara de roles y responsabilidades
+> La guía exige claridad tanto en gobernanza como en responsabilidades.
+---
+¿Qué dimensión adicional a producción/entrega debe incluir un proyecto PM²?
+- Sólo actividades administrativas
+- Actividades de transición e implementación en el negocio
+- Sólo reuniones de seguimiento
+- Sólo actividades de compras
+= Actividades de transición e implementación en el negocio
+> La guía señala que un proyecto PM² incluye transición e implementación en el negocio.
+---
+¿Qué nivel de control exige un proyecto PM²?
+- Control cero para favorecer flexibilidad
+- Control exclusivamente financiero
+- Un cierto nivel de control y trazabilidad
+- Trazabilidad sólo al final del proyecto
+= Un cierto nivel de control y trazabilidad
+> El control y la trazabilidad figuran entre las características de un proyecto PM².
+---
+¿Qué ocurre con la adaptación de PM² cuando un proyecto presenta más características propias de un proyecto PM²?
+- Impide utilizar PM²
+- Obliga a eliminar las puertas de fase
+- Hace innecesario documentar el proyecto
+- Determina el nivel de adaptación y personalización necesario
+= Determina el nivel de adaptación y personalización necesario
+> La guía vincula el número de características con el nivel de adaptación y personalización.
+---
+¿Qué idea expresa el Enfoque PM² sobre las metodologías?
+- Las metodologías están para servir a los proyectos y no al revés
+- El proyecto debe ajustarse siempre literalmente a la metodología
+- Las metodologías sustituyen la toma de decisiones
+- Las metodologías sólo sirven para Cierre
+= Las metodologías están para servir a los proyectos y no al revés
+> Es uno de los principios explícitos del Enfoque PM².
+---
+¿Qué orientación promueve el Enfoque PM² en las actividades de proyecto?
+- Una orientación exclusiva a la documentación
+- Una orientación a los resultados
+- Una orientación exclusiva al calendario
+- Una orientación exclusiva al presupuesto
+= Una orientación a los resultados
+> El Enfoque PM² pide orientación a resultados tanto en implementación como en gestión.
+---
+¿Qué cultura promueve el Enfoque PM²?
+- Competencia interna y comunicación mínima
+- Aprobaciones exclusivamente jerárquicas
+- Colaboración, comunicación clara y rendición de cuentas
+- Documentación sin comunicación
+= Colaboración, comunicación clara y rendición de cuentas
+> La guía incluye esa combinación como principio del Enfoque PM².
+---
+¿Qué recomienda el Enfoque PM² sobre la asignación de roles?
+- Asignarlos siempre por antigüedad
+- Asignarlos exclusivamente al PP
+- Mantenerlos fijos aunque no sean adecuados
+- Asignarlos a las personas más adecuadas en beneficio del proyecto
+= Asignarlos a las personas más adecuadas en beneficio del proyecto
+> El enfoque prioriza la adecuación de las personas a los roles para beneficio del proyecto.
+---
+¿Qué práctica de conocimiento forma parte del Enfoque PM²?
+- Compartir conocimientos y gestionar activamente las Lecciones Aprendidas
+- Evitar registrar experiencia hasta Cierre
+- Guardar las lecciones sólo en archivos personales
+- Limitar el conocimiento al CDP
+= Compartir conocimientos y gestionar activamente las Lecciones Aprendidas
+> Compartir conocimiento y gestionar Lecciones Aprendidas es uno de sus principios.
+---
+¿Qué conjunto representa las llamadas “Ps” citadas por el Enfoque PM²?
+- Producto, precio, plazo, proveedor y presupuesto
+- Producto, propósito, proceso, plan, planeta, personas, placer/dolor, participación, percepción y política
+- Personas, procesos, presupuesto, compras y productividad
+- Plan, proyecto, proveedor, producto y política
+= Producto, propósito, proceso, plan, planeta, personas, placer/dolor, participación, percepción y política
+> La guía enumera esas diez dimensiones como las “Ps” a equilibrar.
+---
+¿Qué rol tiene la responsabilidad última sobre la correcta y completa realización de una tarea en RASCI?
+- Responsable (R)
+- Consultado (C)
+- Aprobador (A)
+- Informado (I)
+= Aprobador (A)
+> A es quien tiene la última responsabilidad por la correcta y completa realización de la tarea.
+---
+¿Qué rol RASCI hace el trabajo de la tarea?
+- Aprobador (A)
+- Soporte (S)
+- Informado (I)
+- Responsable (R)
+= Responsable (R)
+> R es la persona que realiza el trabajo de la tarea.
+---
+¿Qué restricción de RASCI se aplica al rol Responsable de una tarea?
+- Sólo debe haber una persona responsable por tarea
+- Debe haber exactamente dos responsables
+- Puede haber tantos responsables como consultados
+- Debe coincidir siempre con el Aprobador
+= Sólo debe haber una persona responsable por tarea
+> La guía especifica una sola persona responsable por tarea.
+---
+¿Qué restricción de RASCI se aplica al Aprobador?
+- Debe haber al menos dos aprobadores
+- Sólo una persona aprueba o rinde cuentas por la tarea
+- Puede no existir aprobador en ninguna tarea
+- Siempre debe ser el Responsable
+= Sólo una persona aprueba o rinde cuentas por la tarea
+> La definición de A limita a una persona la aprobación o accountability de la tarea.
+---
+¿Qué hace el rol Soporte (S) en RASCI?
+- Aprueba el resultado final
+- Sólo recibe información
+- Ayuda a la persona responsable a completar la tarea
+- Sustituye siempre al responsable
+= Ayuda a la persona responsable a completar la tarea
+> S presta ayuda a R para completar la tarea.
+---
+¿Qué caracteriza al rol Consultado (C)?
+- Hace necesariamente parte del trabajo
+- Sólo recibe información unidireccional
+- Tiene siempre la aprobación final
+- Se solicitan sus opiniones y la comunicación es bidireccional
+= Se solicitan sus opiniones y la comunicación es bidireccional
+> C aporta opinión mediante comunicación bidireccional y no necesariamente ejecuta el trabajo.
+---
+¿Qué caracteriza al rol Informado (I)?
+- Se mantiene informado de los progresos
+- Aprueba la tarea
+- Realiza la tarea
+- Proporciona soporte operativo
+= Se mantiene informado de los progresos
+> I recibe información sobre el progreso.
+---
+En el RAM del Caso de Negocio, ¿qué rol RASCI corresponde al Responsable de Negocio (RN)?
+- A
+- R
+- C
+- I
+= R
+> La RAM indicada para el Caso de Negocio asigna R al RN.
+---
+En el RAM del Caso de Negocio, ¿qué rol RASCI corresponde al Propietario del Proyecto (PP)?
+- R
+- S
+- A
+- I
+= A
+> En el Caso de Negocio, PP aparece como A.
+---
+En el RAM del Caso de Negocio, ¿qué rol RASCI corresponde al Director de Proyecto (DP)?
+- R
+- A
+- I
+- C
+= C
+> En la RAM del Caso de Negocio, DP figura como Consultado.
+---
+¿Qué caracteriza a la Fase de Planificación respecto a los artefactos?
+- La mayoría de los artefactos del proyecto se crean durante esta fase
+- Sólo se crea el Informe de Fin de Proyecto
+- No se crean planes durante esta fase
+- Todos los artefactos se crean exclusivamente en Inicio
+= La mayoría de los artefactos del proyecto se crean durante esta fase
+> La guía señala que la mayoría de los artefactos se crean durante Planificación.
+---
+¿Qué tipo de planes define los procesos que se utilizarán, por ejemplo, para Gestión de Riesgos?
+- Planes específicos de dominio
+- Planes de Gestión estándar
+- Registros de incidencias
+- Informes de fin de proyecto
+= Planes de Gestión estándar
+> Los Planes de Gestión estándar definen procesos y PM² proporciona plantillas para ellos.
+---
+¿Qué tipo de planes se crean de acuerdo con las necesidades del proyecto y la experiencia del equipo?
+- Planes de Gestión estándar
+- Artefactos específicos de dominio
+- Planes del Proyecto específicos
+- Puertas de fase
+= Planes del Proyecto específicos
+> Los Planes del Proyecto son específicos y se crean según necesidades y análisis del equipo.
+---
+¿Para qué tipo de artefactos PM² no proporciona plantillas en Planificación?
+- Planes de Gestión
+- Planes del Proyecto
+- Agenda de la Reunión de Inicio de Planificación
+- Artefactos específicos de dominio
+= Artefactos específicos de dominio
+> La guía indica que PM² no proporciona plantillas para artefactos específicos del dominio.
+---
+¿Cuál es uno de los objetivos de la Reunión de Inicio de Planificación?
+- Asegurar que todos entienden el alcance del proyecto
+- Aprobar el cierre administrativo
+- Transferir entregables al PP
+- Emitir el Informe de Fin de Proyecto
+= Asegurar que todos entienden el alcance del proyecto
+> La comprensión común del alcance es uno de sus cuatro objetivos explícitos.
+---
+¿Qué otro objetivo tiene la Reunión de Inicio de Planificación?
+- Liberar todos los recursos del proyecto
+- Aclarar las expectativas de las partes interesadas clave
+- Aprobar la transición final
+- Cerrar el Registro de Riesgos
+= Aclarar las expectativas de las partes interesadas clave
+> La reunión busca aclarar expectativas de las partes interesadas clave.
+---
+¿Qué debe identificarse durante la Reunión de Inicio de Planificación?
+- Sólo las incidencias cerradas
+- Sólo los entregables ya aceptados
+- Los riesgos del proyecto
+- Sólo los costes históricos
+= Los riesgos del proyecto
+> Identificar los riesgos es uno de sus objetivos explícitos.
+---
+¿Qué debe discutirse en la Reunión de Inicio de Planificación?
+- Únicamente el archivo final
+- Sólo el contrato del proveedor
+- Sólo las lecciones de Cierre
+- Los planes del proyecto
+= Los planes del proyecto
+> La discusión de los planes del proyecto forma parte de la reunión.
+---
+¿Qué experiencia previa destaca la guía como especialmente útil al inicio de Planificación?
+- Las Lecciones Aprendidas de proyectos anteriores similares
+- Sólo las previsiones presupuestarias futuras
+- Sólo las auditorías externas
+- Sólo las actas del CDP
+= Las Lecciones Aprendidas de proyectos anteriores similares
+> La guía destaca especialmente las Lecciones Aprendidas de proyectos similares.
+---
+¿Qué dos plantillas proporciona PM² para la Reunión de Inicio de Planificación?
+- Plantilla de Caso de Negocio y Registro de Riesgos
+- Plantilla de Agenda y plantilla de Acta de la Reunión
+- Plantilla de Informe de Fin y Documento de Aceptación
+- Plantilla de RAM y Registro de Decisiones
+= Plantilla de Agenda y plantilla de Acta de la Reunión
+> La guía menciona plantillas para la Agenda y el Acta de la Reunión.
+---
+¿Cuándo comienza la Fase de Planificación?
+- Con la aceptación final
+- Con la LpC
+- Con la Reunión de Inicio de la Planificación
+- Con el Informe de Fin de Proyecto
+= Con la Reunión de Inicio de la Planificación
+> La Fase de Planificación comienza con esa reunión oficial.
+---
+¿Cuándo termina la Fase de Planificación?
+- Cuando se aprueba la Solicitud de Inicio
+- Cuando se archiva el proyecto
+- Cuando se crea el primer entregable
+- Cuando los planes se han desarrollado y marcado sus líneas de base y se ha establecido un enfoque adecuado de gestión e implementación
+= Cuando los planes se han desarrollado y marcado sus líneas de base y se ha establecido un enfoque adecuado de gestión e implementación
+> Ese conjunto de condiciones marca el final de Planificación.
+---
+¿Qué documento del Plan de Trabajo organiza el trabajo y los entregables?
+- La Estructura de Desglose del Trabajo (WBS)
+- El Registro de Decisiones
+- El Documento de Aceptación
+- La Lista de Control de Stakeholders
+= La Estructura de Desglose del Trabajo (WBS)
+> El Plan de Trabajo incluye una WBS para estructurar el trabajo y entregables.
+---
+¿Cuáles son los tres elementos del Plan de Trabajo del Proyecto?
+- Caso de Negocio, Charter y Manual
+- WBS, estimaciones de recursos/costes y cronograma
+- Riesgos, incidencias y decisiones
+- Agenda, acta y checklist
+= WBS, estimaciones de recursos/costes y cronograma
+> La guía identifica esos tres componentes del Plan de Trabajo.
+---
+¿Qué sucede con el Plan de Trabajo a lo largo del proyecto?
+- Se congela al terminar Inicio
+- Sólo se modifica en Cierre
+- Se actualiza durante el proyecto
+- Se elimina después de LpE
+= Se actualiza durante el proyecto
+> El Plan de Trabajo es un artefacto vivo que se actualiza durante el proyecto.
+---
+¿Qué información básica contiene la Matriz de Partes Interesadas?
+- Sólo costes y fechas
+- Sólo riesgos técnicos
+- Sólo entregables aceptados
+- Partes interesadas clave, datos de contacto y roles
+= Partes interesadas clave, datos de contacto y roles
+> La Matriz lista stakeholders clave, contactos y roles, y puede incluir clasificación.
+---
+¿Qué grupos aparecen en la plantilla PM² de Matriz de Partes Interesadas?
+- Equipos, Roles, Apoyo, Roles Operativos y Otros específicos del dominio
+- Riesgos, Costes, Calidad, Compras y Auditoría
+- Inicio, Planificación, Ejecución, Cierre y Archivo
+- Producto, Precio, Personas, Planeta y Política
+= Equipos, Roles, Apoyo, Roles Operativos y Otros específicos del dominio
+> Son los grupos indicados en la plantilla de la guía.
+---
+¿Qué define el Acta de Constitución respecto del alcance temporal y económico?
+- Sólo el detalle técnico de cada requisito
+- Alcance, tiempo y coste a alto nivel
+- Sólo las horas reales consumidas
+- Sólo el cierre administrativo
+= Alcance, tiempo y coste a alto nivel
+> El Charter define, entre otras materias, alcance, tiempo y coste a alto nivel.
+---
+¿Qué debe contener el Acta de Constitución respecto de los requisitos?
+- Todos los requisitos detallados de implementación
+- Sólo requisitos ya aceptados
+- Requisitos de alto nivel
+- Únicamente requisitos financieros
+= Requisitos de alto nivel
+> La guía sitúa los requisitos de alto nivel en el Charter; el detalle se desarrolla en otros artefactos.
+---
+¿Qué recomienda la guía respecto a los requisitos detallados del Acta de Constitución?
+- Eliminar todos los requisitos
+- Copiar todos los requisitos técnicos completos
+- Trasladarlos exclusivamente al Informe de Fin
+- Evitar incluirlos en detalle y tratarlos en otros artefactos o anexos
+= Evitar incluirlos en detalle y tratarlos en otros artefactos o anexos
+> Las directrices del Charter recomiendan mantenerlo breve y evitar requisitos detallados.
+---
+¿Quién es finalmente responsable de la finalización y presentación del Acta de Constitución?
+- El Director de Proyecto (DP)
+- El Equipo Central del Proyecto (ECP)
+- La Oficina de Soporte a Proyectos (OSP)
+- El Consultado principal
+= El Director de Proyecto (DP)
+> La guía atribuye al DP la responsabilidad última de completar y presentar el Charter.
+---
+¿Quién puede presentar una Solicitud de Inicio de Proyecto?
+- Sólo el DP
+- Cualquier persona
+- Sólo el PP
+- Sólo el OGP
+= Cualquier persona
+> La guía indica que la Solicitud de Inicio puede ser presentada por cualquiera.
+---
+¿Qué tipo de información contiene inicialmente la Solicitud de Inicio?
+- El detalle completo de todos los requisitos técnicos
+- El archivo administrativo final
+- Información de alto nivel sobre esfuerzo/coste, plazo, impacto y éxito, entre otros
+- La aceptación definitiva de entregables
+= Información de alto nivel sobre esfuerzo/coste, plazo, impacto y éxito, entre otros
+> La Solicitud de Inicio contiene inicialmente información de alto nivel.
+---
+¿Qué puede describir la Solicitud de Inicio sobre el resultado esperado?
+- Sólo nombres de proveedores
+- Sólo fechas de reuniones
+- Sólo roles RASCI
+- Criterios de éxito
+= Criterios de éxito
+> Los criterios de éxito forman parte de la información inicial de la Solicitud.
+---
+¿Qué propósito principal tiene el Caso de Negocio?
+- Justificar la inversión y apoyar la alineación estratégica
+- Cerrar administrativamente el proyecto
+- Asignar el RASCI de cada reunión
+- Aceptar entregables
+= Justificar la inversión y apoyar la alineación estratégica
+> El Caso de Negocio justifica la inversión y muestra alineación estratégica.
+---
+¿Cómo se considera el Caso de Negocio durante el proyecto?
+- Como un documento inmutable después de Inicio
+- Como un documento vivo que se reexamina en hitos críticos
+- Como un registro exclusivo de incidencias
+- Como un entregable que se elimina tras LpP
+= Como un documento vivo que se reexamina en hitos críticos
+> La guía describe el Caso de Negocio como documento vivo y sujeto a reexamen.
+---
+¿Qué recomienda la guía al evaluar soluciones en el Caso de Negocio?
+- Considerar una única solución sin comparación
+- No formular ninguna recomendación
+- Considerar varias soluciones y recomendar una
+- Elegir siempre la solución de menor coste
+= Considerar varias soluciones y recomendar una
+> Una directriz del Caso de Negocio es considerar varias soluciones y recomendar una.
+---
+¿Qué deben ser los criterios de éxito del Caso de Negocio?
+- Exclusivamente cualitativos
+- Secretos para los stakeholders
+- Limitados a Cierre
+- Medibles
+= Medibles
+> La guía recomienda criterios de éxito medibles.
+---
+¿Qué fase comienza después de que se aprueban las condiciones de LpP?
+- Planificación
+- Ejecución
+- Cierre
+- Seguimiento y Control como fase independiente
+= Planificación
+> LpP significa Listo para Planificación y habilita el paso a Planificación.
+---
+En LpP, ¿qué evalúa el Director de Proyecto?
+- La aceptación final de todos los entregables
+- La preparación para entrar en Planificación
+- La liberación de todos los recursos
+- El archivo administrativo final
+= La preparación para entrar en Planificación
+> En LpP el DP evalúa la preparación para Planificación y solicita las aprobaciones correspondientes.
+---
+En LpP, ¿qué aprobación se busca respecto al Caso de Negocio y al Acta de Constitución?
+- La aprobación exclusiva del ECP
+- La aprobación del solicitante sin CDP
+- La aprobación del Comité de Dirección del Proyecto (CDP)
+- La aprobación automática del OSP
+= La aprobación del Comité de Dirección del Proyecto (CDP)
+> La puerta LpP requiere la aprobación del CDP del Caso de Negocio y del Charter.
+---
+¿Qué ocurre si en LpP no se aprueba el Caso de Negocio o el Acta de Constitución?
+- Pasa automáticamente a Ejecución
+- Se mantiene indefinidamente en Inicio
+- Se elimina el proyecto sin Cierre
+- El proyecto pasa directamente a Cierre para Lecciones Aprendidas y archivo
+= El proyecto pasa directamente a Cierre para Lecciones Aprendidas y archivo
+> La guía indica que la no aprobación de cualquiera de los dos lleva directamente a Cierre.
+---
+¿Qué plantilla proporciona PM² para LpP?
+- Una Lista de Control de Puerta de Fase
+- Un Documento de Aceptación
+- Un Plan de Gestión de Compras
+- Un Informe de Fin de Proyecto
+= Una Lista de Control de Puerta de Fase
+> PM² proporciona una plantilla de checklist de puerta para cada fase.
+---
+En LpE, ¿qué hace el Director de Proyecto antes de solicitar aprobación?
+- Acepta definitivamente los entregables
+- Evalúa si se han alcanzado los objetivos de Planificación
+- Archiva toda la documentación
+- Libera todos los recursos
+= Evalúa si se han alcanzado los objetivos de Planificación
+> En LpE el DP evalúa los objetivos de la Fase de Planificación.
+---
+¿Qué aprobación solicita el DP en LpE para pasar a Ejecución?
+- La aprobación del ECP
+- La aprobación del OSP únicamente
+- La aprobación del Comité de Dirección del Proyecto (CDP)
+- La aprobación del solicitante sin CDP
+= La aprobación del Comité de Dirección del Proyecto (CDP)
+> El DP solicita al CDP la aprobación para pasar a Ejecución.
+---
+¿Cuándo se requiere aprobación adicional del OGP en LpE?
+- Cuando se actualiza cualquier documento menor
+- Siempre que se celebre una reunión
+- Sólo después de la aceptación final
+- Cuando hay desviaciones importantes del Caso de Negocio y/o Acta de Constitución aprobados
+= Cuando hay desviaciones importantes del Caso de Negocio y/o Acta de Constitución aprobados
+> La guía reserva la aprobación adicional del OGP para desviaciones importantes.
+---
+¿Qué debe verificar el DP en LpC respecto de los requisitos?
+- Que se han cumplido todos los requisitos
+- Que se han eliminado todos los requisitos
+- Que sólo se han documentado requisitos futuros
+- Que los requisitos han sido sustituidos por riesgos
+= Que se han cumplido todos los requisitos
+> LpC incluye la verificación de que se han cumplido los requisitos.
+---
+¿Qué debe asegurar el DP en LpC respecto de la aceptación?
+- Que el OGP acepte cada entregable sin PP
+- Que el PP acepte los entregables al menos provisionalmente
+- Que el ECP acepte sus propios entregables
+- Que no exista ninguna aceptación
+= Que el PP acepte los entregables al menos provisionalmente
+> La LpC exige que el PP haya aceptado los entregables al menos provisionalmente.
+---
+¿Qué transición debe estar finalizada antes de LpC?
+- La transición de Inicio a Planificación
+- La transición del proyecto a una nueva Solicitud de Inicio
+- La transición del proyecto al negocio/uso previsto
+- La transición de RASCI a WBS
+= La transición del proyecto al negocio/uso previsto
+> La puerta LpC exige finalizar la transición.
+---
+¿Qué debe ocurrir con los entregables antes de que CDP autorice pasar a Cierre?
+- Deben mantenerse exclusivamente en el repositorio del ECP
+- Deben convertirse en riesgos
+- Deben ser eliminados del proyecto
+- Deben estar disponibles para los usuarios finales
+= Deben estar disponibles para los usuarios finales
+> La guía incluye la disponibilidad para usuarios finales entre las condiciones de LpC.
+---
+¿Qué decisión puede tomar el CDP una vez cumplidas las condiciones de LpC?
+- Autorizar al DP a pasar a la Fase de Cierre
+- Cancelar automáticamente el proyecto
+- Reabrir obligatoriamente la Solicitud de Inicio
+- Transferir la gobernanza al ECP
+= Autorizar al DP a pasar a la Fase de Cierre
+> El CDP puede autorizar el paso a Cierre una vez cumplidas las condiciones.
+---
+¿Con qué reunión comienza la Fase de Ejecución?
+- Reunión de Revisión de Fin de Proyecto
+- Reunión de Inicio de Ejecución
+- Reunión de LpP
+- Reunión de Cierre Administrativo
+= Reunión de Inicio de Ejecución
+> La Ejecución comienza con la Reunión de Inicio de Ejecución.
+---
+¿Con qué termina la Fase de Ejecución?
+- Con la aprobación de la Solicitud de Inicio
+- Con la primera actualización del cronograma
+- Con la aceptación definitiva o provisional por parte del solicitante, según el Plan de Aceptación de Entregables
+- Con la creación del Charter
+= Con la aceptación definitiva o provisional por parte del solicitante, según el Plan de Aceptación de Entregables
+> La guía fija la aceptación del solicitante como final de Ejecución.
+---
+¿Quién organiza la Reunión de Inicio de Ejecución?
+- El ECP colectivamente
+- El OGP
+- El PP exclusivamente
+- El Director de Proyecto (DP)
+= El Director de Proyecto (DP)
+> La tabla de participantes de la reunión asigna su organización al DP.
+---
+¿Quiénes son participantes requeridos en la Reunión de Inicio de Ejecución?
+- El Equipo Central del Proyecto (ECP)
+- Sólo el OGP
+- Sólo el CDP
+- Sólo la OSP
+= El Equipo Central del Proyecto (ECP)
+> El ECP figura como participante requerido.
+---
+¿Qué roles tienen asistencia requerida si forman parte del proyecto en la Reunión de Inicio de Ejecución?
+- OGP y CDP
+- ADP y OSP
+- PP y RN únicamente
+- Sólo stakeholders externos
+= ADP y OSP
+> La tabla indica asistencia requerida de ADP y OSP si forman parte del proyecto.
+---
+¿Qué participantes pueden asistir opcionalmente a la Reunión de Inicio de Ejecución?
+- Sólo el ECP
+- Sólo el DP
+- Otros roles o partes interesadas, si lo necesita el proyecto
+- Únicamente el OGP
+= Otros roles o partes interesadas, si lo necesita el proyecto
+> La participación de otros roles/stakeholders es opcional según necesidades.
+---
+¿Cuál de estas es una entrada de la Reunión de Inicio de Ejecución?
+- El Informe de Fin de Proyecto
+- El Documento de Aceptación final
+- La Lista de Lecciones Aprendidas de Cierre
+- El Manual del Proyecto
+= El Manual del Proyecto
+> Las entradas incluyen Caso de Negocio, Charter, Manual y Plan de Trabajo.
+---
+¿Cuál es otra entrada de la Reunión de Inicio de Ejecución?
+- El Plan de Trabajo del Proyecto
+- El Informe de Fin de Proyecto
+- El Acta de Revisión de Fin de Proyecto
+- La aceptación definitiva
+= El Plan de Trabajo del Proyecto
+> El Plan de Trabajo figura expresamente entre las entradas.
+---
+¿Qué objetivo tiene la Reunión de Inicio de Ejecución?
+- Cerrar el proyecto administrativamente
+- Asegurar que todo el Equipo de Proyecto conoce los elementos clave y las reglas del proyecto
+- Aprobar el Caso de Negocio por primera vez
+- Eliminar el RASCI
+= Asegurar que todo el Equipo de Proyecto conoce los elementos clave y las reglas del proyecto
+> La reunión asegura el conocimiento común de elementos clave y reglas.
+---
+¿Qué actividad de Ejecución produce los resultados previstos del proyecto?
+- La creación de la Solicitud de Inicio
+- La aprobación de la cartera
+- La generación de los entregables del proyecto
+- La definición inicial de gobernanza
+= La generación de los entregables del proyecto
+> Durante Ejecución se generan los entregables del proyecto.
+---
+¿Qué preparación de la organización solicitante acompaña a la generación de entregables?
+- Preparación exclusiva para una auditoría externa
+- Preparación para eliminar el proyecto
+- Preparación para reescribir el Caso de Negocio
+- Preparación para su adopción
+= Preparación para su adopción
+> La guía vincula Ejecución con la preparación de la organización para adoptar los resultados.
+---
+¿Quién tiene la responsabilidad última de la ejecución eficaz de los procesos de gestión?
+- El Director de Proyecto (DP)
+- El ECP
+- El PP
+- La OSP
+= El Director de Proyecto (DP)
+> La guía atribuye al DP la responsabilidad última sobre la ejecución eficaz de los procesos de gestión.
+---
+¿En qué fase es más intensa la actividad de Seguimiento y Control?
+- En Inicio exclusivamente
+- En la Fase de Ejecución
+- En Cierre exclusivamente
+- En la Solicitud de Inicio
+= En la Fase de Ejecución
+> Aunque ocurre en todas las fases, la guía señala mayor intensidad durante Ejecución.
+---
+¿Qué es una incidencia en PM²?
+- Un entregable aprobado
+- Un requisito de alto nivel
+- Un evento no planificado relacionado con el proyecto que requiere acción de gestión
+- Una puerta de fase
+= Un evento no planificado relacionado con el proyecto que requiere acción de gestión
+> La definición de incidencia es un evento no planificado que requiere gestión.
+---
+¿Qué es un requisito según la guía?
+- Una actividad que siempre pertenece al cronograma
+- Una aprobación del CDP
+- Un riesgo aceptado
+- Una capacidad que un producto o servicio debe tener para satisfacer una o más necesidades de las partes interesadas
+= Una capacidad que un producto o servicio debe tener para satisfacer una o más necesidades de las partes interesadas
+> La guía define requisito como una capacidad necesaria para satisfacer necesidades de stakeholders.
+---
+¿Dónde suelen aparecer inicialmente los requisitos de alto nivel?
+- En la Solicitud de Inicio, el Caso de Negocio y el Acta de Constitución
+- Sólo en el Informe de Fin de Proyecto
+- Sólo en el Registro de Incidencias
+- Sólo en el Acta de Revisión de Fin
+= En la Solicitud de Inicio, el Caso de Negocio y el Acta de Constitución
+> La guía sitúa los requisitos de alto nivel en esos artefactos de Inicio.
+---
+¿Qué ocurre al pasar de requisitos de alto nivel a mayor detalle?
+- Los requisitos dejan de existir
+- Se generan requisitos de nivel inferior y pueden utilizarse distintos formatos
+- Todos se convierten automáticamente en riesgos
+- Sólo pueden permanecer en el Charter
+= Se generan requisitos de nivel inferior y pueden utilizarse distintos formatos
+> La guía indica que mayor detalle produce requisitos de nivel inferior y formatos diversos.
+---
+¿Qué significa tolerancia al riesgo?
+- La probabilidad máxima de un riesgo técnico
+- El coste de una respuesta al riesgo
+- La cantidad de riesgo que las partes interesadas están dispuestas a aceptar
+- El número de riesgos que debe registrar el DP
+= La cantidad de riesgo que las partes interesadas están dispuestas a aceptar
+> La guía define la tolerancia como la cantidad de riesgo que stakeholders aceptan.
+---
+¿Cuál es una estrategia de respuesta a amenazas?
+- Explotar
+- Mejorar
+- Compartir exclusivamente
+- Evitar
+= Evitar
+> Para amenazas, PM² enumera evitar, transferir/compartir, reducir y aceptar.
+---
+¿Cuál es una estrategia de respuesta a oportunidades?
+- Explotar
+- Evitar
+- Transferir exclusivamente
+- Reducir
+= Explotar
+> Para oportunidades, PM² enumera explotar, mejorar, compartir y aceptar.
+---
+¿Dónde pueden incorporarse acciones significativas de respuesta a riesgos?
+- Sólo en la Solicitud de Inicio
+- En el Plan de Trabajo del Proyecto
+- Sólo en el Informe de Fin
+- Sólo en el Acta de Revisión
+= En el Plan de Trabajo del Proyecto
+> La guía indica que acciones significativas pueden incorporarse al Plan de Trabajo.
+---
+¿Cuál es la finalidad formal de las Lecciones Aprendidas?
+- Sustituir el Caso de Negocio
+- Evitar toda auditoría
+- Permitir que los equipos y la organización utilicen la experiencia adquirida
+- Eliminar el control del proyecto
+= Permitir que los equipos y la organización utilicen la experiencia adquirida
+> Esa es la finalidad formal indicada para las Lecciones Aprendidas.
+---
+¿Qué recomienda la guía sobre la persona que facilita la recopilación de Lecciones Aprendidas?
+- Que sea siempre el proveedor
+- Que sea necesariamente el PP
+- Que sea exclusivamente el auditor externo
+- Preferiblemente que no esté personalmente involucrada en el proyecto
+= Preferiblemente que no esté personalmente involucrada en el proyecto
+> La guía recomienda preferentemente un facilitador no involucrado personalmente.
+---
+¿A quién debería invitarse para transferir Lecciones Aprendidas a otros proyectos?
+- Al Comité de Dirección del Proyecto (CDP)
+- Sólo al ECP
+- Sólo al proveedor
+- Sólo a los usuarios finales
+= Al Comité de Dirección del Proyecto (CDP)
+> La guía indica que el CDP debería ser invitado para facilitar la transferencia.
+---
+¿Qué recoge el Informe de Fin de Proyecto además de progreso y lecciones?
+- Sólo el presupuesto inicial
+- Mejores prácticas, dificultades y soluciones
+- Sólo la Matriz de Stakeholders
+- Sólo el RASCI de Inicio
+= Mejores prácticas, dificultades y soluciones
+> El informe resume mejores prácticas, lecciones, dificultades y soluciones.
+---
+¿Qué valor tiene el Informe de Fin de Proyecto para proyectos futuros?
+- Sustituye al Caso de Negocio futuro
+- Elimina la necesidad de planificación
+- Sirve de base de conocimiento
+- Es únicamente un documento de archivo sin uso posterior
+= Sirve de base de conocimiento
+> La guía lo presenta como base de conocimiento para proyectos futuros.
+---
+¿Qué ocurre administrativamente durante la Fase de Cierre?
+- Se inicia la planificación del proyecto siguiente
+- Se elimina toda la documentación
+- Se reabre automáticamente el Charter
+- El proyecto se cierra administrativamente y se archiva su documentación
+= El proyecto se cierra administrativamente y se archiva su documentación
+> Cierre incluye el cierre administrativo y el archivo de la documentación.
+---
+¿Qué debe asegurar el DP en Cierre respecto de los entregables?
+- Que todos los entregables producidos han sido aceptados
+- Que ningún entregable haya sido usado
+- Que todos se conviertan en requisitos
+- Que sólo el ECP los acepte
+= Que todos los entregables producidos han sido aceptados
+> El DP se asegura de que todos los entregables producidos han sido aceptados.
+---
+¿Qué debe hacer el DP con la documentación en Cierre?
+- Eliminarla al terminar la fase
+- Asegurar que está completa y correctamente archivada
+- Trasladarla exclusivamente al OGP
+- Mantenerla sin archivo formal
+= Asegurar que está completa y correctamente archivada
+> La guía exige documentación completa y correctamente archivada.
+---
+¿Qué ocurre con los recursos usados por el proyecto en Cierre?
+- Se asignan automáticamente al siguiente proyecto
+- Se mantienen bloqueados indefinidamente
+- Se liberan formalmente
+- Se transfieren al OGP
+= Se liberan formalmente
+> La liberación formal de recursos es una actividad de Cierre.
+---
+¿Qué actividad de Cierre implica debatir la experiencia global?
+- Rehacer el Caso de Negocio
+- Reasignar el RASCI de Inicio
+- Crear una nueva Solicitud de Inicio
+- Debatirla con el equipo del proyecto y tratar las Lecciones Aprendidas
+= Debatirla con el equipo del proyecto y tratar las Lecciones Aprendidas
+> El debate de la experiencia global y Lecciones Aprendidas forma parte de Cierre.
+---
+¿Qué debe documentarse para proyectos futuros durante Cierre?
+- Lecciones Aprendidas y mejores prácticas
+- Sólo las incidencias abiertas
+- Sólo el presupuesto original
+- Sólo las aprobaciones de Inicio
+= Lecciones Aprendidas y mejores prácticas
+> La guía incluye documentar Lecciones Aprendidas y mejores prácticas.
+---
+¿Con qué comienza la Fase de Cierre según su descripción detallada?
+- Con la Reunión de Inicio de Planificación
+- Con la Reunión de Revisión de Fin de Proyecto
+- Con LpP
+- Con la Solicitud de Inicio
+= Con la Reunión de Revisión de Fin de Proyecto
+> La descripción de Cierre indica que comienza con esa reunión oficial.
+---
+¿Con qué termina la Fase de Cierre?
+- Con la aprobación del ECP
+- Con la aprobación del proveedor
+- Con la aprobación final del Propietario del Proyecto (PP)
+- Con LpE
+= Con la aprobación final del Propietario del Proyecto (PP)
+> La fase termina con la aprobación final del PP y el cierre administrativo.
+---
+¿Qué se transfiere oficialmente al PP durante Cierre?
+- Los riesgos no tratados
+- La Solicitud de Inicio
+- La Matriz RASCI como único resultado
+- Los entregables terminados
+= Los entregables terminados
+> Los entregables terminados se transfieren oficialmente al PP.
+---
+¿Qué artefacto sirve para registrar decisiones del proyecto?
+- Registro de Decisiones
+- Registro de Riesgos
+- Matriz de Partes Interesadas
+- Plan de Aceptación
+= Registro de Decisiones
+> El Registro de Decisiones documenta las decisiones del proyecto.
+---
+¿Qué artefacto sirve para registrar incidencias?
+- Registro de Decisiones
+- Registro de Incidencias
+- Acta de Constitución
+- Informe de Fin
+= Registro de Incidencias
+> Las incidencias se gestionan y registran mediante el Registro de Incidencias.
+---
+¿Qué artefacto se actualiza como salida de la Gestión de Partes Interesadas?
+- Caso de Negocio únicamente
+- Informe de Fin exclusivamente
+- Matriz de Partes Interesadas
+- WBS únicamente
+= Matriz de Partes Interesadas
+> La Gestión de Partes Interesadas produce una Matriz actualizada, entre otras salidas.
+---
+¿Qué otros registros pueden actualizarse como salida de la Gestión de Partes Interesadas?
+- Sólo el cronograma
+- Sólo el Caso de Negocio
+- Sólo el Manual
+- Registros de Incidencias y Decisiones
+= Registros de Incidencias y Decisiones
+> La guía incluye ambos registros entre las salidas actualizadas.
+---
+¿Qué lista específica se menciona como salida de la Gestión de Partes Interesadas?
+- Lista de Control de Partes Interesadas
+- Lista de Control de Puerta de Fase únicamente
+- Lista de Riesgos Críticos
+- Lista de Recursos Liberados
+= Lista de Control de Partes Interesadas
+> La Gestión de Partes Interesadas incluye una lista de control específica.
+---
+¿Qué salida de la Gestión de Partes Interesadas tiene plantilla PM² junto con la Matriz?
+- El Documento de Aceptación
+- La Lista de Control de Partes Interesadas
+- El Registro de Costes
+- El Informe de Auditoría
+= La Lista de Control de Partes Interesadas
+> La guía indica plantilla para la Stakeholder Checklist y la Matriz actualizada.
+---
+¿Quién gestiona la aceptación de entregables?
+- El OGP
+- El ECP por sí solo
+- El Director de Proyecto (DP)
+- El proveedor exclusivamente
+= El Director de Proyecto (DP)
+> El DP gestiona el proceso de aceptación.
+---
+¿Qué rol apoya los controles de aceptación mediante aseguramiento de la calidad?
+- El OGP
+- El Registro de Decisiones
+- La WBS
+- Aseguramiento de la Calidad (QA)
+= Aseguramiento de la Calidad (QA)
+> QA apoya los controles de aceptación según la guía.
+---
+¿Qué rol proporciona la estrategia en materia de aceptación?
+- El Comité de Dirección del Proyecto (CDP)
+- El ECP
+- La OSP
+- El proveedor
+= El Comité de Dirección del Proyecto (CDP)
+> El CDP proporciona la estrategia de aceptación.
+---
+¿Quién da la aceptación final de los entregables?
+- El Director de Proyecto
+- El Propietario del Proyecto (PP)
+- El Equipo Central
+- El OGP
+= El Propietario del Proyecto (PP)
+> La guía asigna al PP la aceptación final.
+---
+¿Qué documento de aceptación sí tiene plantilla PM²?
+- Documento de Aceptación
+- Informe de Auditoría externa
+- Lista de Control de Aceptación
+- Contrato del proveedor
+= Lista de Control de Aceptación
+> PM² proporciona plantilla para la Acceptance Checklist, no para el Document of Acceptance.
+---
+¿Qué documento relacionado con aceptación no tiene plantilla PM²?
+- Lista de Control de Aceptación
+- Registro de Decisiones
+- Plan de Aceptación de Entregables
+- Documento de Aceptación
+= Documento de Aceptación
+> La guía distingue el Documento de Aceptación de la plantilla de checklist y señala que no proporciona plantilla para aquel.
+---
+¿Qué debe comunicar la Distribución de Información sobre el Plan de Trabajo?
+- Las actualizaciones del Plan de Trabajo a las partes interesadas
+- Sólo la versión inicial
+- Sólo las desviaciones cerradas
+- Nada hasta Cierre
+= Las actualizaciones del Plan de Trabajo a las partes interesadas
+> La distribución de información incluye informar de las actualizaciones del Plan de Trabajo.
+---
+¿Qué debe hacerse con los cambios de documentos y registros clave?
+- Mantenerlos sin comunicar hasta Cierre
+- Comunicarlos a las partes interesadas
+- Comunicarlos sólo al ECP
+- Eliminar el registro anterior siempre
+= Comunicarlos a las partes interesadas
+> La guía incluye comunicar cambios o actualizaciones de documentos y registros clave.
+---
+¿Cómo deben enviarse los informes del proyecto?
+- Sólo cuando lo solicite un usuario final
+- Sólo una vez al año
+- Según el Plan de Gestión de las Comunicaciones
+- Exclusivamente en Cierre
+= Según el Plan de Gestión de las Comunicaciones
+> La distribución de información se ejecuta según el Plan de Gestión de las Comunicaciones.
+---
+¿Qué principio de distribución de información aparece en la guía?
+- Comunicar todo siempre con el mismo formato
+- Retrasar información hasta tener certeza absoluta
+- Comunicar sólo a quienes aprueban
+- Comunicar la información relevante de forma oportuna y en un formato adecuado
+= Comunicar la información relevante de forma oportuna y en un formato adecuado
+> La guía exige oportunidad y formato apropiado para la información relevante.
+---
+¿Con qué frecuencia deben celebrarse las reuniones según la gestión de información?
+- Con una frecuencia suficiente para las necesidades del proyecto
+- Siempre diariamente
+- Sólo una vez por fase
+- Sólo cuando haya incidencias
+= Con una frecuencia suficiente para las necesidades del proyecto
+> La guía señala que las reuniones deben ser suficientemente frecuentes.
+---
+¿Qué debe enviarse periódicamente además de la información de reuniones?
+- Sólo contratos
+- Informes de estado/progreso
+- Sólo requisitos técnicos
+- Sólo registros de auditoría
+= Informes de estado/progreso
+> La distribución de información incluye el envío periódico de informes de estado/progreso.
+---
+¿Qué hace el Adjunto al Director de Proyecto (ADP) en términos generales dentro de la organización del proyecto?
+- Sustituye siempre al PP
+- Es el único aprobador del proyecto
+- Apoya al Director de Proyecto en sus responsabilidades
+- Es siempre el usuario final
+= Apoya al Director de Proyecto en sus responsabilidades
+> El ADP es un rol de apoyo al DP; no sustituye automáticamente al PP ni al CDP.
+---
+¿Qué representa OSP en PM²?
+- Oficina de Seguridad del Proyecto
+- Órgano Superior de Planificación
+- Oficina de Supervisión del Producto
+- Oficina de Soporte a Proyectos
+= Oficina de Soporte a Proyectos
+> OSP es la abreviatura usada para la Oficina de Soporte a Proyectos.
+---
+¿Qué representa ECP?
+- Equipo Central del Proyecto
+- Equipo de Control de Planificación
+- Equipo de Calidad de Producto
+- Equipo de Cierre de Proyecto
+= Equipo Central del Proyecto
+> ECP corresponde al Equipo Central del Proyecto.
+---
+¿Qué representa CDP?
+- Comité de Desarrollo del Producto
+- Comité de Dirección del Proyecto
+- Centro de Documentación del Proyecto
+- Comité de Datos del Programa
+= Comité de Dirección del Proyecto
+> CDP es el Comité de Dirección del Proyecto.
+---
+¿Qué representa OGP?
+- Oficina de Gestión de Proyectos
+- Organización General del Programa
+- Órgano de Gobernanza Pertinente
+- Órgano de Gestión de Producto
+= Órgano de Gobernanza Pertinente
+> OGP es el Órgano de Gobernanza Pertinente.
+---
+¿Qué representa RN?
+- Responsable de Normativa
+- Rol de Negociación
+- Registro de Necesidades
+- Responsable de Negocio
+= Responsable de Negocio
+> RN corresponde al Responsable de Negocio.
+---
+¿Qué representa PS?
+- Proveedor de Soluciones
+- Plan de Seguimiento
+- Propietario de Seguridad
+- Proveedor de Soporte
+= Proveedor de Soluciones
+> PS es la abreviatura usada para Proveedor de Soluciones.
+---
+¿Qué representa GIN?
+- Grupo de Incidencias
+- Grupo de Implementación en el Negocio
+- Gestión Interna de Negocio
+- Grupo de Ingeniería de Necesidades
+= Grupo de Implementación en el Negocio
+> GIN corresponde al Grupo de Implementación en el Negocio.
+---
+¿Qué documento se utiliza como base para describir roles y responsabilidades en el proyecto?
+- Informe de Fin de Proyecto
+- Solicitud de Inicio
+- Manual del Proyecto
+- Registro de Incidencias
+= Manual del Proyecto
+> El Manual del Proyecto documenta roles y responsabilidades.
+---
+¿Qué documento presenta el enfoque de gestión del proyecto?
+- Matriz de Partes Interesadas
+- Registro de Riesgos
+- Documento de Aceptación
+- Manual del Proyecto
+= Manual del Proyecto
+> El Manual presenta el enfoque de gestión.
+---
+¿Qué tipo de artefacto es la WBS dentro del Plan de Trabajo?
+- Un desglose estructurado del trabajo a realizar
+- Un registro de decisiones
+- Una aprobación de fase
+- Un documento de aceptación
+= Un desglose estructurado del trabajo a realizar
+> La WBS estructura el trabajo y los entregables del proyecto.
+---
+¿Qué elemento del Plan de Trabajo representa la dimensión temporal?
+- La WBS
+- El cronograma
+- El Registro de Incidencias
+- La Matriz de Stakeholders
+= El cronograma
+> El cronograma es uno de los tres elementos del Plan de Trabajo.
+---
+¿Qué elemento del Plan de Trabajo recoge las estimaciones económicas y de esfuerzo?
+- La WBS
+- La Lista de Control de Fase
+- Estimaciones de recursos y costes
+- El Acta de Revisión
+= Estimaciones de recursos y costes
+> El Plan de Trabajo incluye estimaciones de recursos y costes.
+---
+¿Qué función tiene una línea de base en Planificación?
+- Eliminar la necesidad de seguimiento
+- Cerrar el proyecto
+- Sustituir el Caso de Negocio
+- Fijar una referencia aprobada para el seguimiento posterior
+= Fijar una referencia aprobada para el seguimiento posterior
+> Las líneas de base establecidas en Planificación sirven como referencia para el seguimiento y control.
+---
+¿Qué documento contiene los objetivos de dirección del proyecto?
+- Manual del Proyecto
+- Solicitud de Inicio
+- Registro de Riesgos
+- Informe de Fin
+= Manual del Proyecto
+> La descripción de entradas/salidas clave asigna esos objetivos al Manual.
+---
+¿Qué documento contiene la justificación del proyecto?
+- Matriz RASCI
+- Caso de Negocio
+- Plan de Trabajo
+- Lista de Control de Aceptación
+= Caso de Negocio
+> La justificación forma parte del Caso de Negocio.

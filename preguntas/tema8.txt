@@ -1,0 +1,400 @@
+¿Con qué evento comienza formalmente la Fase de Cierre de un proyecto PM²?
+- Con la firma del cierre administrativo.
+- Con la Reunión de Revisión de Fin de Proyecto.
+- Con la liberación de los recursos del equipo.
+- Con la actualización del Caso de Negocio.
+=Con la Reunión de Revisión de Fin de Proyecto.
+>La Fase de Cierre comienza con la Reunión de Revisión de Fin de Proyecto y termina con la aprobación final del Propietario del Proyecto (PP).
+---
+¿Qué marca el final de la Fase de Cierre en un proyecto PM²?
+- La entrega del código fuente.
+- La aprobación final del Propietario del Proyecto (PP), que marca el cierre administrativo.
+- La publicación del acta de la reunión de inicio.
+- La disolución de la Oficina de Soporte a Proyectos.
+=La aprobación final del Propietario del Proyecto (PP), que marca el cierre administrativo.
+>La fase termina con la aprobación final del Propietario del Proyecto (PP), lo cual consolida el cierre administrativo del proyecto.
+---
+¿Qué sucede con los entregables terminados durante la Fase de Cierre?
+- Son destruidos por motivos de confidencialidad.
+- Se transfieren de nuevo al Proveedor de Soluciones.
+- Se transfieren oficialmente a la atención, custodia y control del Propietario del Proyecto (PP).
+- Quedan bajo la propiedad exclusiva del Director de Proyecto (DP).
+=Se transfieren oficialmente a la atención, custodia y control del Propietario del Proyecto (PP).
+>Durante la Fase de Cierre, se completan las actividades y los entregables se transfieren a la organización solicitante/cliente (PP).
+---
+¿Cuál de las siguientes actividades NO pertenece a la Fase de Cierre?
+- Realizar el cierre administrativo.
+- Recopilar las Lecciones Aprendidas.
+- Asegurar la aceptación de los entregables individuales durante la ejecución.
+- Preparar el Informe de Fin de Proyecto.
+=Asegurar la aceptación de los entregables individuales durante la ejecución.
+>La aceptación de entregables es una actividad de Seguimiento y Control/Ejecución, mientras que el cierre administrativo, las lecciones y el informe final son propios de la Fase de Cierre.
+---
+¿Qué artefacto es una salida propia de la Fase de Cierre?
+- Plan de Trabajo del Proyecto.
+- Informe de Situación del Contratista.
+- Informe de Fin de Proyecto.
+- Documento de Requisitos.
+=Informe de Fin de Proyecto.
+>El Informe de Fin de Proyecto, que incluye las Lecciones Aprendidas y Mejores Prácticas, es uno de los artefactos clave de la Fase de Cierre.
+---
+¿Cuál es el objetivo principal de la Reunión de Revisión de Fin de Proyecto?
+- Planificar las actividades de ejecución del año siguiente.
+- Debatir las experiencias en el proyecto para identificar Lecciones Aprendidas y Mejores Prácticas.
+- Asignar el presupuesto a nuevos proyectos.
+- Seleccionar a los contratistas para el mantenimiento.
+=Debatir las experiencias en el proyecto para identificar Lecciones Aprendidas y Mejores Prácticas.
+>El objetivo es asegurar que se debatan las experiencias para identificar Lecciones Aprendidas, evaluar el desempeño y formular recomendaciones.
+---
+¿Quién es el encargado de organizar la Reunión de Revisión de Fin de Proyecto?
+- El Propietario del Proyecto (PP).
+- El Aseguramiento de la Calidad (AdC).
+- El Responsable de Negocio (RN).
+- El Director de Proyecto (DP).
+=El Director de Proyecto (DP).
+>Según la tabla de participantes de esta reunión, el Director de Proyecto (DP) organiza la reunión.
+---
+Durante la Reunión de Revisión de Fin de Proyecto, ¿a quién le corresponde expresar el agradecimiento de la organización al equipo y a las partes interesadas?
+- Al Director de Proyecto (DP).
+- Al Propietario del Proyecto (PP).
+- Al Proveedor de Soluciones (PS).
+- Al Órgano de Gobernanza Pertinente (OGP).
+=Al Propietario del Proyecto (PP).
+>En los pasos "Durante la reunión", se especifica que el Propietario del Proyecto (PP) expresará el agradecimiento de la organización.
+---
+¿Qué rol asume el Responsable de Negocio (RN) en la Reunión de Revisión de Fin de Proyecto?
+- Representa el lado del negocio y a las partes interesadas.
+- Organiza los aspectos logísticos de la reunión.
+- Evalúa de forma independiente la calidad del software.
+- Otorga la aprobación final y disuelve el equipo.
+=Representa el lado del negocio y a las partes interesadas.
+>La guía indica que el RN representa el punto de vista del solicitante, es decir, el lado del negocio y a las partes interesadas.
+---
+¿Qué información analítica debe presentarse durante esta reunión?
+- Estadísticas y datos del proyecto relativos al desempeño y a los logros.
+- El currículum vitae de todos los miembros del equipo.
+- Las proyecciones bursátiles de la organización.
+- El presupuesto operativo a 5 años del departamento de TI.
+=Estadísticas y datos del proyecto relativos al desempeño y a los logros.
+>Uno de los pasos durante la reunión es presentar estadísticas y datos del proyecto sobre su rendimiento y logros.
+---
+En relación a los problemas que surgieron durante la vida del proyecto, ¿qué acción se toma en la Reunión de Revisión de Fin de Proyecto?
+- Se ocultan para no perjudicar la evaluación del equipo.
+- Se analizan los problemas y retos enfrentados y cómo fueron gestionados.
+- Se imponen sanciones económicas automáticas.
+- Se derivan a un tribunal externo de arbitraje.
+=Se analizan los problemas y retos enfrentados y cómo fueron gestionados.
+>Durante la reunión se analiza la experiencia general y cómo se manejaron los problemas y retos para extraer aprendizaje.
+---
+¿Qué se debe hacer antes de la Reunión de Revisión de Fin de Proyecto?
+- Disolver el Equipo Central del Proyecto.
+- Preparar el Informe de Fin de Proyecto completo.
+- Planificar la reunión, preparar la Agenda e identificar necesidades logísticas.
+- Pagar todas las facturas de mantenimiento del año siguiente.
+=Planificar la reunión, preparar la Agenda e identificar necesidades logísticas.
+>Los pasos previos incluyen planificar, establecer la agenda, enviar la convocatoria y preparar la logística/documentación.
+---
+¿Cuál es una entrada clave necesaria para preparar la Reunión de Revisión de Fin de Proyecto?
+- Los Registros e Informes de Proyecto relevantes.
+- El Plan Anual de Gestión Estratégica.
+- Las nóminas del equipo de proyecto.
+- Los informes de operaciones del departamento de recursos humanos.
+=Los Registros e Informes de Proyecto relevantes.
+>El Caso de Negocio, Acta, Manual, Planes y los Registros/Informes relevantes sirven como entrada para esta revisión.
+---
+¿Qué salida directa se produce al finalizar la Reunión de Revisión de Fin de Proyecto?
+- La Lista de Control de Salida de Fase.
+- El Acta de la Reunión (AdR) de Revisión de Fin de Proyecto.
+- El Contrato de Soporte.
+- El Plan de Implementación en el Negocio actualizado.
+=El Acta de la Reunión (AdR) de Revisión de Fin de Proyecto.
+>La salida de este artefacto/actividad es el Acta de la Reunión de Revisión de Fin de Proyecto.
+---
+Según la matriz RASCI de la Reunión de Revisión de Fin de Proyecto, ¿quién es el Aprobador (A)?
+- El Propietario del Proyecto (PP).
+- El Director de Proyecto (DP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Órgano de Gobernanza Pertinente (OGP).
+=El Comité de Dirección del Proyecto (CDP).
+>El Comité de Dirección del Proyecto (CDP) figura como el Aprobador (A) en la matriz RASCI de esta reunión.
+---
+¿Qué rol tiene el Equipo Central del Proyecto (ECP) en la matriz RASCI de esta reunión?
+- Responsable (R).
+- Aprobador (A).
+- Consultado (C).
+- Informado (I).
+=Consultado (C).
+>El ECP figura con el rol Consultado (C) en la matriz RASCI de la Reunión de Revisión de Fin de Proyecto, aportando sus experiencias.
+---
+Después de celebrada la Reunión de Revisión de Fin de Proyecto, ¿qué acción sigue inmediatamente por parte del Director de Proyecto?
+- Abandonar la organización.
+- Recopilar las Lecciones Aprendidas y preparar el Informe de Fin de Proyecto.
+- Reiniciar el proyecto para una nueva versión.
+- Solicitar un nuevo presupuesto base.
+=Recopilar las Lecciones Aprendidas y preparar el Informe de Fin de Proyecto.
+>Después de la reunión se recopilan las recomendaciones y lecciones aprendidas para redactar el Informe de Fin de Proyecto.
+---
+¿A quién se debe asegurar que se comuniquen los resultados de la Reunión de Revisión de Fin de Proyecto?
+- Exclusivamente a los auditores externos.
+- A las partes interesadas pertinentes.
+- Solamente al Propietario del Proyecto.
+- A ninguna persona externa al equipo técnico.
+=A las partes interesadas pertinentes.
+>Uno de los pasos tras la reunión es comunicar los resultados de la misma a las partes interesadas pertinentes.
+---
+¿Qué evaluación sobre terceros se realiza explícitamente en la Reunión de Revisión de Fin de Proyecto?
+- La auditoría fiscal del cliente.
+- La revisión de las leyes de contratación pública.
+- La evaluación del desempeño del equipo y del contratista.
+- El control de acceso biométrico de la organización.
+=La evaluación del desempeño del equipo y del contratista.
+>Se discute el rendimiento del proyecto y se evalúa el desempeño del equipo y del contratista.
+---
+¿Quién debería asistir a la Reunión de Revisión de Fin de Proyecto para evaluar los estándares metodológicos aplicados?
+- Garantía de la Calidad del Proyecto (GCP).
+- Un inversor privado.
+- El proveedor de la plataforma de correo electrónico.
+- El equipo de mantenimiento de instalaciones.
+=Garantía de la Calidad del Proyecto (GCP).
+>Según los roles en la tabla de participantes, la Garantía de la Calidad del Proyecto (GCP) "debería asistir".
+---
+¿Cuál es el propósito formal de recopilar Lecciones Aprendidas?
+- Buscar culpables por los retrasos del proyecto.
+- Posibilitar que los equipos y la organización aprovechen la experiencia adquirida.
+- Cumplir un trámite burocrático sin aplicación práctica.
+- Elaborar estadísticas salariales de los empleados.
+=Posibilitar que los equipos y la organización aprovechen la experiencia adquirida.
+>El propósito formal es aprovechar la experiencia adquirida para que la organización mejore en futuros proyectos.
+---
+¿Cuándo recomienda la metodología PM² que se deben recoger las oportunidades de mejora y lecciones?
+- Exclusivamente en la última semana del proyecto.
+- Solamente después del cierre administrativo.
+- De forma continua, según van surgiendo durante el proyecto.
+- Solo en la Fase de Inicio.
+=De forma continua, según van surgiendo durante el proyecto.
+>Las lecciones y recomendaciones deben recogerse de alguna manera según van surgiendo durante el proyecto para no perderlas al final.
+---
+Además de las lecciones puras de gestión del proyecto, ¿qué otras ideas se recomienda recoger en este proceso?
+- Rumores de la oficina.
+- Ideas relativas a la operación del producto/servicio, como extensiones, mantenimiento y proyectos subsiguientes.
+- Quejas sobre proyectos de la competencia.
+- Promociones y descuentos de proveedores.
+=Ideas relativas a la operación del producto/servicio, como extensiones, mantenimiento y proyectos subsiguientes.
+>También es importante recoger recomendaciones post-proyecto relativas a la operación, extensiones, mantenimiento e ideas para proyectos subsiguientes.
+---
+Para lograr mayor objetividad, ¿qué directriz sugiere PM² respecto a quién debería dirigir la sesión de Lecciones Aprendidas?
+- Debe dirigirla el director general de la empresa.
+- Debe dirigirla exclusivamente el Director de Proyecto.
+- Puede ser preferible que la dirija alguien que no haya estado personalmente involucrado en el proyecto.
+- Debe dirigirla el contratista externo.
+=Puede ser preferible que la dirija alguien que no haya estado personalmente involucrado en el proyecto.
+>Esto permite que el Director de Proyecto participe como un miembro más y aporta una visión neutral.
+---
+¿Qué órgano directivo debe ser invitado a las sesiones de Lecciones Aprendidas para que puedan transferir ese conocimiento a otros proyectos?
+- El Órgano de Gobernanza Pertinente (OGP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Grupo de Implementación en el Negocio (GIN).
+- El equipo de ventas de la organización.
+=El Comité de Dirección del Proyecto (CDP).
+>El CDP debe ser invitado para permitir a sus miembros transferir las lecciones aprendidas a otros proyectos en los que participen.
+---
+Para recabar lecciones aprendidas de un grupo amplio de partes interesadas, ¿qué enfoque se recomienda?
+- Organizar un retiro de una semana con todos los empleados.
+- Usar un enfoque no estructurado y libre.
+- Utilizar un enfoque estructurado mediante cuestionarios o entrevistas estructuradas.
+- Ignorar a los grupos amplios para ahorrar tiempo.
+=Utilizar un enfoque estructurado mediante cuestionarios o entrevistas estructuradas.
+>Se recomienda usar cuestionarios o entrevistas estructuradas para abarcar un grupo amplio de manera eficiente.
+---
+¿Por qué PM² recomienda organizar en grupos las ideas de mejora obtenidas?
+- Para archivarlas en carpetas de diferentes colores.
+- Para ayudar al equipo a visualizar mejor los próximos pasos necesarios para implementarlas.
+- Para descartar las de menor presupuesto automáticamente.
+- Porque es un requisito de protección de datos.
+=Para ayudar al equipo a visualizar mejor los próximos pasos necesarios para implementarlas.
+>Agrupar las ideas ayuda a visualizar y planificar los próximos pasos para su implementación.
+---
+Si un proyecto es muy complejo, ¿qué estructura es válida para organizar la recogida de Lecciones Aprendidas?
+- Exigir un ensayo escrito de cada miembro del equipo.
+- Abordarlas en varias sesiones, cada una dedicada a un tema diferente (ej. problemas técnicos, implementación en negocio).
+- Dejar la recogida de lecciones como opcional.
+- Comprar una base de datos externa de lecciones aprendidas genéricas.
+=Abordarlas en varias sesiones, cada una dedicada a un tema diferente (ej. problemas técnicos, implementación en negocio).
+>PM² indica que en algunos casos tiene sentido hacer varias sesiones temáticas para abarcar todos los aspectos.
+---
+Según la matriz RASCI de "Lecciones Aprendidas y Recomendaciones Post-Proyecto", ¿qué rol es el Responsable (R)?
+- El Propietario del Proyecto (PP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Director de Proyecto (DP).
+- El Responsable de Negocio (RN).
+=El Director de Proyecto (DP).
+>El Director de Proyecto (DP) es quien asume la responsabilidad (R) de organizar la recopilación de las lecciones aprendidas.
+---
+¿En qué salida documental se integran formalmente las Lecciones Aprendidas y las Recomendaciones Post-Proyecto?
+- En el Acta de Constitución del Proyecto.
+- En el Informe de Progreso Mensual.
+- En el Informe de Fin de Proyecto.
+- En el Registro de Riesgos.
+=En el Informe de Fin de Proyecto.
+>Estas lecciones y recomendaciones se integran y resumen como parte del Informe de Fin de Proyecto.
+---
+¿Cuál es la finalidad principal del Informe de Fin de Proyecto?
+- Autorizar el inicio de la Fase de Planificación.
+- Solicitar presupuesto adicional para cubrir el déficit.
+- Resumir la experiencia del proyecto, documentando mejores prácticas, lecciones aprendidas, dificultades y soluciones.
+- Cancelar el contrato con los proveedores externos.
+=Resumir la experiencia del proyecto, documentando mejores prácticas, lecciones aprendidas, dificultades y soluciones.
+>El informe consolida la experiencia y sirve como base de conocimiento para futuros proyectos.
+---
+¿Quién redacta el Informe de Fin de Proyecto?
+- El Propietario del Proyecto (PP).
+- El Garantía de la Calidad del Proyecto (GCP).
+- El Director de Proyecto (DP).
+- El Analista de Negocio.
+=El Director de Proyecto (DP).
+>El Director de Proyecto (DP) redacta el informe, aunque recibe apoyo de otros roles como el ECP y GCP.
+---
+¿Qué papel juega el rol de Garantía de la Calidad del Proyecto (GCP) en la creación del Informe de Fin de Proyecto?
+- Es el encargado de aprobarlo.
+- Redacta el informe completo.
+- Proporciona entradas y apoyo.
+- Ninguno, su participación termina en la fase de Ejecución.
+=Proporciona entradas y apoyo.
+>La GCP y el ECP proporcionan entradas y apoyo al Director de Proyecto en la redacción de este informe.
+---
+¿Cuál es una entrada fundamental que se utiliza para elaborar el Informe de Fin de Proyecto?
+- El Acta de la Reunión de Revisión de Fin de Proyecto.
+- El Acta de Constitución del Proyecto firmada.
+- El Plan de Trabajo inicial sin modificaciones.
+- Las actas de las reuniones diarias del equipo.
+=El Acta de la Reunión de Revisión de Fin de Proyecto.
+>El informe se genera después de la reunión y toma como entrada principal el Acta de dicha reunión, así como los registros e informes acumulados.
+---
+¿Cuál de los siguientes NO es un tema obligatorio a abordar en el Informe de Fin de Proyecto?
+- La eficacia del proyecto y la gestión del cronograma.
+- La evaluación de la gestión de riesgos e incidencias.
+- Las proyecciones de marketing del nuevo producto.
+- La gestión de la implementación en el negocio y la transición.
+=Las proyecciones de marketing del nuevo producto.
+>El informe cubre temas de gestión del proyecto (alcance, tiempo, calidad, recursos humanos, transición), pero no planes futuros de marketing.
+---
+¿Qué se debe hacer con el Informe de Fin de Proyecto una vez finalizado y aprobado?
+- Debe enviarse a los medios de comunicación.
+- Debe archivarse en un repositorio central o base de datos de conocimiento.
+- Debe destruirse para proteger la privacidad de las decisiones.
+- Debe incluirse en los contratos de los nuevos empleados.
+=Debe archivarse en un repositorio central o base de datos de conocimiento.
+>La directriz establece que debe formar parte de un repositorio para compartir experiencias y evitar repetir errores.
+---
+En la matriz RASCI del Informe de Fin de Proyecto, ¿quién figura como Aprobador (A)?
+- El Órgano de Gobernanza Pertinente (OGP).
+- El Propietario del Proyecto (PP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Director de Proyecto (DP).
+=El Comité de Dirección del Proyecto (CDP).
+>El Comité de Dirección del Proyecto (CDP) es el encargado de aprobar (A) el Informe de Fin de Proyecto.
+---
+¿Qué aspecto relacionado con los recursos se evalúa en el Informe de Fin de Proyecto?
+- Las horas extra realizadas por la alta dirección.
+- La gestión de recursos humanos y partes interesadas, así como el desempeño del equipo y de la organización.
+- Las deducciones fiscales aplicadas a los salarios.
+- El costo exacto del mobiliario de la oficina.
+=La gestión de recursos humanos y partes interesadas, así como el desempeño del equipo y de la organización.
+>El informe debe abordar la gestión de recursos humanos, así como el desempeño general del equipo central y de la organización.
+---
+¿Cuál es el rol del Responsable de Negocio (RN) en la matriz RASCI del Informe de Fin de Proyecto?
+- Responsable (R).
+- Aprobador (A).
+- Soporte (S).
+- Consultado (C).
+=Soporte (S).
+>El RN aparece como Soporte (S) en la elaboración del Informe de Fin de Proyecto.
+---
+Aunque el informe lo redacta el Director de Proyecto (DP), ¿qué recomienda PM² para asegurar una evaluación integral?
+- Que lo redacte un auditor externo.
+- Involucrar a las partes interesadas pertinentes para una evaluación completa.
+- Usar herramientas de inteligencia artificial para generar el contenido.
+- Omitir las áreas del proyecto que fueron deficientes.
+=Involucrar a las partes interesadas pertinentes para una evaluación completa.
+>Se debe involucrar a las partes interesadas pertinentes para poder efectuar una evaluación integral y completa del proyecto.
+---
+¿Qué actividad asegura el Director de Proyecto (DP) antes de proceder con el cierre administrativo?
+- Que todos los entregables del proyecto hayan sido aceptados por las partes interesadas pertinentes.
+- Que se inicie el Caso de Negocio del próximo proyecto.
+- Que se contrate al equipo de mantenimiento.
+- Que se publique el software en código abierto.
+=Que todos los entregables del proyecto hayan sido aceptados por las partes interesadas pertinentes.
+>El DP debe asegurarse de que todos los entregables hayan sido aceptados antes de poder archivar y cerrar administrativamente.
+---
+¿Qué estructura de apoyo puede ayudar al Director de Proyecto a organizar y archivar la documentación del proyecto de forma segura?
+- El Órgano de Gobernanza Pertinente (OGP).
+- La Oficina de Soporte a Proyectos (OSP).
+- El Proveedor de Soluciones (PS).
+- El comité de adquisiciones.
+=La Oficina de Soporte a Proyectos (OSP).
+>El DP se asegura de revisar y archivar los documentos con la ayuda de la Oficina de Soporte a Proyectos (OSP).
+---
+¿Qué ocurre con el equipo del proyecto y sus recursos durante el Cierre Administrativo?
+- Se les asigna a un programa continuo indefinidamente.
+- Se les mantiene en espera (standby) hasta el próximo año.
+- El equipo del proyecto se disuelve oficialmente y se liberan todos los recursos.
+- El equipo asume el rol de soporte operativo (helpdesk) permanentemente.
+=El equipo del proyecto se disuelve oficialmente y se liberan todos los recursos.
+>En este momento, el equipo se disuelve formalmente y todos los recursos asignados al proyecto son liberados.
+---
+¿Quién tiene la autoridad para otorgar la aprobación final del proyecto, cerrándolo oficialmente?
+- El Director de Proyecto (DP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Propietario del Proyecto (PP).
+- El Responsable de Negocio (RN).
+=El Propietario del Proyecto (PP).
+>El proyecto se cierra oficialmente una vez que el Propietario del Proyecto (PP) lo aprueba.
+---
+¿Qué hito organizativo marca el cierre formal del proyecto respecto a la forma de trabajar?
+- Pone fin al modo proyecto y permite que comience el modo operaciones.
+- Transforma la organización de funcional a matricial.
+- Inicia el modo de externalización masiva.
+- Pone fin a las operaciones y da inicio a la cartera.
+=Pone fin al modo proyecto y permite que comience el modo operaciones.
+>El cierre formal pone fin al "modo proyecto" (esfuerzo temporal) para dar paso al "modo operaciones" (mantenimiento continuo).
+---
+¿Qué tarea de índole legal o formal debe verificarse como parte de los pasos del Cierre Administrativo?
+- Que todas las obligaciones contractuales han sido satisfechas.
+- Que se han demandado a los proveedores con retrasos.
+- Que se ha patentado el nombre del proyecto.
+- Que todos los empleados han firmado acuerdos de no competencia de por vida.
+=Que todas las obligaciones contractuales han sido satisfechas.
+>El quinto paso del Cierre Administrativo exige "Verificar que todas las obligaciones contractuales han sido satisfechas."
+---
+¿Cuál es la función principal del Equipo Central del Proyecto (ECP) durante el Cierre Administrativo?
+- Redactar los contratos de mantenimiento.
+- Aprobar formalmente el cierre.
+- Ayudar a revisar, organizar y archivar toda la documentación del proyecto.
+- Seleccionar los proyectos futuros para la organización.
+=Ayudar a revisar, organizar y archivar toda la documentación del proyecto.
+>El ECP participa asistiendo al Director de Proyecto en la revisión, organización y archivo de la documentación del proyecto.
+---
+¿Quién figura como el Responsable (R) de ejecutar el Cierre Administrativo en la matriz RASCI?
+- El Propietario del Proyecto (PP).
+- El Director de Proyecto (DP).
+- La Oficina de Soporte a Proyectos (OSP).
+- El Comité de Dirección del Proyecto (CDP).
+=El Director de Proyecto (DP).
+>El Director de Proyecto (DP) es el responsable (R) de asegurar que las actividades de cierre, liberación y archivo se realicen.
+---
+¿Qué documento puede ser necesario generar y firmar como salida de esta fase, dependiendo de la organización o del proyecto?
+- Un Acta de Constitución del Mantenimiento.
+- Un Documento de Aceptación del Proyecto.
+- Una Solicitud de Cierre Presupuestario.
+- Un Manual de Supervivencia del Proyecto.
+=Un Documento de Aceptación del Proyecto.
+>El "Documento de Aceptación del Proyecto" es una salida del Cierre Administrativo (indicado como "si se requiere").
+---
+¿Cuál es una entrada clave para realizar el Cierre Administrativo?
+- La Solicitud de Inicio de Proyecto.
+- El Registro de Riesgos en su estado inicial.
+- El Plan de Gestión de Calidad, junto con el resto de planes y documentos.
+- La Matriz de Interés de los Interesados.
+=El Plan de Gestión de Calidad, junto con el resto de planes y documentos.
+>Las entradas incluyen el Manual, el Plan de Trabajo, el Plan de Gestión de Calidad y todos los demás planes y documentos para asegurar que se archivan y cierran.
+---
