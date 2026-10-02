@@ -1,0 +1,1600 @@
+¿Cuál es el nivel de flexibilidad que tiene el equipo de proyecto con respecto a la adopción de las mejores prácticas de PM² según la sección 1.2?
+- Es obligatorio aplicar el 100% de las mejores prácticas de forma estricta para certificar el proyecto.
+- Únicamente el Centro de Excelencia (CoEPM²) tiene la facultad de decidir qué prácticas específicas debe utilizar un proyecto.
+- Corresponde a los Directores de Proyecto (DP) y a sus equipos elegir libremente las prácticas PM² que aporten el mayor valor añadido.
+- El uso de las mejores prácticas es rígido en el sector público, pero totalmente opcional en el sector privado.
+=Corresponde a los Directores de Proyecto (DP) y a sus equipos elegir libremente las prácticas PM² que aporten el mayor valor añadido.
+>La guía PM² otorga al Director de Proyecto (DP) y a su equipo la responsabilidad de seleccionar y adaptar libremente las mejores prácticas que aporten valor al proyecto específico.
+---
+¿A qué perfiles va dirigida la Guía de la Metodología PM² según el manual?
+- Exclusivamente a los auditores y al personal de alta dirección de la Comisión Europea.
+- Únicamente a contratistas externos de las instituciones de la Unión Europea sin experiencia.
+- A Directores de Proyecto (DP) noveles, DPs experimentados que buscan alineación, y equipos de proyectos completos.
+- Solo a directores de carteras y programas del Programa Europa Digital.
+=A Directores de Proyecto (DP) noveles, DPs experimentados que buscan alineación, y equipos de proyectos completos.
+>El público objetivo principal de la guía incluye DPs con poca experiencia, DPs experimentados que buscan alinearse con el marco, y equipos de proyecto que desean adoptar la metodología.
+---
+¿Cuál es el propósito o fin de mantener la Guía PM² de forma concisa?
+- Reducir los costes de impresión y distribución física del manual.
+- Aportar la información estricta, necesaria y suficiente para una comprensión eficaz y facilitar su puesta en práctica inmediata.
+- Evitar que los contratistas externos conozcan los detalles de gobernanza de la UE.
+- Limitar la cantidad de información para que pueda memorizarse en una sola sesión de estudio.
+=Aportar la información estricta, necesaria y suficiente para una comprensión eficaz y facilitar su puesta en práctica inmediata.
+>La guía se mantiene concisa de forma deliberada (el 'Cómo') para aportar solo lo necesario y suficiente para entender y aplicar de inmediato la metodología.
+---
+¿Qué ofrece exactamente la Metodología PM² en su guía para estandarizar la comunicación del equipo?
+- Un software exclusivo de chat y mensajería instantánea institucional.
+- Un vocabulario común o glosario de términos.
+- Una plantilla rígida para correos electrónicos semanales.
+- Un canal de comunicación directo y diario con el CoEPM².
+=Un vocabulario común o glosario de términos.
+>PM² proporciona un vocabulario común o glosario que estandariza los conceptos y facilita la comunicación clara dentro del equipo del proyecto.
+---
+¿Quién tiene la responsabilidad de aplicar y adaptar las mejores prácticas de PM² en un proyecto?
+- El Centro de Excelencia (CoEPM²) centralizadamente.
+- El Director de Proyecto (DP).
+- La Oficina de Soporte a Proyectos (OSP) local.
+- El Servicio de Publicaciones de la Unión Europea.
+=El Director de Proyecto (DP).
+>La metodología deja explícitamente en manos del Director de Proyecto (DP) la responsabilidad de aplicar y adaptar las prácticas que añadan valor al proyecto.
+---
+¿Cuáles son las extensiones de la Metodología PM² mencionadas en la introducción de la guía?
+- PM² Lean, PM² Scrum y PM² Kanban.
+- PM² Ágil, PM²-PgM (Programas) y PM²-PfM (Carteras).
+- PM² TI, PM² Legal y PM² de Infraestructuras.
+- PM² Operativa, PM² Corporativa y PM² Financiera.
+=PM² Ágil, PM²-PgM (Programas) y PM²-PfM (Carteras).
+>La familia de metodologías PM² incluye extensiones para enfoques ágiles (PM² Ágil), gestión de programas (PM²-PgM) y gestión de carteras (PM²-PfM).
+---
+¿Quién desarrolló originalmente la Metodología PM²?
+- El Project Management Institute (PMI).
+- La Comisión Europea.
+- La Organización de las Naciones Unidas (ONU).
+- La Agencia Espacial Europea (ESA).
+=La Comisión Europea.
+>La Metodología PM² fue desarrollada originalmente por la Comisión Europea para responder a las necesidades de gestión de proyectos institucionales.
+---
+¿A qué tipo de proyectos u organizaciones es aplicable la Metodología PM²?
+- Únicamente a proyectos de la Comisión Europea.
+- A proyectos de cualquier organización, ya sea pública o privada.
+- Exclusivamente a administraciones públicas de los Estados Miembros.
+- Solo a proyectos de desarrollo de software financiados con fondos de la UE.
+=A proyectos de cualquier organización, ya sea pública o privada.
+>Aunque se concibió para la UE, las mejores prácticas de PM² están diseñadas intencionadamente para ser aplicables a proyectos de cualquier tipo de organización.
+---
+¿Cuáles son las tres características clave de la Metodología PM² destacadas en su introducción?
+- Rígida, compleja y de cumplimiento obligatorio.
+- Sencilla, fácil de implementar y altamente adaptable (tailoring).
+- Teórica, extensa y de propiedad privada.
+- Automática, digital e inalterable.
+=Sencilla, fácil de implementar y altamente adaptable (tailoring).
+>PM² se caracteriza formalmente por ser una metodología sencilla, fácil de implementar y altamente adaptable a las necesidades específicas del proyecto.
+---
+¿Qué cinco elementos integrados proporciona estructuralmente la Metodología PM²?
+- Software de planificación, licencias, consultores, presupuesto y auditoría.
+- Estructura de gobernanza, directrices de procesos, plantillas de artefactos, directrices de uso y un enfoque eficaz (mindsets).
+- Modelos de contratos, criterios de evaluación, auditorías de calidad, cronograma y software libre.
+- Planes de contingencia, gestión de personal, análisis financiero, encuestas de clima y actas de reunión.
+=Estructura de gobernanza, directrices de procesos, plantillas de artefactos, directrices de uso y un enfoque eficaz (mindsets).
+>Para dar un soporte completo a la gestión, PM² provee cinco elementos integrados: gobernanza, procesos, artefactos, directrices de uso y el enfoque mental (mindsets).
+---
+¿De qué manera mejora la efectividad del proyecto la Metodología PM²?
+- Garantizando que se cumplan las estimaciones presupuestarias al 100% de forma automática.
+- Aclarando expectativas rápidamente, definiendo el ciclo de vida de principio a fin, e introduciendo actividades de seguimiento/control y puente a la agilidad.
+- Eliminando la necesidad de documentar las decisiones a nivel técnico.
+- Sustituyendo los roles de la organización por comités de control político externos.
+=Aclarando expectativas rápidamente, definiendo el ciclo de vida de principio a fin, e introduciendo actividades de seguimiento/control y puente a la agilidad.
+>PM² mejora la efectividad aclarando expectativas desde el inicio, estructurando el ciclo de vida de Inicio a Cierre, aportando seguimiento riguroso y enlazando con enfoques ágiles.
+---
+¿Qué es formalmente el Centro de Excelencia en PM² (CoEPM²)?
+- Un comité de control financiero de los Estados Miembros.
+- La infraestructura central de alta calidad que provee servicios de soporte y consultoría a la Comisión Europea e Instituciones de la UE.
+- Un centro de formación externo para el sector privado en Bruselas.
+- El órgano encargado de traducir físicamente los manuales de proyectos.
+=La infraestructura central de alta calidad que provee servicios de soporte y consultoría a la Comisión Europea e Instituciones de la UE.
+>El CoEPM² es la máxima autoridad central (PMO institucional) que provee servicios de consultoría y soporte de alta calidad a la Comisión Europea y a las instituciones de la UE.
+---
+¿Cuál es el rol del CoEPM² en relación con la gestión del día a día de los proyectos individuales?
+- Gestionar directamente las tareas asignadas al Equipo Central del Proyecto.
+- No gestiona el día a día, sino que da soporte transversal, mantiene la metodología y coordina la red de oficinas locales (RAP).
+- Aprobar de manera directa y diaria las horas trabajadas por los contratistas.
+- Ejercer de Director de Proyecto en todos los proyectos de TI de la UE.
+=No gestiona el día a día, sino que da soporte transversal, mantiene la metodología y coordina la red de oficinas locales (RAP).
+>El CoEPM² no interviene en el día a día de proyectos concretos, sino que ejerce funciones transversales de mantenimiento metodológico, soporte y coordinación de la RAP.
+---
+¿Qué iniciativa promueve el CoEPM² para la adopción externa y a gran escala de la metodología?
+- La iniciativa Europa Digital.
+- La iniciativa Open PM².
+- La iniciativa de Gestión de la Configuración de la UE.
+- La iniciativa interinstitucional RAP.
+=La iniciativa Open PM².
+>El CoEPM² promueve activamente la adopción externa y libre de la metodología a nivel de administraciones, contratistas y ciudadanos mediante Open PM².
+---
+¿A quién proporciona acceso abierto y gratuito la iniciativa de la Comisión Europea 'Open PM²'?
+- Exclusivamente a los funcionarios directos de la Comisión Europea.
+- A contratistas, administraciones públicas, estados miembros y ciudadanos.
+- Únicamente a los Directores de Proyecto certificados de nivel Senior.
+- A las empresas consultoras que abonen el canon de licencia anual CC BY.
+=A contratistas, administraciones públicas, estados miembros y ciudadanos.
+>Open PM² ofrece de manera abierta, gratuita y transparente las guías y plantillas oficiales a toda la ciudadanía, administraciones públicas, contratistas y estados miembros.
+---
+¿Cuál es el objetivo estratégico principal de la iniciativa Open PM² para evitar errores del pasado?
+- Eliminar por completo el uso de metodologías tradicionales de gestión en cascada.
+- Evitar la duplicación de esfuerzos y la promoción de enfoques divergentes para fomentar enfoques convergentes.
+- Aumentar el número de auditorías de costes externos para los contratistas.
+- Establecer un monopolio de software de planificación controlado desde Bruselas.
+=Evitar la duplicación de esfuerzos y la promoción de enfoques divergentes para fomentar enfoques convergentes.
+>Estratégicamente, Open PM² busca evitar la dispersión de metodologías y la duplicidad de esfuerzos, impulsando enfoques de convergencia europea y de interés común.
+---
+¿Cómo contribuye la iniciativa Open PM² a la colaboración entre organizaciones?
+- Asignando fondos automáticos a los consorcios que usen plantillas de software específicas.
+- Estableciendo un lenguaje y procesos comunes que facilitan la transparencia y visibilidad en proyectos colaborativos.
+- Obligando legalmente a la disolución de los equipos tradicionales no adaptados.
+- Suministrando licitaciones públicas exclusivas a las OLAP locales.
+=Estableciendo un lenguaje y procesos comunes que facilitan la transparencia y visibilidad en proyectos colaborativos.
+>Al unificar terminología y procesos en abierto, Open PM² actúa como un puente que aporta visibilidad y transparencia en proyectos colaborativos multi-organizacionales.
+---
+¿Qué beneficio de control aporta la iniciativa Open PM² en relación con la financiación pública?
+- Reducir las partidas presupuestarias de forma unilateral si hay retrasos.
+- Permitir un mejor control y seguimiento de los proyectos financiados por la Unión Europea.
+- Exigir auditorías diarias de la gestión de configuración del contratista.
+- Eliminar la necesidad de reportar el cronograma en proyectos plurianuales.
+=Permitir un mejor control y seguimiento de los proyectos financiados por la Unión Europea.
+>Open PM² facilita que los proyectos financiados o subvencionados por fondos de la UE sean más transparentes y se puedan monitorizar y controlar de forma más efectiva.
+---
+¿Quién centraliza en línea toda la información oficial, guías y recursos de PM² garantizando una única fuente de verdad?
+- La Red de Apoyo a Proyectos (RAP) local.
+- El Centro de Excelencia (CoEPM²).
+- El Servicio de Publicaciones en Luxemburgo de manera descentralizada.
+- Las Oficinas Locales de Apoyo a Proyectos (OLAP) de manera autónoma.
+=El Centro de Excelencia (CoEPM²).
+>El CoEPM² centraliza y gobierna en línea toda la documentación, plantillas y recursos oficiales para asegurar la consistencia como única fuente de verdad oficial.
+---
+¿Cómo está constituida la Red de Apoyo a Proyectos PM² (RAP)?
+- Por un comité de expertos externos de consultoras con licencia oficial.
+- Es una red interinstitucional descentralizada constituida por Oficinas Locales de Apoyo a Proyectos (OLAP).
+- Por una comunidad de directores de proyecto voluntarios del sector privado.
+- Por un equipo técnico dedicado en exclusiva a la auditoría de configuración de la UE.
+=Es una red interinstitucional descentralizada constituida por Oficinas Locales de Apoyo a Proyectos (OLAP).
+>La RAP es la estructura de apoyo descentralizada constituida por las OLAP (Oficinas Locales de Apoyo a Proyectos) de las diferentes instituciones europeas.
+---
+¿Quién coordina y respalda a las Oficinas Locales de Apoyo a Proyectos (OLAP) dentro de la RAP?
+- El Servicio de Publicaciones de la UE.
+- El Centro de Excelencia en PM² (CoEPM²).
+- El Propietario del Proyecto (PP) de manera individual.
+- El Director de Programa de la organización.
+=El Centro de Excelencia en PM² (CoEPM²).
+>Aunque descentralizadas, las OLAP están coordinadas y respaldadas centralmente por el CoEPM² para asegurar un soporte metodológico consistente.
+---
+¿Cuál es una de las funciones fundamentales de la RAP para el desarrollo metodológico?
+- Aprobar de manera directa los contratos de externalización de la organización.
+- Recopilar feedback directo de los usuarios para la mejora continua de la metodología.
+- Certificar legalmente a las empresas privadas bajo el estándar PM².
+- Definir unilateralmente el Caso de Negocio de los proyectos locales.
+=Recopilar feedback directo de los usuarios para la mejora continua de la metodología.
+>La RAP tiene la tarea crítica de recoger los comentarios, sugerencias y experiencias directas de los usuarios para retroalimentar y mejorar de manera continua el marco PM².
+---
+¿Cómo define formalmente la Guía PM² un proyecto?
+- Una estructura jerárquica permanente establecida para realizar tareas operativas continuas.
+- Una estructura organizacional temporal establecida para crear un producto o servicio singular (entregable) sujeto a ciertas restricciones.
+- Un conjunto de actividades interdependientes gestionadas sin límites de tiempo para cumplir objetivos de negocio.
+- Una entidad legal permanente diseñada para subcontratar servicios técnicos dentro de las instituciones de la Unión Europea.
+=Una estructura organizacional temporal establecida para crear un producto o servicio singular (entregable) sujeto a ciertas restricciones.
+>De acuerdo con la Sección 2.1.1, un proyecto es una estructura organizacional temporal establecida para crear un entregable singular bajo restricciones externas o autoimpuestas.
+---
+¿Qué significa el término 'temporal' en el contexto de la definición de un proyecto en PM²?
+- Que las actividades del proyecto se ejecutan de manera informal y sin planificación previa.
+- Que el proyecto tiene un inicio y un final bien definidos.
+- Que el proyecto se realiza únicamente con personal externo temporal.
+- Que el proyecto puede suspenderse en cualquier momento dependiendo de la disponibilidad de fondos.
+=Que el proyecto tiene un inicio y un final bien definidos.
+>La guía PM² aclara que 'temporal' significa que el proyecto posee un inicio y un final bien definidos, disolviendo el equipo al alcanzar los objetivos.
+---
+¿Qué significa que el entregable de un proyecto sea 'singular' según la Guía PM²?
+- Que el producto o servicio no se ha creado antes y, aunque pueda ser similar a otro, deberá tener siempre un cierto grado de originalidad.
+- Que el proyecto solo puede generar un único entregable a lo largo de todo su ciclo de vida.
+- Que el entregable es de uso exclusivo para un único departamento o usuario de la organización.
+- Que el entregable no admite ningún tipo de comparación ni similitud con productos del mercado.
+=Que el producto o servicio no se ha creado antes y, aunque pueda ser similar a otro, deberá tener siempre un cierto grado de originalidad.
+>Singularidad en PM² significa que el entregable no se ha creado exactamente igual antes; puede parecerse a otro, pero conserva un grado indispensable de originalidad.
+---
+¿Qué restricción se asocia directamente al entorno organizacional del proyecto, además del tiempo, coste y calidad?
+- La estructura jurídica del país del contratista.
+- La actitud frente al riesgo y la disponibilidad de recursos de la organización.
+- El número de empleados fijos de la Oficina de Soporte a Proyectos.
+- La cantidad de auditorías externas anuales obligatorias.
+=La actitud frente al riesgo y la disponibilidad de recursos de la organización.
+>Además de la triple restricción de tiempo, coste y calidad, PM² sitúa las restricciones dentro del marco de la actitud de la organización ante el riesgo y la asignación de recursos.
+---
+¿Qué función de negocio representan los proyectos en una organización según el manual?
+- Un proceso de mantenimiento diario de los sistemas existentes.
+- Un proceso de transformación que convierte ideas en realidades (resultados) a través de una justificación de negocio.
+- Una auditoría continua para sancionar desviaciones operativas.
+- Un sistema de subcontratación indefinido para personal de TI.
+=Un proceso de transformación que convierte ideas en realidades (resultados) a través de una justificación de negocio.
+>Los proyectos actúan como un proceso transformador que da forma y convierte ideas en resultados prácticos apoyados en una sólida justificación comercial.
+---
+¿Cuáles son los tres motivadores estratégicos generales que justifican el inicio de un proyecto en una organización?
+- Reducir impuestos, externalizar personal y expandir oficinas corporativas.
+- Mantener las operaciones actuales, transformarlas o mejorar la eficiencia organizativa.
+- Auditar recursos, estandarizar el software de chat y crear comités políticos.
+- Cumplir con presupuestos inflados, contratar DP experimentados y archivar documentos.
+=Mantener las operaciones actuales, transformarlas o mejorar la eficiencia organizativa.
+>Los proyectos se inician principalmente por tres motivadores: mantener el statu quo operacional, transformar el negocio o mejorar la eficiencia organizacional futura.
+---
+¿Qué se entiende por 'desencadenante' (trigger) de un proyecto según la metodología PM²?
+- La disolución del equipo del proyecto por falta de rendimiento.
+- Las demandas del mercado, peticiones de clientes, cambios legales, auditorías o adopción de nuevas tecnologías.
+- La decisión de un directivo de reasignar los fondos sobrantes del año fiscal.
+- La superación del límite de tolerancia de riesgo en el Manual del Proyecto.
+=Las demandas del mercado, peticiones de clientes, cambios legales, auditorías o adopción de nuevas tecnologías.
+>Los desencadenantes son las necesidades internas o externas que fuerzan a la organización a crear un proyecto (demandas del mercado, leyes, mejoras técnicas, etc.).
+---
+¿Qué representa el 'Entregable' dentro de la cadena de valor de PM²?
+- La mejora de rendimiento cuantificable después de cerrar el proyecto.
+- El producto o servicio generado por el proyecto, que actúa como el medio para alcanzar un fin.
+- El beneficio económico directo reflejado en el balance financiero de la empresa.
+- La evaluación del desempeño realizada por las partes interesadas en el Cierre.
+=El producto o servicio generado por el proyecto, que actúa como el medio para alcanzar un fin.
+>El entregable es el medio físico (el producto o servicio construido) que introduce un cambio y sirve de soporte para la obtención de resultados.
+---
+¿Qué representa el 'Resultado' (Outcome) en la cadena de valor de PM²?
+- El documento de Caso de Negocio aprobado en la puerta LpP.
+- El efecto o la capacidad que se obtiene al usar los entregables (el fin inmediato).
+- El informe financiero final consolidado por la Oficina de Soporte a Proyectos.
+- El conjunto de lecciones aprendidas archivadas en el repositorio central.
+=El efecto o la capacidad que se obtiene al usar los entregables (el fin inmediato).
+>El Resultado representa el efecto inmediato o el cambio de capacidad organizativa que se experimenta al utilizar los entregables del proyecto.
+---
+¿Qué representa el 'Beneficio' en la cadena de valor de PM²?
+- El presupuesto asignado por el Órgano de Gobernanza Pertinente.
+- Las mejoras medibles y cuantificables derivadas del resultado, que representan el verdadero propósito de la inversión.
+- El acta de aceptación formal firmada por el Propietario del Proyecto.
+- Cualquier cambio imprevisto en los requisitos que sea aprobado por el CDP.
+=Las mejoras medibles y cuantificables derivadas del resultado, que representan el verdadero propósito de la inversión.
+>Los beneficios son las mejoras cuantificables derivadas de la puesta en uso del entregable (ej. aumento del 30% en productividad), justificando la inversión.
+---
+¿Cuándo se consolidan y miden, en la inmensa mayoría de los casos, los resultados y beneficios de un proyecto?
+- Durante la Fase de Planificación antes de marcar la línea de base.
+- Después del cierre del proyecto, cuando los entregables están plenamente operativos.
+- Exactamente al superar la puerta de fase LpE Listo para Ejecución.
+- Durante la Reunión de Inicio de Ejecución con la participación del ECP.
+=Después del cierre del proyecto, cuando los entregables están plenamente operativos.
+>Debido a su naturaleza a largo plazo, los resultados y beneficios reales de un proyecto suelen cristalizar y medirse una vez finalizado y cerrado administrativamente el proyecto.
+---
+¿Cómo define PM² la 'Gestión de Proyectos'?
+- Un conjunto de actividades de planificación, organización, obtención, supervisión y gestión de los recursos y el trabajo para alcanzar las metas de forma eficaz.
+- Un procedimiento puramente administrativo dedicado al archivo seguro de documentos.
+- La supervisión exclusiva de los subcontratistas externos por parte del CDP.
+- La adaptación automática de las herramientas informáticas a los procesos corporativos.
+=Un conjunto de actividades de planificación, organización, obtención, supervisión y gestión de los recursos y el trabajo para alcanzar las metas de forma eficaz.
+>La gestión de proyectos abarca todas las acciones de planificación, organización y control de los recursos humanos y materiales necesarias para cumplir el alcance.
+---
+¿Cuál es el deber del Director de Proyecto (DP) en relación con la adaptación o tailoring en el marco de la Gestión de Proyectos?
+- Exigir el cumplimiento estricto y total de las plantillas de PM² sin cambios.
+- Adaptar el enfoque, seleccionando únicamente las prácticas de PM² que aporten un verdadero valor añadido a su contexto específico.
+- Delegar de manera absoluta la personalización del Manual del Proyecto en la OSP.
+- Modificar de manera unilateral el Caso de Negocio para justificar retrasos en las entregas.
+=Adaptar el enfoque, seleccionando únicamente las prácticas de PM² que aporten un verdadero valor añadido a su contexto específico.
+>Es un deber profesional del DP adecuar la metodología al proyecto, aplicando con flexibilidad solo las prácticas que realmente sumen valor a los objetivos.
+---
+¿Cuáles son los objetivos críticos de gobierno y control que cumple la documentación del proyecto según el manual?
+- Justificar la ampliación indefinida de recursos del contratista externo.
+- Agudizar la planificación, definir la Línea de Base, registrar decisiones oficialmente y alimentar la memoria organizacional.
+- Acelerar las fases eliminando reuniones presenciales con los interesados.
+- Sustituir la autoridad del DP en las estructuras organizativas matriciales.
+=Agudizar la planificación, definir la Línea de Base, registrar decisiones oficialmente y alimentar la memoria organizacional.
+>La documentación en PM² estructura el pensamiento del equipo, fija líneas de base para control, documenta decisiones audivables y preserva el conocimiento histórico.
+---
+¿Qué cualidades debe reunir la documentación de un proyecto PM²?
+- Debe ser lo más extensa y detallada posible para evitar preguntas de los auditores.
+- Clara, fácil de entender y respetando siempre los estándares de formato y calidad de la organización.
+- Rígida e inalterable, sin permitir ningún tipo de adaptación o versión local.
+- Redactada con tecnicismos avanzados comprensibles únicamente para el Equipo Central del Proyecto.
+=Clara, fácil de entender y respetando siempre los estándares de formato y calidad de la organización.
+>La documentación de PM² debe estar orientada al valor de negocio, siendo clara, concisa y comprensible, respetando a la vez las directrices de calidad organizacionales.
+---
+¿Qué es la Oficina de Soporte a Proyectos (OSP) en el contexto de PM²?
+- Un comité estratégico que asume la responsabilidad total de la firma de contratos.
+- Una entidad organizacional (PMO) que provee servicios de apoyo a la gestión de proyectos, desde tareas administrativas hasta alineación estratégica.
+- Un departamento externo de consultoría de pago obligatorio para la Comisión Europea.
+- El equipo técnico encargado del desarrollo físico de las aplicaciones del cliente.
+=Una entidad organizacional (PMO) que provee servicios de apoyo a la gestión de proyectos, desde tareas administrativas hasta alineación estratégica.
+>La OSP (que equivale a la PMO) es la oficina física o virtual que asiste a los directores de proyectos en control de versiones, reportes consolidación y soporte metodológico.
+---
+¿Cuál de las siguientes es una función típica que desempeña la Oficina de Soporte a Proyectos (OSP)?
+- Aprobar unilateralmente las variaciones presupuestarias elevadas por el DP.
+- Asistencia, formación al DP, análisis de KPIs para informes, y mantenimiento del repositorio centralizado del proyecto.
+- Reemplazar al DP en la coordinación del Equipo Central del Proyecto.
+- Redactar el Acta de Constitución y el Caso de Negocio al inicio del proyecto.
+=Asistencia, formación al DP, análisis de KPIs para informes, y mantenimiento del repositorio centralizado del proyecto.
+>Las funciones clave de la OSP son de apoyo logístico y metodológico, incluyendo capacitación de DPs, análisis de métricas e informes, y administración del repositorio documental.
+---
+¿Cómo define PM² la 'Gestión de Programas'?
+- El control financiero centralizado de todas las actividades operativas de la UE.
+- El conjunto de proyectos relacionados e interdependientes gestionados de forma coordinada para obtener beneficios estratégicos.
+- La supervisión administrativa diaria de un único proyecto de desarrollo de software.
+- Un marco rígido de contratación externa de personal técnico de informática.
+=El conjunto de proyectos relacionados e interdependientes gestionados de forma coordinada para obtener beneficios estratégicos.
+>Un programa agrupa múltiples proyectos que presentan interdependencias entre sí, coordinándolos para obtener sinergias y beneficios que por separado se perderían.
+---
+¿Cuál es la función del Director de Programas (DPg) respecto a los proyectos individuales que componen su programa?
+- Gestionar y coordinar el día a día de las tareas de cada Equipo Central de Proyecto.
+- Coordinar la sinergia y los beneficios a nivel programa, pero sin gestionar directamente los proyectos individuales.
+- Nombrar y evaluar individualmente el desempeño de los ingenieros del contratista.
+- Aprobar las actas de reunión internas de los proyectos individuales de forma diaria.
+=Coordinar la sinergia y los beneficios a nivel programa, pero sin gestionar directamente los proyectos individuales.
+>El DPg gestiona a nivel estratégico la cohesión del programa y sus metas de alto nivel, dejando la gestión directa de cada proyecto a su respectivo Director de Proyecto.
+---
+¿Qué diferencia principal existe entre la Gestión de Programas y la Gestión de Carteras (Portfolio Management)?
+- La gestión de carteras es temporal, mientras que los programas son permanentes.
+- Los componentes de un programa son interdependientes, mientras que los de una cartera no tienen por qué estar relacionados o interconectados.
+- Las carteras solo agrupan operaciones rutinarias, mientras que los programas agrupan proyectos singulares.
+- El Director de Proyecto es el máximo aprobador en las carteras, pero depende de la OSP en los programas.
+=Los componentes de un programa son interdependientes, mientras que los de una cartera no tienen por qué estar relacionados o interconectados.
+>En los programas, los proyectos son estrictamente interdependientes para lograr una meta común. En las carteras, se agrupan por control y alineación estratégica, pudiendo ser totalmente inconexos.
+---
+¿Qué tipo de decisiones críticas se toman en el nivel superior de Gestión de Carteras de Proyectos?
+- Decisiones técnicas sobre la configuración de servidores y control de parches.
+- Decisiones de inversión financiera, priorización de iniciativas estratégicas y asignación del presupuesto general.
+- La redacción diaria de las actas de reuniones de seguimiento de los proyectos.
+- La resolución de conflictos internos entre los miembros del Equipo Central de Proyecto.
+=Decisiones de inversión financiera, priorización de iniciativas estratégicas y asignación del presupuesto general.
+>La cartera opera en la cúspide organizacional, decidiendo dónde invertir el capital institucional, qué proyectos iniciar o cancelar, y distribuyendo el presupuesto estratégico.
+---
+¿Cuál es la diferencia de ciclo fundamental entre los Proyectos y las Operaciones cotidianas de una organización?
+- Los proyectos carecen de un presupuesto asignado, mientras que las operaciones disponen de un fondo anual fijo.
+- Los proyectos finalizan (con la disolución de su equipo) al alcanzar sus metas, mientras que las operaciones son permanentes y repetitivas.
+- Las operaciones son lideradas por el DP, mientras que los proyectos dependen de la alta gerencia corporativa.
+- No existe ninguna diferencia; PM² unifica la gestión de ambos bajo los mismos procesos secuenciales.
+=Los proyectos finalizan (con la disolución de su equipo) al alcanzar sus metas, mientras que las operaciones son permanentes y repetitivas.
+>La temporalidad define al proyecto: nace y muere con sus metas. Las operaciones mantienen el negocio en marcha de forma indefinida y estable.
+---
+¿Qué representa la metáfora arquitectónica de 'La Casa de PM²' en la metodología?
+- La estructura física de las oficinas de soporte técnico de la Comisión Europea.
+- Cómo se integran y organizan los diferentes elementos de la metodología para sostener y guiar el proyecto hacia el éxito.
+- Un conjunto de reglas rígidas que prohíben la subcontratación de personal externo.
+- Un modelo de costes estructurado para estimar el presupuesto de edificios inteligentes.
+=Cómo se integran y organizan los diferentes elementos de la metodología para sostener y guiar el proyecto hacia el éxito.
+>De acuerdo con la Sección 3.1, la metáfora de 'La Casa de PM²' sirve para visualizar cómo interactúan todos sus elementos (pilares, cimiento, tejado) para soportar el proyecto.
+---
+¿Qué representa el cimiento sobre el que se asienta 'La Casa de PM²'?
+- Las directrices rígidas de la auditoría presupuestaria de la UE.
+- Las mejores prácticas en gestión de proyectos.
+- La estructura física de la Oficina de Soporte a Proyectos (OSP).
+- El modelo de gobernanza de la Capa de Ejecución.
+=Las mejores prácticas en gestión de proyectos.
+>El cimiento de la casa de PM² representa las mejores prácticas universales de gestión de proyectos sobre las que se construye la metodología.
+---
+¿Cuáles son los cuatro pilares fundamentales que sostienen el proyecto en 'La Casa de PM²'?
+- Tiempo, Coste, Calidad y Entorno Organizacional.
+- Gobernanza, Ciclo de Vida, Procesos y Artefactos.
+- Inicio, Planificación, Ejecución y Cierre.
+- Propietario del Proyecto, Director de Proyecto, Responsable de Negocio y Proveedor de Soluciones.
+=Gobernanza, Ciclo de Vida, Procesos y Artefactos.
+>Los cuatro pilares de 'La Casa de PM²' que sostienen el proyecto a lo largo de su existencia son: Gobernanza, Ciclo de Vida, Procesos y Artefactos.
+---
+¿Qué representa el tejado de 'La Casa de PM²'?
+- El presupuesto máximo asignado al proyecto.
+- La entrega eficaz de soluciones y beneficios.
+- El archivo seguro de las lecciones aprendidas.
+- El aseguramiento de la calidad de los procesos.
+=La entrega eficaz de soluciones y beneficios.
+>El tejado representa la meta final de la metodología: que el proyecto no solo entregue productos técnicos, sino que logre una entrega eficaz de soluciones y beneficios.
+---
+¿Qué es el 'pegamento' o lazo transversal en la metáfora de 'La Casa de PM²'?
+- El Enfoque PM² (Mindsets o mentalidades).
+- La estructura de la matriz RASCI.
+- El control de cambios documentales realizado por la OSP.
+- La supervisión financiera del OGP.
+=El Enfoque PM² (Mindsets o mentalidades).
+>El Enfoque PM² (Mindsets) actúa como elemento de unión y pegamento de todos los pilares, aportando valores, actitudes y comportamientos comunes al equipo.
+---
+¿Cuáles son las características del ciclo de vida en la Metodología PM²?
+- Consta de cuatro fases que se ejecutan de manera solapada y concurrente.
+- Consta de cuatro fases estrictamente secuenciales y no solapadas.
+- Es un modelo puramente iterativo y sin fases definidas.
+- Se compone de cinco fases que dependen del tipo de estructura organizativa.
+=Consta de cuatro fases estrictamente secuenciales y no solapadas.
+>PM² establece un ciclo de vida con cuatro fases secuenciales bien definidas (Inicio, Planificación, Ejecución, Cierre) que no se solapan entre sí.
+---
+¿Cómo se comporta el esfuerzo de las actividades frente a las fases del ciclo de vida en el ciclo de vida PM²?
+- El esfuerzo de las actividades nunca puede solaparse en el tiempo.
+- Las fases en sí son secuenciales, pero el esfuerzo de ciertos tipos de actividades (ej. planificación) puede solaparse en el tiempo.
+- El esfuerzo de planificación debe concluir por completo antes de iniciar la Fase de Inicio.
+- No se realiza esfuerzo de planificación durante la Fase de Ejecución.
+=Las fases en sí son secuenciales, pero el esfuerzo de ciertos tipos de actividades (ej. planificación) puede solaparse en el tiempo.
+>Aunque las fases físicas de PM² no se superponen, el esfuerzo dedicado a procesos específicos (como replanificar cambios durante la ejecución) sí puede solaparse temporalmente.
+---
+¿Qué error crítico (y frecuente en equipos inmaduros) busca evitar la existencia de un ciclo de vida estructurado en fases secuenciales?
+- La disolución prematura de los recursos del contratista externo.
+- Saltar directamente a la ejecución de tareas sin haber definido los objetivos ni planificado el trabajo.
+- El uso de herramientas informáticas de apoyo para la gestión documental.
+- La aprobación del presupuesto del proyecto por parte del OGP.
+=Saltar directamente a la ejecución de tareas sin haber definido los objetivos ni planificado el trabajo.
+>El paso estructurado por fases secuenciales evita que el equipo salte impulsivamente a ejecutar tareas sin previa justificación, alcance ni planificación, mitigando riesgos de fracaso.
+---
+¿Cuál es el objetivo primordial de la Fase de Inicio en el ciclo de vida PM²?
+- Crear la estructura de desglose del trabajo (EDT/WBS) y asignar costes.
+- Formular los objetivos, asegurar la alineación estratégica del proyecto y recibir aprobación (y fondos) para la siguiente fase.
+- Ejecutar las pruebas de aceptación de los usuarios finales (PAU).
+- Disolver el equipo central del proyecto de manera controlada.
+=Formular los objetivos, asegurar la alineación estratégica del proyecto y recibir aprobación (y fondos) para la siguiente fase.
+>La Fase de Inicio sienta las bases estratégicas, formula los objetivos de negocio del proyecto y solicita la aprobación y financiación inicial para planificar.
+---
+¿Qué tres artefactos clave se generan durante la Fase de Inicio de un proyecto PM²?
+- El Manual del Proyecto, el Plan de Trabajo y la Matriz RASCI.
+- La Solicitud de Inicio de Proyecto, el Caso de Negocio y el Acta de Constitución del Proyecto.
+- El Plan de Transición, el Plan de Externalización y las Lecciones Aprendidas.
+- El Informe de Situación, el Formulario de Cambios y la Lista de Calidad.
+=La Solicitud de Inicio de Proyecto, el Caso de Negocio y el Acta de Constitución del Proyecto.
+>En la Fase de Inicio, el marco de documentación se centra en tres documentos clave: Solicitud de Inicio, Caso de Negocio y Acta de Constitución (Project Charter).
+---
+¿Cuál es el objetivo principal de la Fase de Planificación en el ciclo de vida PM²?
+- Definir el Caso de Negocio para justificar la inversión del cliente.
+- Transformar la visión u objetivo del proyecto en un plan específico, medible y ejecutable.
+- Realizar el traspaso formal de los entregables aceptados (handover).
+- Recopilar todas las lecciones aprendidas de los miembros del equipo.
+=Transformar la visión u objetivo del proyecto en un plan específico, medible y ejecutable.
+>La Fase de Planificación tiene como propósito aterrizar el alcance, cronograma, coste y gobernanza para proveer un plan detallado listo para la ejecución.
+---
+¿Qué artefactos principales se generan durante la Fase de Planificación del proyecto?
+- Únicamente el Caso de Negocio y las solicitudes de cambio.
+- El Manual del Proyecto, el Plan de Trabajo del Proyecto, la Matriz de Partes Interesadas y los diversos Planes de Gestión.
+- El Acta de Constitución y el Documento de Aceptación de Entregables.
+- Los informes de auditoría y los registros de incidencias.
+=El Manual del Proyecto, el Plan de Trabajo del Proyecto, la Matriz de Partes Interesadas y los diversos Planes de Gestión.
+>La Fase de Planificación genera el grueso de la documentación rectora, incluyendo el Manual de Proyecto (Gobernanza) y el Plan de Trabajo (Alcance/Cronograma).
+---
+¿Cuál es el objetivo primordial de la Fase de Ejecución en PM²?
+- Definir los criterios de éxito y las tolerancias a alto nivel.
+- Producir los entregables (productos o servicios) de acuerdo con los planes establecidos.
+- Escribir la Solicitud de Inicio del proyecto de manera formal.
+- Elaborar un análisis DAFO de alternativas tecnológicas.
+=Producir los entregables (productos o servicios) de acuerdo con los planes establecidos.
+>La Fase de Ejecución se centra en el trabajo constructivo para fabricar, diseñar o entregar el producto/servicio que fue planificado en la fase previa.
+---
+¿Qué características de gestión diferencian a la Fase de Ejecución respecto a las otras fases del ciclo de vida?
+- Es la fase con menor consumo de recursos financieros de la organización.
+- Es la etapa del ciclo de vida que implica una mayor cantidad de recursos y requiere el mayor esfuerzo de seguimiento.
+- Se realiza sin la participación del Equipo Central del Proyecto (ECP).
+- No permite la implementación de cambios de requisitos una vez iniciada.
+=Es la etapa del ciclo de vida que implica una mayor cantidad de recursos y requiere el mayor esfuerzo de seguimiento.
+>La Fase de Ejecución es la más costosa y densa en recursos humanos y materiales, demandando el máximo nivel de control por parte del DP.
+---
+¿Con qué eventos o hitos comienza y termina formalmente la Fase de Ejecución?
+- Comienza con el Acta de Constitución y termina en la puerta de fase LpE.
+- Comienza con una Reunión de Inicio de Ejecución y termina con la aceptación (definitiva o provisional) de los entregables por parte del solicitante.
+- Comienza con la firma del contrato del PS y termina con la disolución de la OSP.
+- Comienza con la Solicitud de Inicio y concluye con el cierre administrativo del proyecto.
+=Comienza con una Reunión de Inicio de Ejecución y termina con la aceptación (definitiva o provisional) de los entregables por parte del solicitante.
+>La Fase de Ejecución tiene límites precisos: se abre con la Reunión de Inicio de Ejecución y finaliza tras aceptar el cliente los entregables producidos.
+---
+¿Cuál es el objetivo principal de la Fase de Cierre en PM²?
+- Definir las líneas de base del alcance y coste.
+- Transferir oficialmente los entregables terminados a la custodia del Propietario del Proyecto (PP) y cerrar el proyecto administrativamente.
+- Realizar las auditorías internas del aseguramiento de la calidad.
+- Iniciar la licitación de nuevos servicios con proveedores externos.
+=Transferir oficialmente los entregables terminados a la custodia del Propietario del Proyecto (PP) y cerrar el proyecto administrativamente.
+>La Fase de Cierre formaliza la entrega final del producto/servicio, archiva la documentación, documenta lecciones y disuelve administrativamente la organización temporal.
+---
+¿Qué actividades críticas componen el proceso de la Fase de Cierre?
+- Definir la estructura de gobernanza y nombrar al Director de Proyecto.
+- Recopilar Lecciones Aprendidas, archivar la documentación de forma segura, liberar recursos y emitir el Informe de Fin de Proyecto.
+- Elaborar las estimaciones de esfuerzo y coste y definir el cronograma.
+- Firmar las asignaciones de trabajo iniciales con el Equipo Central.
+=Recopilar Lecciones Aprendidas, archivar la documentación de forma segura, liberar recursos y emitir el Informe de Fin de Proyecto.
+>En la Fase de Cierre se consolida la memoria organizativa recopilando lecciones de valor, organizando el archivo final, liberando personal y emitiendo el reporte de cierre.
+---
+¿Cómo define PM² la naturaleza de las actividades de 'Seguimiento y Control'?
+- Como una quinta fase del ciclo de vida que se ejecuta de forma exclusiva tras el Cierre.
+- No es una fase aislada, sino un conjunto de actividades transversales que se realizan durante todas las fases del proyecto.
+- Como un proceso independiente que solo concierne al Aseguramiento de la Calidad (AdC).
+- Como una actividad puramente técnica a cargo del Director de Proyecto del Contratista (DPC).
+=No es una fase aislada, sino un conjunto de actividades transversales que se realizan durante todas las fases del proyecto.
+>El Seguimiento y Control es transversal al ciclo de vida entero; monitoriza continuamente el avance y aplica medidas proactivas ante desviaciones.
+---
+¿Qué diferencia clave existe entre la actividad de 'Seguimiento' (Monitorizar) y la de 'Control' en el contexto de PM²?
+- Seguimiento es la auditoría financiera externa, y Control es el archivo seguro de actas.
+- Seguimiento es la medición continua del progreso frente a la Línea de Base, mientras que Control es la identificación y aplicación de acciones correctivas.
+- Seguimiento lo realiza el DP, y el Control lo asume exclusivamente el Propietario del Proyecto (PP).
+- No existe ninguna diferencia; la metodología utiliza ambos términos de forma intercambiable sin distinción formal.
+=Seguimiento es la medición continua del progreso frente a la Línea de Base, mientras que Control es la identificación y aplicación de acciones correctivas.
+>Seguimiento recopila datos y mide el estado real contra los planes (líneas de base), mientras que Control decide y ejecuta las acciones necesarias para corregir las desviaciones.
+---
+¿Qué son las 'Puertas de Fase' (Phase Gates) y para qué sirven en la metodología PM²?
+- Sistemas de seguridad física para restringir el acceso a los servidores de desarrollo de la UE.
+- Puntos de revisión y control estricto de calidad al final de cada fase para autorizar de forma gobernada el avance a la siguiente fase.
+- Hitos de control financiero exclusivos para el cobro de facturas del contratista.
+- Reuniones de carácter informal entre el DP y el Equipo Central para debatir riesgos.
+=Puntos de revisión y control estricto de calidad al final de cada fase para autorizar de forma gobernada el avance a la siguiente fase.
+>Las Puertas de Fase actúan de aduana de calidad al final de las fases de Inicio, Planificación y Ejecución, requiriendo aprobación formal para continuar.
+---
+¿Cuál es la ubicación exacta y qué evalúa la puerta de fase 'LpP' (Listo para Planificación)?
+- Se ubica al inicio del proyecto y evalúa la Solicitud de Inicio.
+- Se ubica al final de la Fase de Inicio y evalúa la viabilidad del Caso de Negocio y el Acta de Constitución.
+- Se ubica al final de la Fase de Planificación y evalúa el Plan de Trabajo.
+- Se ubica a la mitad de la Fase de Ejecución para validar los requisitos.
+=Se ubica al final de la Fase de Inicio y evalúa la viabilidad del Caso de Negocio y el Acta de Constitución.
+>LpP (Listo para Planificación) es la primera puerta. Examina al término de la Fase de Inicio si los objetivos y justificación comercial justifican iniciar la planificación.
+---
+¿Cuál es la ubicación exacta y qué evalúa la puerta de fase 'LpE' (Listo para Ejecución)?
+- Se ubica al final de la Fase de Inicio para autorizar el Acta de Constitución.
+- Se ubica al final de la Fase de Planificación y evalúa si se dispone de un Manual del Proyecto y un Plan de Trabajo debidamente aprobados.
+- Se ubica al final de la Fase de Ejecución y evalúa el Documento de Aceptación de Entregables.
+- Se ubica de forma transversal durante todo el ciclo de vida del proyecto.
+=Se ubica al final de la Fase de Planificación y evalúa si se dispone de un Manual del Proyecto y un Plan de Trabajo debidamente aprobados.
+>LpE (Listo para Ejecución) se sitúa al cierre de la Fase de Planificación, verificando que los planes del proyecto estén listos y aprobados antes de consumir recursos.
+---
+¿Cuál es la ubicación exacta y qué evalúa la puerta de fase 'LpC' (Listo para Cierre)?
+- Se ubica al inicio de la Fase de Cierre y evalúa el borrador del Informe de Fin de Proyecto.
+- Se ubica al final de la Fase de Ejecución y evalúa si los entregables han sido aceptados (al menos provisionalmente) y si la transición ha finalizado.
+- Se ubica al final de la Fase de Cierre para disolver administrativamente el equipo del proyecto.
+- Se ubica transversalmente en la Fase de Planificación para revisar la aceptación del cliente.
+=Se ubica al final de la Fase de Ejecución y evalúa si los entregables han sido aceptados (al menos provisionalmente) y si la transición ha finalizado.
+>LpC (Listo para Cierre) es la tercera puerta. Al final de la Ejecución, valida que el producto esté entregado, aceptado preliminarmente y que la transición operativa se haya cumplido.
+---
+¿Quién es el agente o rol clave responsable de liderar las actividades durante la Fase de Inicio?
+- El Director de Proyecto (DP).
+- El Propietario del Proyecto (PP).
+- El Equipo Central del Proyecto (ECP).
+- Las Partes Interesadas del proyecto.
+=El Propietario del Proyecto (PP).
+>El Propietario del Proyecto (PP) es el agente clave de la Fase de Inicio, ya que lidera la justificación estratégica e inicia formalmente la propuesta.
+---
+¿Quién es el agente o rol clave responsable de liderar la Fase de Planificación?
+- El Propietario del Proyecto (PP).
+- El Director de Proyecto (DP).
+- El Equipo Central del Proyecto (ECP).
+- El Aseguramiento de la Calidad (AdC).
+=El Director de Proyecto (DP).
+>Durante la Fase de Planificación, el Director de Proyecto (DP) es el rol central de liderazgo, coordinando el diseño de todos los planes del proyecto.
+---
+¿Quién es el agente o rol clave que asume la responsabilidad principal durante la Fase de Ejecución?
+- El Director de Proyecto (DP).
+- El Equipo Central del Proyecto (ECP).
+- El Responsable de Negocio (RN).
+- El Órgano de Gobernanza Pertinente (OGP).
+=El Equipo Central del Proyecto (ECP).
+>El Equipo Central del Proyecto (ECP) es el agente clave de la Fase de Ejecución, ya que son los expertos que fabrican y entregan físicamente los entregables.
+---
+¿Quiénes son los agentes clave que asumen la responsabilidad principal en la Fase de Cierre?
+- El Director de Proyecto del Contratista (DPC).
+- Las Partes Interesadas del proyecto.
+- El Aseguramiento de la Calidad (AdC).
+- La Oficina de Soporte a Proyectos (OSP).
+=Las Partes Interesadas del proyecto.
+>Las Partes Interesadas son el agente clave en la Fase de Cierre, ya que evalúan los resultados obtenidos y asumen la propiedad e integración definitiva del cambio.
+---
+¿Qué dimensión o escala mínima debe superar un proyecto para requerir la aplicación de la Metodología PM² en su totalidad?
+- Debe durar más de un año e involucrar a más de 20 personas fijas.
+- Debe durar más de 4-5 semanas e involucrar a más de 2-3 personas.
+- Debe contar con un presupuesto de externalización superior a los 100.000 euros.
+- Debe ser de desarrollo tecnológico e implicar al menos a dos OLAP locales.
+=Debe durar más de 4-5 semanas e involucrar a más de 2-3 personas.
+>PM² está pensada para ser ágil, pero para aplicar todo su aparato de gobernanza y procesos, el proyecto debe durar al menos unas 4-5 semanas y requerir un equipo de 2-3 personas.
+---
+¿Qué tipo de actividades obligatorias diferencian a un 'Proyecto PM²' de una actividad técnica simple de producción?
+- La programación y el control diario del código fuente.
+- El requisito de incluir actividades de transición e implementación en el negocio.
+- La obligatoriedad de contratar un seguro de responsabilidad civil externo.
+- La firma diaria de las horas de asistencia de los miembros del equipo.
+=El requisito de incluir actividades de transición e implementación en el negocio.
+>Un proyecto PM² no es una mera entrega técnica. Exige de forma mandatoria planificar y ejecutar la transición e implantación del cambio organizacional en el negocio del cliente.
+---
+¿Cuál es el principio fundamental que sostiene el Enfoque PM² (Mindsets) en relación con el uso de metodologías?
+- Las metodologías son inalterables y los proyectos deben adaptarse estrictamente a ellas.
+- Las metodologías están para servir a los proyectos y no al revés.
+- La documentación detallada es prioritaria sobre la entrega de soluciones físicas.
+- La gobernanza corporativa debe prevalecer sobre la competencia individual.
+=Las metodologías están para servir a los proyectos y no al revés.
+>El Enfoque PM² defiende una visión pragmática: el marco metodológico es una herramienta de soporte que debe aportar valor y servir al éxito del proyecto, evitando la rigidez.
+---
+¿Qué son las 'Preguntas Poco Frecuentes' (PPF) en el contexto del Enfoque PM²?
+- Un glosario de términos técnicos complejos del área de informática de la UE.
+- Un ejercicio reflexivo crítico que el equipo de proyecto se plantea para asegurar el valor, la implicación adecuada, la ética, los riesgos y el foco en el Producto Mínimo Viable (PMV).
+- Un cuestionario confidencial de evaluación de desempeño que el PP realiza al DP.
+- Las preguntas de examen de certificación que suelen tener un mayor porcentaje de fallos.
+=Un ejercicio reflexivo crítico que el equipo de proyecto se plantea para asegurar el valor, la implicación adecuada, la ética, los riesgos y el foco en el Producto Mínimo Viable (PMV).
+>Las PPF son preguntas de control reflexivo (ej. ¿Sabemos por qué lo hacemos?, ¿Es esto importante?) diseñadas para mantener al proyecto alineado con la ética y el valor.
+---
+¿Cómo define PM² el concepto de 'Adaptación' (Tailoring)?
+- Ajustes específicos realizados por el DP que solo aplican a un proyecto concreto.
+- Cambiar partes de la metodología (procesos, roles) para alinearla con la estructura o cultura de la organización o departamento.
+- La traducción y edición del manual a los idiomas de los Estados Miembros.
+- El proceso de contratación y gestión de los recursos externos aportados por el PS.
+=Cambiar partes de la metodología (procesos, roles) para alinearla con la estructura o cultura de la organización o departamento.
+>La Adaptación (Tailoring) consiste en modificar o simplificar elementos del marco PM² a nivel institucional o departamental para integrarlos en su modelo organizativo.
+---
+¿Cómo define PM² el concepto de 'Personalización' (Customization)?
+- La asignación de nombres y apellidos de personas reales a los roles estándar.
+- Ajustes específicos que se deciden y aplican a nivel de un proyecto específico.
+- El diseño de un logotipo y una marca visual exclusiva para el proyecto del cliente.
+- La adquisición de hardware a medida según las necesidades del Equipo Central.
+=Ajustes específicos que se deciden y aplican a nivel de un proyecto específico.
+>La Personalización (Customization) representa las adaptaciones de rigor, umbrales de decisión o plantillas que se configuran exclusivamente para la realidad de un proyecto concreto.
+---
+¿Dónde deben documentarse obligatoriamente todas las decisiones de adaptación (tailoring) o personalización de un proyecto?
+- En el Caso de Negocio aprobado en la fase de Inicio.
+- En el Manual del Proyecto.
+- En el Acta de Constitución redactada por el DP.
+- En el Informe de Fin de Proyecto de la Fase de Cierre.
+=En el Manual del Proyecto.
+>Toda desviación, simplificación o ajuste que se aplique sobre el estándar de PM² para un proyecto concreto debe justificarse y registrarse formalmente en el Manual del Proyecto.
+---
+¿Cuál es la regla de oro de PM² respecto a los límites de la adaptación metodológica?
+- Está prohibido realizar cualquier tipo de cambio en los nombres de las fases.
+- No se deben eliminar elementos enteros (como fases o roles completos); en su lugar, se debe reducir su rigor o 'hacerlos lean'.
+- Cualquier cambio requiere la previa aprobación por escrito del CoEPM² central.
+- Solo se permite la adaptación en proyectos que no cuenten con presupuesto de externalización.
+=No se deben eliminar elementos enteros (como fases o roles completos); en su lugar, se debe reducir su rigor o 'hacerlos lean'.
+>PM² permite aligerar procesos y documentación para ser más ágiles ('lean'), pero prohíbe mutilar la estructura de gobernanza o saltarse fases completas del ciclo.
+---
+¿Cuál es el propósito estratégico de integrar PM² con enfoques de desarrollo ágiles (PM² Ágil)?
+- Eliminar por completo la necesidad de emitir informes de progreso para el CDP.
+- Coordinar y dar soporte a equipos que usen marcos ágiles dentro de entornos organizacionales que exigen stictas auditorías, control financiero y gobernanza.
+- Sustituir las funciones operativas de la OSP por un Scrum Master externo.
+- Agilizar la disolución del equipo central en la Fase de Ejecución.
+=Coordinar y dar soporte a equipos que usen marcos ágiles dentro de entornos organizacionales que exigen stictas auditorías, control financiero y gobernanza.
+>PM² Ágil permite beneficiarse del desarrollo adaptativo y rápido de software sin renunciar al control corporativo, auditoría y gobernanza indispensables en la administración.
+---
+¿Qué características de integración metodológica promueve la extensión PM² Ágil?
+- Planificación adaptativa, ciclos de retroalimentación cortos, desarrollo incremental, implicación continua y aceptación del cambio.
+- Modelos rígidos de cascada, contratos cerrados sin cambios y escasa comunicación con stakeholders.
+- La eliminación de la matriz RASCI y de los roles de PP y RN.
+- La supresión de las puertas de fase y el control del cronograma por el OGP.
+=Planificación adaptativa, ciclos de retroalimentación cortos, desarrollo incremental, implicación continua y aceptación del cambio.
+>PM² Ágil promueve la flexibilidad integrando iteraciones de desarrollo, inspección frecuente y adaptación de planes, dentro del marco de gobernanza institucional.
+---
+¿Cómo define PM² formalmente el concepto de 'Parte Interesada' (Stakeholder)?
+- Únicamente los miembros contratados por el Proveedor de Soluciones para crear los entregables.
+- Personas o grupos que pueden afectar, ser afectadas o sentirse afectadas por las actividades o los resultados del proyecto.
+- Los directores de la organización que firman de manera conjunta el Caso de Negocio.
+- Los auditores independientes del departamento de Aseguramiento de la Calidad.
+=Personas o grupos que pueden afectar, ser afectadas o sentirse afectadas por las actividades o los resultados del proyecto.
+>Stakeholder es todo actor (persona, grupo, comunidad, entidad) cuyo estatus, trabajo o interés pueda interferir con el proyecto o verse impactado por él.
+---
+¿Por qué es crucial gestionar eficazmente e implicar tempranamente a las partes interesadas según la guía?
+- Para evitar que el Director de Proyecto deba redactar el Plan de Trabajo del Proyecto.
+- Porque las partes interesadas pueden ser valiosos aliados o actuar bloqueando el proyecto, influyendo directamente en el éxito.
+- Para eximir a la organización de cumplir con las normativas de privacidad y protección de datos.
+- Porque el OGP exige su firma en todas las solicitudes de cambio del proyecto.
+=Porque las partes interesadas pueden ser valiosos aliados o actuar bloqueando el proyecto, influyendo directamente en el éxito.
+>Dado que los stakeholders pueden influir poderosamente a favor o en contra del proyecto, su identificación y comunicación proactiva resulta indispensable para el éxito.
+---
+¿Qué distinción fundamental de procedencia establece la estructura de gobernanza de PM² en sus capas y roles?
+- La distinción entre el personal de la Comisión Europea y las agencias nacionales.
+- La distinción clara entre la parte solicitante (cliente) y la parte proveedora (ejecutor).
+- La división entre recursos financieros internos y presupuestos externos de licitación.
+- La separación estricta entre directores de proyecto noveles y DPs experimentados.
+=La distinción clara entre la parte solicitante (cliente) y la parte proveedora (ejecutor).
+>Para evitar conflictos de interés y asegurar el control, PM² equilibra la gobernanza separando los roles que piden el cambio (solicitante) de los que lo construyen (proveedora).
+---
+¿Cuál es la función principal de la Capa de Gobernanza en la organización de proyectos de PM²?
+- Supervisar la creación técnica de los entregables por parte del Equipo Central.
+- Determinar la visión y estrategia corporativa a nivel de alta dirección, definir prioridades y asignar recursos globales.
+- Coordinar directamente las reuniones de planificación de los directores de proyectos.
+- Auditar el cumplimiento de los parches de seguridad de los sistemas de información.
+=Determinar la visión y estrategia corporativa a nivel de alta dirección, definir prioridades y asignar recursos globales.
+>La Capa de Gobernanza actúa en el plano estratégico institucional, definiendo qué proyectos se alinean con los objetivos de negocio y proveyendo los fondos iniciales.
+---
+¿Qué función cumple y qué niveles integra la Capa Rectora en PM²?
+- Define de manera única las actividades de transición y plan de aceptación del contratista.
+- Proporciona orientación general manteniendo al proyecto centrado en sus objetivos, e integra los roles de las capas de Dirección y Gestión.
+- Sustituye la autoridad de toma de decisiones del Propietario del Proyecto.
+- Realiza las pruebas de aceptación técnica del software del cliente.
+=Proporciona orientación general manteniendo al proyecto centrado en sus objetivos, e integra los roles de las capas de Dirección y Gestión.
+>La Capa Rectora asume la tutela global del proyecto integrando la visión estratégica de Dirección (PP, PS) y la visión táctica de Gestión (RN, DP).
+---
+¿Qué funciones estratégicas definen a la Capa de Dirección y qué roles la componen?
+- Realiza el trabajo técnico del proyecto; compuesta por el GIN y el ECP.
+- Abandera el proyecto, moviliza los recursos necesarios y asume la propiedad del Caso de Negocio; compuesta por el Propietario del Proyecto (PP) y el Proveedor de Soluciones (PS).
+- Controla el día a día operativo; compuesta por el Responsable de Negocio (RN) y el DP.
+- Audita procesos de manera independiente; compuesta de forma exclusiva por el AdC.
+=Abandera el proyecto, moviliza los recursos necesarios y asume la propiedad del Caso de Negocio; compuesta por el Propietario del Proyecto (PP) y el Proveedor de Soluciones (PS).
+>La Capa de Dirección define los límites estratégicos y asume el compromiso del Caso de Negocio; está conformada por el PP y el PS como cabezas patrocinadoras.
+---
+¿Qué funciones definen a la Capa de Gestión y qué roles la integran en PM²?
+- Determina el presupuesto financiero del OGP; integrada por el PP y el OGP.
+- Se concentra en organizar, dar seguimiento y controlar el día a día para producir los entregables; integrada por el Responsable de Negocio (RN) y el Director de Proyecto (DP).
+- Planifica e implementa los cambios en los procesos de negocio de la empresa; integrada por el GIN.
+- Coordina el aseguramiento de la calidad de forma independiente; integrada por el AdC.
+=Se concentra en organizar, dar seguimiento y controlar el día a día para producir los entregables; integrada por el Responsable de Negocio (RN) y el Director de Proyecto (DP).
+>La Capa de Gestión es la encargada del motor operativo del proyecto; el RN por el lado cliente y el DP por el lado ejecutor coordinan las tareas diarias.
+---
+¿Qué funciones definen a la Capa de Ejecución y qué roles la componen?
+- Determina el presupuesto estratégico del proyecto; compuesta por el PP y el OGP.
+- Lleva a cabo el trabajo físico, produce los entregables y los aplica en la organización; compuesta por el Grupo de Implementación en el Negocio (GIN) y el Equipo Central del Proyecto (ECP).
+- Supervisa de forma independiente la calidad de los procesos; compuesta por el AdC y la OSP.
+- Gestiona los contratos de externalización; compuesta de forma exclusiva por el DP y el DPC.
+=Lleva a cabo el trabajo físico, produce los entregables y los aplica en la organización; compuesta por el Grupo de Implementación en el Negocio (GIN) y el Equipo Central del Proyecto (ECP).
+>De acuerdo con la Sección 4.2, la Capa de Ejecución se encarga de la realización física del trabajo y la asimilación del cambio, integrada por el GIN y el ECP.
+---
+¿Cómo se define formalmente el Órgano de Gobernanza Pertinente (OGP) en PM²?
+- Un comité temporal creado por el Director del Proyecto para resolver conflictos técnicos.
+- Una entidad directiva permanente responsable de la planificación estratégica y la gestión de carteras de proyectos en la organización.
+- El grupo de usuarios finales que realiza las pruebas de aceptación provisional.
+- La oficina descentralizada encargada de dar formación en metodologías al Equipo Central.
+=Una entidad directiva permanente responsable de la planificación estratégica y la gestión de carteras de proyectos en la organización.
+>El OGP es el órgano corporativo permanente de máximo nivel jerárquico que aprueba, dota de presupuesto y optimiza la cartera de proyectos de la organización.
+---
+¿Cuál es la composición obligatoria mínima del Comité de Dirección del Proyecto (CDP) y quién lo preside?
+- Está compuesto por el DP, el ADP y el ECP; presidido por el Director del Proyecto.
+- Está compuesto por los cuatro roles rectores (PP, PS, RN, DP) y está presidido por el Propietario del Proyecto (PP).
+- Está compuesto por representantes del OGP y auditores externos; presidido por el CoEPM².
+- Está compuesto de forma exclusiva por el Responsable de Negocio (RN) y los Representantes de Usuarios; presidido por el RN.
+=Está compuesto por los cuatro roles rectores (PP, PS, RN, DP) y está presidido por el Propietario del Proyecto (PP).
+>El CDP es el órgano de decisión del proyecto presidido por el PP (cliente principal) y conformado obligatoriamente por el PS, el RN y el DP.
+---
+¿Cuáles son las funciones y responsabilidades clave que asume el Comité de Dirección del Proyecto (CDP)?
+- Redactar de forma exclusiva la Solicitud de Inicio y el Caso de Negocio.
+- Guía el proyecto a nivel estratégico, garantiza el cumplimiento de las políticas de la organización, aprueba planes y resuelve incidencias elevadas por el DP.
+- Desarrollar el cronograma detallado y realizar el control técnico de configuración.
+- Ejecutar físicamente las pruebas de aceptación de los usuarios finales (PAU).
+=Guía el proyecto a nivel estratégico, garantiza el cumplimiento de las políticas de la organización, aprueba planes y resuelve incidencias elevadas por el DP.
+>El CDP ejerce la rectoría táctica y estratégica del proyecto, aprobando el Acta de Constitución y el Plan de Trabajo, gestionando desviaciones y resolviendo conflictos.
+---
+¿Qué responsabilidades recaen sobre el Propietario del Proyecto (PP) en el marco de PM²?
+- Nombrar de manera directa al Director de Proyecto (DP) y movilizar sus recursos técnicos.
+- Establecer los objetivos de negocio, aceptar el Caso de Negocio, asumir la propiedad de los riesgos de negocio y responder del éxito del proyecto.
+- Elaborar de manera física todos los planes de gestión y el cronograma del proyecto.
+- Supervisar el día a día técnico y asignar tareas individuales al Equipo Central.
+=Establecer los objetivos de negocio, aceptar el Caso de Negocio, asumir la propiedad de los riesgos de negocio y responder del éxito del proyecto.
+>El PP representa al cliente patrocinador: es el dueño del Caso de Negocio, de sus riesgos asociados y el responsable último de que el proyecto aporte el valor esperado.
+---
+¿Qué responsabilidades definen al rol del Proveedor de Soluciones (PS) en la Capa de Dirección?
+- Representar diariamente al Propietario del Proyecto ante el Equipo Central.
+- Asume la responsabilidad de entregar los entregables y servicios solicitados, moviliza los recursos de la parte proveedora y nombra al Director de Proyecto (DP).
+- Elaborar la Solicitud de Inicio y el Plan de Implementación en el Negocio.
+- Garantizar el cambio cultural y el rediseño de procesos de la organización del cliente.
+=Asume la responsabilidad de entregar los entregables y servicios solicitados, moviliza los recursos de la parte proveedora y nombra al Director de Proyecto (DP).
+>El PS representa a la parte constructora (proveedor); se responsabiliza de la calidad del producto final, facilita los recursos técnicos y designa formalmente al DP.
+---
+¿Qué responsabilidades tiene el Responsable de Negocio (RN) en la Capa de Gestión?
+- Supervisar el día a día técnico del Equipo Central de Proyecto.
+- Representa al PP diariamente, coordina al GIN, y elabora tres artefactos exclusivos: Solicitud de Inicio, Caso de Negocio y Plan de Implementación en el Negocio.
+- Aprobar de manera directa y presupuestaria el Plan de Externalización del proyecto.
+- Auditar de forma independiente e imparcial los procesos del proyecto reportando al CDP.
+=Representa al PP diariamente, coordina al GIN, y elabora tres artefactos exclusivos: Solicitud de Inicio, Caso de Negocio y Plan de Implementación en el Negocio.
+>El RN representa al cliente (PP) operativamente. Su misión es asegurar que los entregables sirvan a los usuarios, coordinando el cambio de negocio y redactando el Business Case.
+---
+¿Cuáles son las responsabilidades críticas del Director de Proyecto (DP) en PM²?
+- Aceptar formalmente los entregables y redactar el Caso de Negocio.
+- Supervisa el día a día, coordina al ECP y garantiza la entrega de resultados dentro de las restricciones, supervisando todos los planes excepto los de negocio.
+- Asumir de manera total la propiedad de los riesgos de negocio del proyecto.
+- Presidir de manera obligatoria las sesiones de toma de decisiones del CDP.
+=Supervisa el día a día, coordina al ECP y garantiza la entrega de resultados dentro de las restricciones, supervisando todos los planes excepto los de negocio.
+>El DP gestiona y coordina el esfuerzo constructor, liderando al equipo técnico para cumplir el Plan de Trabajo respetando tiempo, coste y calidad.
+---
+¿Qué función principal desempeña el Grupo de Implementación en el Negocio (GIN)?
+- Diseñar las bases de datos y la arquitectura técnica del sistema de información.
+- Planificar e implementar los cambios en los procesos y la cultura organizativa del cliente para asimilar el nuevo producto en el día a día.
+- Auditar la configuración física del proyecto de manera independiente al DP.
+- Aprobar de manera formal el cierre del proyecto y la liberación de fondos.
+=Planificar e implementar los cambios en los procesos y la cultura organizativa del cliente para asimilar el nuevo producto en el día a día.
+>El GIN representa a los usuarios del negocio en la parte cliente. Planifican la gestión del cambio necesaria para que los entregables se integren con éxito en la rutina diaria.
+---
+¿Qué funciones asumen los Representantes de Usuarios (RU) dentro del GIN?
+- Dirigir y coordinar las tareas cotidianas del Equipo Central del Proyecto.
+- Defienden los intereses de los usuarios finales, definen requisitos detallados, y realizan las pruebas de aceptación (UAT).
+- Nombrar de forma oficial al Director de Proyecto del Contratista (DPC).
+- Supervisar el presupuesto financiero de la cartera de proyectos del OGP.
+=Defienden los intereses de los usuarios finales, definen requisitos detallados, y realizan las pruebas de aceptación (UAT).
+>Los RU velan por que la solución responda a las necesidades reales del usuario de negocio, especificando los requisitos y validándolos mediante pruebas de aceptación.
+---
+¿Qué papel desempeña el Director de Proyecto del Contratista (DPC)?
+- Aprobar las solicitudes de cambio en el presupuesto institucional del CDP.
+- Lidera al personal subcontratado y asegura los estándares de calidad de las actividades externalizadas.
+- Sustituir al Director de Proyecto (DP) en la redacción del Manual del Proyecto.
+- Liderar de manera exclusiva la gestión del cambio organizativo del cliente.
+=Lidera al personal subcontratado y asegura los estándares de calidad de las actividades externalizadas.
+>El DPC es el líder técnico designado por la empresa externa subcontratada, coordinando a sus propios ingenieros y reportando los progresos al DP.
+---
+¿Sobre quién recae la responsabilidad final de la gestión en el caso de utilizar el rol opcional de Adjunto al Director de Proyecto (ADP)?
+- Se comparte de forma solidaria e idéntica entre el DP y el ADP.
+- Pasa a ser responsabilidad exclusiva de la OSP local.
+- El Director de Proyecto (DP) mantiene de forma exclusiva la responsabilidad final.
+- Recae sobre el Proveedor de Soluciones que autorizó el nombramiento del ADP.
+=El Director de Proyecto (DP) mantiene de forma exclusiva la responsabilidad final.
+>El ADP asiste al DP en la administración de proyectos complejos o de gran escala, pero el DP sigue siendo el único responsable final de todas las actividades y entregables.
+---
+¿Cómo opera y ante quién reporta el Aseguramiento de la Calidad del Proyecto (AdC) en PM²?
+- Reporta directamente al DP para mantener la consistencia operativa.
+- Trabaja y audita de manera independiente al DP, reportando de forma directa y exclusiva al Comité de Dirección del Proyecto (CDP).
+- Trabaja bajo las órdenes del Responsable de Negocio, reportando al GIN.
+- Depende administrativamente del Director de Proyecto del Contratista (DPC).
+=Trabaja y audita de manera independiente al DP, reportando de forma directa y exclusiva al Comité de Dirección del Proyecto (CDP).
+>Para garantizar la máxima objetividad e imparcialidad en sus evaluaciones, el AdC es totalmente independiente del DP y eleva sus informes de auditoría directo al CDP.
+---
+¿Qué es la matriz RAM (RASCI) en el contexto organizativo de PM²?
+- Un algoritmo matemático para optimizar la duración de las tareas del cronograma.
+- Una matriz que documenta la asignación de responsabilidades de cada actividad para evitar ambigüedades en el proyecto.
+- Un formulario para registrar los parches de seguridad de los sistemas de TI.
+- Un estándar de codificación para la gestión de la configuración documental.
+=Una matriz que documenta la asignación de responsabilidades de cada actividad para evitar ambigüedades en el proyecto.
+>La matriz RASCI define la gobernanza a nivel operativo, aclarando quién ejecuta, quién aprueba, quién soporta, quién es consultado y quién es informado en cada tarea.
+---
+¿Cuál es la regla de oro respecto a la asignación de roles de Responsable (R) y Aprobador (A) por tarea según el modelo RASCI de PM²?
+- Se deben asignar múltiples aprobadores (A) en cada tarea para fomentar el consenso.
+- Es estrictamente obligatorio que exista un único (1) Aprobador (A) por artefacto o tarea.
+- No es obligatorio definir un Responsable (R) si la tarea es de baja prioridad.
+- El DP debe ser obligatoriamente el Aprobador (A) de todas las tareas del proyecto.
+=Es estrictamente obligatorio que exista un único (1) Aprobador (A) por artefacto o tarea.
+>Para evitar la dilución de responsabilidades, cada tarea en la matriz RASCI debe contar con un solo Aprobador (A) que responda de forma última de su calidad.
+---
+¿Qué diferencia existe entre un rol Consultado (C) y un rol Informado (I) en la matriz RASCI?
+- El rol Consultado ejecuta el trabajo físico, y el Informado aprueba el presupuesto.
+- Consultado aporta opinión mediante comunicación bidireccional antes o durante la tarea; Informado es notificado mediante comunicación unidireccional tras finalizar.
+- Consultado representa al cliente, e Informado pertenece en exclusividad al contratista.
+- No existe diferencia; representan el mismo nivel de comunicación bidireccional en el proyecto.
+=Consultado aporta opinión mediante comunicación bidireccional antes o durante la tarea; Informado es notificado mediante comunicación unidireccional tras finalizar.
+>Consultado (C) es parte de un proceso interactivo de feedback previo a la acción, mientras que Informado (I) es un receptor pasivo del estado final de la actividad.
+---
+¿Cómo se define formalmente la Fase de Inicio del ciclo de vida PM²?
+- Es la etapa en la que se genera la estructura de desglose del trabajo de forma detallada.
+- Es la primera fase, que comienza identificando una necesidad, problema u oportunidad y establece la justificación estratégica y financiera para el proyecto.
+- Es el hito que formaliza la entrega de los productos al departamento de soporte técnico.
+- Representa el cierre de los contratos comerciales con el Proveedor de Soluciones.
+=Es la primera fase, que comienza identificando una necesidad, problema u oportunidad y establece la justificación estratégica y financiera para el proyecto.
+>La Fase de Inicio es el paso de apertura del ciclo de vida, orientada a justificar formalmente por qué la organización debe invertir recursos en el proyecto.
+---
+¿Cuál es el objetivo principal de la Reunión de Inicio (Kick-off Meeting) al comienzo de la Fase de Inicio?
+- Aprobar formalmente el Plan de Trabajo detallado y firmar contratos.
+- Reunir informalmente al iniciador, PP e interesados clave para presentar la información inicial, lecciones anteriores y decidir si se redacta la Solicitud de Inicio.
+- Nombrar de manera definitiva al Director de Proyecto del Contratista.
+- Definir los umbrales de riesgo detallados para el Manual del Proyecto.
+=Reunir informalmente al iniciador, PP e interesados clave para presentar la información inicial, lecciones anteriores y decidir si se redacta la Solicitud de Inicio.
+>Esta reunión de apertura informal explora la idea del proyecto, analiza el histórico organizacional y evalúa si merece la pena redactar la Solicitud de Inicio.
+---
+¿Qué es la Solicitud de Inicio de Proyecto, quién la redacta y quién la aprueba en la matriz RASCI?
+- Un manual técnico redactado por el contratista y aprobado por el DP.
+- Un artefacto que formaliza el arranque del proyecto; es redactado (R) por el Responsable de Negocio (RN) y aprobado (A) por el PP o el OGP.
+- Un documento presupuestario redactado por el DP y aprobado por el CDP.
+- Un registro de riesgos inicial redactado por la OSP y aprobado por el Aseguramiento de Calidad.
+=Un artefacto que formaliza el arranque del proyecto; es redactado (R) por el Responsable de Negocio (RN) y aprobado (A) por el PP o el OGP.
+>La Solicitud de Inicio plasma la necesidad de negocio del cliente. El RN la prepara y el Propietario o el OGP le dan el visto bueno inicial para avanzar.
+---
+¿Cómo define la metodología el Caso de Negocio (Business Case) y cuál es su finalidad?
+- Un manual de diseño técnico que especifica los algoritmos de codificación.
+- Un documento estratégico que establece la lógica y la justificación de la inversión en tiempo y recursos del proyecto.
+- Un registro oficial para detallar las horas imputadas por el Equipo Central.
+- Un plan detallado para la disolución del equipo del proyecto en el Cierre.
+=Un documento estratégico que establece la lógica y la justificación de la inversión en tiempo y recursos del proyecto.
+>El Caso de Negocio es el pilar de justificación financiera de la inversión; evalúa si los beneficios esperados compensan los costes y riesgos del proyecto.
+---
+¿Qué elementos de información debe incorporar formalmente el contenido del Caso de Negocio?
+- El cronograma detallado de actividades con dependencias críticas de Gantt.
+- El análisis de coste-beneficio, evaluación DAFO de alternativas, alineación estratégica y una hoja de ruta de alto nivel.
+- Las lecciones aprendidas consolidadas y las actas de las reuniones de planificación.
+- Los informes de auditoría de procesos emitidos de forma confidencial por el AdC.
+=El análisis de coste-beneficio, evaluación DAFO de alternativas, alineación estratégica y una hoja de ruta de alto nivel.
+>El Caso de Negocio aporta una visión estratégica completa evaluando los pros y contras de alternativas de solución, costes, beneficios estratégicos y plazos macro.
+---
+¿Por qué se afirma en la guía que el Caso de Negocio es un documento 'vivo'?
+- Porque permite que cualquier miembro del equipo modifique sus requisitos sin autorización.
+- Porque se reexamina en hitos y puertas de fase críticas para comprobar si los beneficios esperados siguen justificando la inversión.
+- Porque se destruye y se redacta de nuevo al inicio de cada fase secuencial.
+- Porque está alojado en una base de datos dinámica gestionada por el CoEPM².
+=Porque se reexamina en hitos y puertas de fase críticas para comprobar si los beneficios esperados siguen justificando la inversión.
+>Un Business Case vivo evita pérdidas financieras: se monitoriza en cada hito y puerta de fase para validar que el proyecto sigue siendo rentable y alineado.
+---
+¿Qué es el Acta de Constitución del Proyecto (Project Charter) y qué define a alto nivel?
+- Un contrato legal inalterable que obliga al pago inmediato de los servicios del PS.
+- Un artefacto clave para la aprobación final del inicio, que define el alcance, plazos, costes, riesgos de alto nivel, hitos y entregables.
+- La descripción funcional detallada utilizada por el ECP para codificar la solución.
+- El plan maestro que detalla las actividades de formación de los usuarios finales.
+=Un artefacto clave para la aprobación final del inicio, que define el alcance, plazos, costes, riesgos de alto nivel, hitos y entregables.
+>El Acta de Constitución (Project Charter) aterriza los objetivos estratégicos en un alcance, presupuesto, cronograma y riesgos macro, sirviendo de línea base.
+---
+¿Quién es el Responsable (R) de elaborar el Acta de Constitución y quién la aprueba (A) en la matriz RASCI de PM²?
+- El Responsable de Negocio (RN) la elabora, y el PP la aprueba.
+- El Director de Proyecto (DP) la elabora (R), y el Comité de Dirección del Proyecto (CDP) la aprueba (A).
+- El Equipo Central de Proyecto (ECP) la elabora, y el DP la aprueba.
+- La Oficina de Soporte (OSP) la elabora, y el Órgano de Gobernanza Pertinente la aprueba.
+=El Director de Proyecto (DP) la elabora (R), y el Comité de Dirección del Proyecto (CDP) la aprueba (A).
+>El DP asume la tarea física de plasmar los límites operativos del proyecto en el Acta de Constitución, requiriendo la aprobación oficial del CDP.
+---
+¿Qué es y qué evalúa la primera puerta de fase del ciclo de vida, denominada LpP (Listo para Planificación)?
+- Evalúa la viabilidad del Plan de Trabajo y el cronograma detallado de costes.
+- Es un punto de revisión al final de la Fase de Inicio donde el CDP evalúa si se dispone de un Caso de Negocio y un Acta de Constitución viables para aprobar el paso a Planificación.
+- Valida que todos los miembros del Equipo Central han firmado sus asignaciones.
+- Es un control de calidad que autoriza de forma automática la liberación de recursos.
+=Es un punto de revisión al final de la Fase de Inicio donde el CDP evalúa si se dispone de un Caso de Negocio y un Acta de Constitución viables para aprobar el paso a Planificación.
+>LpP actúa como un control de gobernanza del CDP sobre el Caso de Negocio y el Acta de Constitución, evaluando si hay madurez estratégica para gastar en planificar.
+---
+¿Qué ocurre con el proyecto si el CDP decide no aprobar el Caso de Negocio o el Acta de Constitución durante la puerta de fase LpP?
+- El Director de Proyecto debe rediseñar los servidores de forma unilateral.
+- El proyecto se cancela o suspende y pasa directamente a la Fase de Cierre para archivar lecciones aprendidas.
+- Se inicia de forma inmediata la Fase de Planificación sin presupuesto.
+- Se traslada de manera directa la toma de decisiones al Proveedor de Soluciones.
+=El proyecto se cancela o suspende y pasa directamente a la Fase de Cierre para archivar lecciones aprendidas.
+>Si el Caso de Negocio o el Acta no son viables en LpP, el CDP frena el proyecto y lo envía a Cierre, protegiendo los fondos de la organización de inversiones fallidas.
+---
+¿Qué herramienta estándar de PM² utiliza el DP como soporte para evaluar si se cumplen los criterios en las puertas de fase?
+- El Formulario de Solicitud de Cambio presupuestario.
+- La plantilla de Lista de Control de Puerta de Fase (Checklist).
+- El Registro de Incidencias y Decisiones corporativas.
+- La Estructura de Desglose del Trabajo (EDT).
+=La plantilla de Lista de Control de Puerta de Fase (Checklist).
+>Las Listas de Control de Puertas de Fase (Phase Gate Checklists) estructuran las revisiones de forma rigurosa, asegurando que se cumplan todos los mínimos de calidad.
+---
+¿Cómo se diferencia de manera sencilla el enfoque conceptual del Caso de Negocio frente al del Acta de Constitución?
+- El Caso de Negocio especifica los costes diarios; el Acta detalla las actas de reunión.
+- El Caso de Negocio responde a por qué invertir en el proyecto; el Acta de Constitución aterriza el qué, cómo y cuándo a alto nivel.
+- El Caso de Negocio es elaborado por el DP; el Acta es redactada por el PP de manera única.
+- No hay diferencias; son dos secciones integradas dentro del mismo Manual de Proyecto.
+=El Caso de Negocio responde a por qué invertir en el proyecto; el Acta de Constitución aterriza el qué, cómo y cuándo a alto nivel.
+>El Caso de Negocio aporta la lógica financiera y de valor (el Por qué). El Acta formaliza el marco operativo macro del proyecto (el Qué, Cómo y Cuándo).
+---
+¿Cómo define la guía la Fase de Planificación en el ciclo de vida PM²?
+- Es la etapa preliminar donde el PP define de forma única la visión del negocio.
+- Es la segunda fase, que comienza con la Reunión de Inicio de Planificación y finaliza cuando todos los planes del proyecto se han desarrollado y marcado su línea de base.
+- Representa el hito de aceptación definitiva del entregable por parte del cliente.
+- Es una actividad de control que solo se realiza en la estructura organizacional funcional.
+=Es la segunda fase, que comienza con la Reunión de Inicio de Planificación y finaliza cuando todos los planes del proyecto se han desarrollado y marcado su línea de base.
+>La Fase de Planificación diseña el plano del proyecto. Inicia con el kick-off de planificación y culmina al fijar las líneas de base de alcance, coste y tiempo.
+---
+¿Qué diferencia existe entre los Planes de Gestión y los Planes de Proyecto en el marco de la Fase de Planificación?
+- Los Planes de Gestión los redacta la OSP, y los de Proyecto el CDP de forma conjunta.
+- Los Planes de Gestión (estándar) definen los procesos generales a utilizar, mientras que los Planes de Proyecto se crean ad-hoc para atender el alcance específico del proyecto.
+- Los Planes de Proyecto son inalterables, y los de Gestión se revisan de forma semanal.
+- No existe ninguna diferencia; son términos sinónimos dentro de la guía PM².
+=Los Planes de Gestión (estándar) definen los procesos generales a utilizar, mientras que los Planes de Proyecto se crean ad-hoc para atender el alcance específico del proyecto.
+>Los Planes de Gestión regulan 'cómo' gobernaremos temas transversales (riesgos, calidad, etc.). Los de Proyecto (ej. Plan de Trabajo) detallan el 'qué' y 'cuándo' del trabajo.
+---
+¿Cuáles son los objetivos principales que se persiguen al celebrar la Reunión de Inicio de la Planificación?
+- Aprobar de forma automática el Caso de Negocio y disolver los recursos.
+- Asegurar que todos entienden el alcance, aclarar expectativas de partes interesadas clave, identificar riesgos iniciales y discutir los planes del proyecto.
+- Fichar al personal subcontratado por el contratista y firmar asignaciones.
+- Resolver de manera unilateral todas las desviaciones de alcance de la fase de Inicio.
+=Asegurar que todos entienden el alcance, aclarar expectativas de partes interesadas clave, identificar riesgos iniciales y discutir los planes del proyecto.
+>Esta reunión alinea al Equipo Central con el Acta de Constitución, explorando el alcance, debatiendo riesgos y organizando la confección de los planes de la fase.
+---
+¿Quién convoca la Reunión de Inicio de Planificación y quiénes deben asistir obligatoriamente?
+- La organiza el Propietario del Proyecto; asisten obligatoriamente el OGP y los auditores.
+- La organiza el Director de Proyecto (DP); se requiere la asistencia obligatoria del Equipo Central del Proyecto (ECP) y de los roles de soporte (si aplican).
+- La organiza el Aseguramiento de Calidad; asiste de forma exclusiva el CDP.
+- La organiza el contratista; asisten obligatoriamente todos los subcontratados.
+=La organiza el Director de Proyecto (DP); se requiere la asistencia obligatoria del Equipo Central del Proyecto (ECP) y de los roles de soporte (si aplican).
+>El DP lidera la reunión organizadora de la fase, siendo obligatoria la presencia de su equipo ejecutor (ECP) para consensuar el esfuerzo y el cronograma.
+---
+¿Qué hito de documentación se genera durante la Reunión de Inicio de Planificación y cómo se procede tras ella?
+- Se firma el Caso de Negocio y se archiva en el repositorio central de la OSP.
+- Se levanta un Acta de la Reunión (AdR), se aprueba por el CDP y se distribuye, registrando riesgos e incidencias detectadas en los registros correspondientes.
+- Se elabora de manera directa el Plan de Trabajo y se envía de inmediato al PP.
+- Se firma la disolución temporal del equipo de proyecto por parte de la OGP.
+=Se levanta un Acta de la Reunión (AdR), se aprueba por el CDP y se distribuye, registrando riesgos e incidencias detectadas en los registros correspondientes.
+>Toda reunión clave genera un Acta de la Reunión (AdR). Las decisiones, acciones e incidencias de la planificación se registran y comunican puntualmente tras la sesión.
+---
+¿Cómo define la guía el Manual del Proyecto (Project Handbook) y cuál es su utilidad?
+- Un catálogo de los productos de software que utiliza la Comisión Europea.
+- El documento maestro de gobernanza que resume los objetivos del proyecto y documenta el enfoque de gestión seleccionado (tailoring).
+- La descripción técnica detallada del diseño de base de datos de la aplicación.
+- El registro donde se archivan de manera diaria las solicitudes de cambio.
+=El documento maestro de gobernanza que resume los objetivos del proyecto y documenta el enfoque de gestión seleccionado (tailoring).
+>El Manual del Proyecto es la constitución del proyecto: define la gobernanza, las reglas de juego, umbrales de riesgo, elevación y adaptación metodológica.
+---
+¿Quién prepara (R) y quién aprueba (A) el Manual del Proyecto en el marco de la gobernanza de PM²?
+- Lo prepara el Responsable de Negocio (RN) y lo aprueba el CDP.
+- Lo prepara el Director de Proyecto (DP) y lo aprueba el Propietario del Proyecto (PP).
+- Lo prepara el Equipo Central (ECP) y lo aprueba de forma independiente el AdC.
+- Lo prepara la OSP y lo aprueba estratégicamente el OGP.
+=Lo prepara el Director de Proyecto (DP) y lo aprueba el Propietario del Proyecto (PP).
+>El DP elabora el Manual (el enfoque de gestión del proyecto) y el PP, como cliente y patrocinador del proyecto, otorga la aprobación final de gobernanza.
+---
+¿Qué subsecciones críticas e información deben formar parte del Manual del Proyecto?
+- El presupuesto financiero consolidado de la organización del contratista.
+- Los roles y responsabilidades específicos, la referencia a los planes de gestión de proyecto, planes específicos y artefactos de dominio seleccionados.
+- La Solicitud de Inicio y las lecciones aprendidas de los tres proyectos anteriores.
+- Las actas de reuniones de seguimiento de la fase de Ejecución.
+=Los roles y responsabilidades específicos, la referencia a los planes de gestión de proyecto, planes específicos y artefactos de dominio seleccionados.
+>El Manual unifica las reglas de gobierno del proyecto, mapeando el equipo a los roles de PM², definiendo procesos de gestión de riesgos, cambios, etc.
+---
+¿Qué procedimiento estratégico de toma de decisiones se documenta obligatoriamente en el Manual del Proyecto?
+- El proceso detallado para realizar las pruebas de aceptación UAT.
+- El Procedimiento de elevación (escalado) de problemas y conflictos, con niveles y umbrales específicos, además del plan de uso de recursos.
+- El método de estimación por tres puntos para el cálculo del presupuesto.
+- La forma en que el Aseguramiento de Calidad auditará el cronograma de la OSP.
+=El Procedimiento de elevación (escalado) de problemas y conflictos, con niveles y umbrales específicos, además del plan de uso de recursos.
+>Para resolver desvíos de forma gobernada, el Manual del Proyecto fija los umbrales de tolerancia de coste o plazo y el flujo de escalado (procedimiento de elevación) hacia el CDP.
+---
+¿Qué información recopila la Matriz de Partes Interesadas del Proyecto y qué precaución exige su gestión?
+- Los costes de subcontratación, exigiendo la firma de acuerdos de confidencialidad inalterables.
+- La lista de interesados, sus datos de contacto y funciones, exigiendo el estricto cumplimiento de la normativa sobre privacidad y protección de datos.
+- La estructura de desglose del trabajo detallada por paquete, exigiendo la revisión del CDP.
+- El flujo de caja diario del proyecto, exigiendo el visto bueno financiero del OGP.
+=La lista de interesados, sus datos de contacto y funciones, exigiendo el estricto cumplimiento de la normativa sobre privacidad y protección de datos.
+>La Matriz de Partes Interesadas detalla quién es quién. Al incluir datos personales y de contacto, la metodología exige apegarse a la protección legal de datos.
+---
+¿Qué roles asumen el DP y el PP sobre la Matriz de Partes Interesadas del Proyecto en el modelo RASCI?
+- El DP es el Consultado y el PP es el Informado de manera exclusiva.
+- El DP es el Responsable (R) de su elaboración y el Propietario del Proyecto (PP) es el Aprobador (A).
+- El Responsable de Negocio la prepara y el DP de forma conjunta la aprueba.
+- El Aseguramiento de Calidad es el Responsable y el CDP es el Aprobador.
+=El DP es el Responsable (R) de su elaboración y el Propietario del Proyecto (PP) es el Aprobador (A).
+>Identificar a las partes interesadas es tarea del DP, pero el Propietario del Proyecto (PP) valida y autoriza la lista y estrategia de involucración de los actores.
+---
+¿Cómo define la guía el Plan de Trabajo del Proyecto (Project Work Plan) y qué establece para el control?
+- Un registro de incidencias que se actualiza únicamente durante la Fase de Cierre.
+- Un documento que elabora el alcance identificando el trabajo (EDT/WBS), esfuerzo/costes y cronograma, fijando la Línea de Base.
+- Un manual técnico que asocia los parches de seguridad del sistema de información.
+- El contrato comercial firmado entre el Proveedor de Soluciones y el cliente.
+=Un documento que elabora el alcance identificando el trabajo (EDT/WBS), esfuerzo/costes y cronograma, fijando la Línea de Base.
+>El Plan de Trabajo define el Qué, Quién, Cuánto y Cuándo. Fija la línea de base del cronograma y coste, contra la que se evaluará el progreso durante la ejecución.
+---
+¿Quién es el Responsable (R) de elaborar el Plan de Trabajo del Proyecto y quién lo aprueba (A) en la matriz RASCI de PM²?
+- El Responsable de Negocio (RN) lo elabora, y el PP lo aprueba.
+- El Director de Proyecto (DP) lo elabora (R), y el Comité de Dirección del Proyecto (CDP) lo aprueba (A).
+- El Equipo Central lo diseña, y la OSP lo aprueba para toda la organización.
+- El DP lo elabora de forma autónoma, y el OGP lo aprueba al final del proyecto.
+=El Director de Proyecto (DP) lo elabora (R), y el Comité de Dirección del Proyecto (CDP) lo aprueba (A).
+>El DP asume el diseño del cronograma y estimaciones (R), requiriendo la revisión y aprobación formal de todo el Comité de Dirección del Proyecto (CDP) (A).
+---
+¿Qué es el Plan de Externalización (Outsourcing Plan) y qué contenido debe presentar?
+- Un manual para transferir entregables al departamento de operaciones de la organización.
+- Un artefacto que define el qué y el cómo para productos o servicios subcontratados, incluyendo estrategias, licitaciones y criterios de evaluación.
+- El documento donde se registran las solicitudes de cambio técnico del contratista.
+- La planificación detallada de la gestión del cambio cultural en los usuarios.
+=Un artefacto que define el qué y el cómo para productos o servicios subcontratados, incluyendo estrategias, licitaciones y criterios de evaluación.
+>El Plan de Externalización regula las adquisiciones y subcontrataciones, definiendo los plazos, licitaciones y términos acordes con las políticas internas.
+---
+¿Por qué el Plan de Externalización no lo aprueba el PP ni el CDP, y quién es el Aprobador (A) oficial en la matriz RASCI de PM²?
+- Porque depende administrativamente de la OSP local; el Aprobador es la OSP.
+- Dado su impacto contractual y legal para la organización, lo aprueba el Órgano de Gobernanza Pertinente (OGP).
+- Porque es un documento técnico menor; el Aprobador es el Director de Proyecto.
+- Porque el Proveedor de Soluciones asume los riesgos comerciales; el Aprobador es el PS.
+=Dado su impacto contractual y legal para la organización, lo aprueba el Órgano de Gobernanza Pertinente (OGP).
+>Las subcontrataciones comprometen legal y financieramente a la organización solicitante, por ello la aprobación de este plan se escala por encima del CDP, hacia el OGP.
+---
+¿Qué es el Plan de Aceptación de Entregables (Deliverables Acceptance Plan) y cuál es su objetivo estratégico?
+- El documento donde el PP firma el fin de la Fase de Planificación.
+- Un artefacto que documenta los criterios, el enfoque y recursos para la aceptación formal de entregables, aumentando la probabilidad de que el cliente los apruebe.
+- El cronograma detallado que define el hito de disolución de la organización temporal.
+- La auditoría independiente realizada sobre las líneas de base del cronograma.
+=Un artefacto que documenta los criterios, el enfoque y recursos para la aceptación formal de entregables, aumentando la probabilidad de que el cliente los apruebe.
+>El Plan de Aceptación fija de antemano las reglas, plazos y umbrales de tolerancia de fallos para que el cliente valide y reciba de forma controlada el producto final.
+---
+¿Qué es el Plan de Transición (Transition Plan) y cuál es su objetivo estratégico?
+- Un cronograma técnico que detalla el flujo diario de trabajo del Equipo Central.
+- Un artefacto que define objetivos, requisitos previos y actividades para pasar del estado pre-proyecto al post-proyecto, minimizando la disrupción en el negocio.
+- El documento donde el contratista registra las solicitudes de cambio contractual.
+- La plantilla utilizada por el DP para disolver formalmente la organización temporal.
+=Un artefacto que define objetivos, requisitos previos y actividades para pasar del estado pre-proyecto al post-proyecto, minimizando la disrupción en el negocio.
+>De acuerdo con la Sección 6.7, el Plan de Transición detalla los pasos operativos necesarios para poner en producción los entregables, reduciendo interferencias con la rutina habitual.
+---
+¿Qué evalúa formalmente el Plan de Implementación en el Negocio (Business Implementation Plan) redactado por el RN?
+- El coste diario del personal subcontratado en la Fase de Ejecución.
+- El impacto que tendrá el proyecto en los procesos, cultura y personas de la organización cliente, planificando la gestión del cambio, comunicaciones y formación.
+- La configuración técnica de los servidores informáticos asignados al proyecto.
+- Los criterios de auditoría de calidad que utilizará el Aseguramiento de Calidad.
+=El impacto que tendrá el proyecto en los procesos, cultura y personas de la organización cliente, planificando la gestión del cambio, comunicaciones y formación.
+>El Plan de Implementación en el Negocio (Sección 6.8) mide la adopción del cambio organizacional, cubriendo la formación, resistencia de usuarios y continuidad del negocio.
+---
+¿Quién es el Responsable (R) de elaborar el Plan de Implementación en el Negocio y quién lo aprueba (A) en la matriz RASCI de PM²?
+- El Director de Proyecto (DP) lo elabora, y el CDP lo aprueba.
+- El Responsable de Negocio (RN) lo elabora (R), con soporte del DP, y el Propietario del Proyecto (PP) lo aprueba (A).
+- La OSP lo diseña, y el Aseguramiento de Calidad de forma independiente lo aprueba.
+- El ECP lo prepara de forma autónoma, y el Proveedor de Soluciones lo aprueba.
+=El Responsable de Negocio (RN) lo elabora (R), con soporte del DP, y el Propietario del Proyecto (PP) lo aprueba (A).
+>Dado que el RN lidera el cambio operativo de los usuarios en la parte cliente, asume la tarea física de este plan, requiriendo la aprobación del PP (dueño del Caso de Negocio).
+---
+¿Qué evalúa la segunda puerta de fase del ciclo de vida, denominada LpE (Listo para Ejecución)?
+- Si la justificación comercial de la inversión estratégica es aprobada por el OGP.
+- Si se cumplieron los objetivos de planificación y si se dispone de un Manual del Proyecto y Plan de Trabajo debidamente aprobados y con su línea de base marcada.
+- Si los entregables cumplen con los requisitos de las pruebas de aceptación UAT.
+- Si las lecciones aprendidas de los miembros de equipo han sido archivadas.
+=Si se cumplieron los objetivos de planificación y si se dispone de un Manual del Proyecto y Plan de Trabajo debidamente aprobados y con su línea de base marcada.
+>LpE (Listo para Ejecución) evalúa si la planificación está completa y validada de forma de que el DP pueda guiar al equipo de ejecución minimizando imprecisiones.
+---
+¿Qué acción obligatoria debe tomar el CDP si los planes desarrollados revelan una desviación importante del presupuesto o alcance aprobado inicialmente durante la puerta de fase LpE?
+- El CDP puede autorizar de forma autónoma la desviación y continuar la ejecución.
+- El CDP no puede autorizar la ejecución por sí solo y requiere obligatoriamente escalar la decisión al Órgano de Gobernanza Pertinente (OGP) para su aprobación.
+- El Director del Proyecto debe redactar de nuevo el Acta de Constitución sin consultar.
+- El proyecto se cancela de forma automática sin derecho a fase de Cierre.
+=El CDP no puede autorizar la ejecución por sí solo y requiere obligatoriamente escalar la decisión al Órgano de Gobernanza Pertinente (OGP) para su aprobación.
+>Si el desvío financiero o técnico de la planificación choca con los límites aprobados al inicio del proyecto, el CDP debe escalar la reautorización al OGP corporativo.
+---
+¿Cómo define la guía la Fase de Ejecución en el ciclo de vida PM²?
+- Es la etapa en la que el RN inicia la redacción del Caso de Negocio.
+- Es la tercera fase del proyecto, durante la cual se generan físicamente los entregables (productos) y la organización cliente se prepara para su adopción.
+- La etapa de disolución y liberación controlada de los recursos materiales del proyecto.
+- El periodo transcurrido una vez aceptados los entregables en el mantenimiento diario.
+=Es la tercera fase del proyecto, durante la cual se generan físicamente los entregables (productos) y la organización cliente se prepara para su adopción.
+>La Fase de Ejecución (Sección 7) es la etapa de manufactura y construcción real de los productos, acaparando el grueso de los recursos y el esfuerzo de gestión.
+---
+¿Qué características específicas tiene la Fase de Ejecución respecto de las otras fases en cuanto a la gestión y control?
+- Es la fase con menor consumo de recursos de personal y de menor duración.
+- Es la etapa del ciclo de vida que implica una mayor cantidad de recursos y requiere el mayor esfuerzo de seguimiento.
+- Se realiza bajo la supervisión exclusiva del Aseguramiento de Calidad sin el DP.
+- Está exenta de auditorías de configuración de documentos por parte de la OSP.
+=Es la etapa del ciclo de vida que implica una mayor cantidad de recursos y requiere el mayor esfuerzo de seguimiento.
+>Dado que en Ejecución se genera físicamente la solución, es la fase que consume más presupuesto, esfuerzo humano y requiere constante seguimiento de desviaciones.
+---
+¿Con qué hitos u operaciones clave se delimita el inicio y el cierre físico de la Fase de Ejecución?
+- Comienza con la firma del Acta de Constitución y termina en la puerta LpE.
+- Comienza con una Reunión de Inicio de Ejecución y termina con la aceptación (provisional o definitiva) de los entregables por parte de la organización cliente.
+- Comienza con el plan de externalización y concluye con el Cierre Administrativo.
+- Comienza tras superar la puerta LpP y finaliza en la disolución del CDP.
+=Comienza con una Reunión de Inicio de Ejecución y termina con la aceptación (provisional o definitiva) de los entregables por parte de la organización cliente.
+>Ejecución abre formalmente con el kick-off de la fase y se considera concluida en el momento en que el cliente acepta (siquiera provisionalmente) la solución.
+---
+¿Qué objetivo de gobernanza y control tiene la Reunión de Inicio de la Fase de Ejecución?
+- Fichar de forma directa a los desarrolladores del contratista externo.
+- Asegurar que todo el equipo de proyecto es consciente de los elementos clave, de las expectativas, y de las reglas de funcionamiento detalladas en el Manual.
+- Aprobar de manera directa los cambios en los requisitos del Caso de Negocio.
+- Iniciar la disolución definitiva del equipo central en la Fase de Cierre.
+=Asegurar que todo el equipo de proyecto es consciente de los elementos clave, de las expectativas, y de las reglas de funcionamiento detalladas en el Manual.
+>El kick-off de Ejecución sirve para repasar los planes del proyecto, fijar las reglas de convivencia técnica del equipo, canales de reporte y escalado de incidencias.
+---
+¿Quién es el Responsable de organizar la Reunión de Inicio de Ejecución y quién aprueba el acta resultante en la matriz RASCI?
+- La organiza el Responsable de Negocio y la aprueba de forma independiente el AdC.
+- La organiza el Director de Proyecto (DP) (R) y el Comité de Dirección (CDP) aprueba el acta (A).
+- La organiza el Equipo Central y la aprueba la OSP local de la UE.
+- La organiza el PS y la aprueba estratégicamente el Propietario del Proyecto.
+=La organiza el Director de Proyecto (DP) (R) y el Comité de Dirección (CDP) aprueba el acta (A).
+>El DP convoca y lidera esta sesión organizadora de Ejecución, y el CDP valida de forma oficial los acuerdos y decisiones adoptados mediante el acta resultante.
+---
+¿Cómo define PM² la actividad de 'Coordinación del Proyecto'?
+- La auditoría externa de los estados financieros del contratista de TI.
+- Una actividad de gestión continua para facilitar el progreso mediante el suministro de información al ECP y el apoyo al trabajo asignado.
+- La redacción y el archivo seguro del Manual de Proyecto en la Fase de Inicio.
+- La decisión de priorizar las inversiones estratégicas de la cartera corporativa.
+=Una actividad de gestión continua para facilitar el progreso mediante el suministro de información al ECP y el apoyo al trabajo asignado.
+>La Coordinación (Sección 7.2) representa el soporte diario del DP a los ingenieros del equipo, resolviendo atascos logísticos y asignando tareas específicas.
+---
+¿Cómo evoluciona la intensidad de la actividad de 'Coordinación del Proyecto' a lo largo del ciclo de vida?
+- Se realiza de forma exclusiva durante las cuatro semanas de la Fase de Inicio.
+- Comienza con el inicio del proyecto y termina con su cierre, pero su intensidad alcanza su punto máximo durante la Fase de Ejecución.
+- Es constante y uniforme en todas las fases del ciclo sin ninguna variación.
+- Alcanza su punto máximo durante el Cierre Administrativo con la liberación de recursos.
+=Comienza con el inicio del proyecto y termina con su cierre, pero su intensidad alcanza su punto máximo durante la Fase de Ejecución.
+>Aunque el DP coordina recursos desde que se crea el proyecto, la carga y complejidad de la coordinación técnica alcanza su cenit en la Fase de Ejecución.
+---
+¿Quiénes intervienen como Responsable (R), Aprobador (A) y Soporte (S) en la matriz RASCI de la actividad 'Coordinación del Proyecto' (Sección 7.2)?
+- Responsable: PP | Aprobador: OGP | Soporte: DP.
+- Responsable: DP | Aprobador: Propietario del Proyecto (PP) | Soporte: Responsable de Negocio (RN).
+- Responsable: ECP | Aprobador: DP | Soporte: OSP.
+- Responsable: RN | Aprobador: CDP | Soporte: PS.
+=Responsable: DP | Aprobador: Propietario del Proyecto (PP) | Soporte: Responsable de Negocio (RN).
+>El DP gestiona y coordina operativamente (R), rindiendo cuentas ante el PP (A) quien aprueba el progreso, con el apoyo logístico del RN de cara al negocio (S).
+---
+¿Cómo define PM² la actividad de 'Aseguramiento de la Calidad' (Project Quality Assurance)?
+- La verificación final de que la base de datos no contiene fallos de programación.
+- Consiste en reunir evidencias que demuestren que el trabajo del proyecto sigue altos estándares de calidad, metodologías y mejores prácticas.
+- El análisis estratégico de costes realizado por el OGP antes de iniciar el proyecto.
+- El control diario de configuración y control de cambios documentales de la OSP.
+=Consiste en reunir evidencias que demuestren que el trabajo del proyecto sigue altos estándares de calidad, metodologías y mejores prácticas.
+>Aseguramiento de Calidad (Sección 7.3) evalúa proactivamente el cumplimiento de los procesos de gestión para asegurar que el producto final sea satisfactorio.
+---
+¿Cuál es la asignación excepcional de roles para el ECP y el DP en la matriz RASCI para 'Aseguramiento de la Calidad' (Sección 7.3)?
+- El ECP es el Aprobador (A) y el DP es el Responsable (R) de las evidencias.
+- El Equipo Central del Proyecto (ECP) es el Responsable (R) de adherirse a las normas y proporcionar evidencias, y el DP aprueba y responde (A) de las actividades de aseguramiento.
+- El DP es el Consultado (C) y el ECP es el Informado (I) de forma unidireccional.
+- La OSP es la única Responsable (R) y el CDP es de manera exclusiva el Aprobador (A).
+=El Equipo Central del Proyecto (ECP) es el Responsable (R) de adherirse a las normas y proporcionar evidencias, y el DP aprueba y responde (A) de las actividades de aseguramiento.
+>El ECP, como hacedor técnico, debe documentar que respeta las normas de calidad (R), mientras que el DP responde políticamente de que los procesos se auditen (A).
+---
+¿Qué representa formalmente la actividad de 'Informes del Proyecto' (Project Reporting) en PM²?
+- Una recopilación diaria de actas técnicas de configuración del sistema.
+- Actividades estructuradas para comunicar información consolidada sobre el progreso a las partes interesadas, facilitando la toma de decisiones y la memoria histórica.
+- La auditoría externa de las cuentas bancarias asignadas a los subcontratistas.
+- El archivo confidencial de las sugerencias y reclamaciones de los usuarios.
+=Actividades estructuradas para comunicar información consolidada sobre el progreso a las partes interesadas, facilitando la toma de decisiones y la memoria histórica.
+>Los Informes del Proyecto estructuran el traspaso de información útil (cronograma, coste, riesgos, incidencias) a los patrocinadores para guiar sus decisiones tácticas.
+---
+¿Quién es el Responsable (R) de elaborarlos y quién los aprueba (A) en la matriz RASCI de la actividad 'Informes del Proyecto'?
+- El Responsable de Negocio (RN) los redacta, y el OGP los aprueba.
+- El Director de Proyecto (DP) es el Responsable (R), y el Propietario del Proyecto (PP) es el Aprobador (A).
+- La OSP los elabora de manera automática, y el CDP firma de manera conjunta.
+- El Aseguramiento de Calidad los prepara y el PS los aprueba.
+=El Director de Proyecto (DP) es el Responsable (R), y el Propietario del Proyecto (PP) es el Aprobador (A).
+>El DP consolida la información de estado (R), y el PP valida los informes (A) para asegurar la transparencia sobre el estado estratégico del proyecto.
+---
+¿Cuál es la diferencia de utilidad exacta entre un 'Informe de Situación' (Status Report) y un 'Informe de Progreso' (Progress Report) en PM²?
+- El de Situación lo aprueba la OSP, y el de Progreso el Proveedor de Soluciones de manera única.
+- El de Situación es periódico, operativo y va al CDP; el de Progreso es de muy alto nivel y en proyectos plurianuales sirve para obtener la aprobación del presupuesto del año siguiente.
+- El de Progreso se enfoca en el control técnico de configuración, y el de Situación en las adquisiciones.
+- No hay ninguna diferencia; la metodología los unifica en una misma plantilla estándar de control.
+=El de Situación es periódico, operativo y va al CDP; el de Progreso es de muy alto nivel y en proyectos plurianuales sirve para obtener la aprobación del presupuesto del año siguiente.
+>El Informe de Situación es ágil e informa periódicamente al CDP. El de Progreso es macro, ideal para que proyectos plurianuales justifiquen y renueven fondos anuales.
+---
+¿Qué es el 'Informe de Revisión de la Calidad' en el marco de PM² y quién lo elabora?
+- Un documento de control financiero externo elaborado por el OGP.
+- Un reporte elaborado por el DP para documentar no conformidades, recomendaciones y medidas correctivas.
+- Una encuesta de satisfacción de usuarios coordinada por el RN.
+- El acta de aceptación definitiva redactada por el Proveedor de Soluciones.
+=Un reporte elaborado por el DP para documentar no conformidades, recomendaciones y medidas correctivas.
+>Este informe asienta las desviaciones de calidad detectadas sobre los entregables o procesos y las acciones que el DP prescribe para corregirlas.
+---
+¿Cómo asiste operativamente la Oficina de Soporte a Proyectos (OSP) en la actividad de 'Distribución de Información' (Sección 7.5)?
+- Asumiendo de forma directa la toma de decisiones presupuestarias del CDP.
+- Ayudando en la gestión de la comunicación interna, control de cambios documentales y mantenimiento de las versiones correctas de los planes.
+- Sustituyendo al DP en la coordinación técnica del Equipo Central.
+- Redactando el Informe de Fin de Proyecto de manera independiente.
+=Ayudando en la gestión de la comunicación interna, control de cambios documentales y mantenimiento de las versiones correctas de los planes.
+>La OSP actúa de gestor documental en la distribución, protegiendo las líneas de base al asegurar que todos lean la versión aprobada de los planes.
+---
+¿Qué es y qué evalúa la tercera puerta de fase del ciclo de vida, denominada LpC (Listo para Cierre)?
+- Evalúa la viabilidad del Caso de Negocio al término de la Fase de Inicio.
+- Es un punto de revisión al final de la Fase de Ejecución donde el CDP evalúa si los entregables han sido aceptados (al menos provisionalmente) y si la transición ha concluido.
+- Valida que todos los contratos externos han sido liquidados al 100%.
+- Un control interno para disolver el equipo central en la Fase de Planificación.
+=Es un punto de revisión al final de la Fase de Ejecución donde el CDP evalúa si los entregables han sido aceptados (al menos provisionalmente) y si la transición ha concluido.
+>LpC (Listo para Cierre) es la puerta previa al Cierre. Valida que el cliente ha recibido la solución y que ya opera (transición hecha) para dar paso al cierre de cuentas.
+---
+¿Cuál es el requisito de avance crítico indispensable que el DP debe asegurar antes de que el CDP apruebe superar la puerta LpC?
+- Que el Caso de Negocio haya sido reescrito en su totalidad.
+- Que el Propietario del Proyecto (PP) haya aceptado los entregables (al menos provisionalmente) y que la transición operativa haya finalizado.
+- La disolución física del Equipo Central del Proyecto y la firma de contratos de operaciones.
+- El archivo formal del Informe de Fin de Proyecto en la base corporativa.
+=Que el Propietario del Proyecto (PP) haya aceptado los entregables (al menos provisionalmente) y que la transición operativa haya finalizado.
+>No se puede proceder al Cierre administrativo del proyecto si los productos no están en manos del cliente (PP) con aceptación provisional y la transición concluida.
+---
+¿Cómo define la guía la Fase de Cierre en el ciclo de vida PM²?
+- La etapa preliminar donde el PP define de forma única la visión del negocio.
+- La fase final del proyecto, que garantiza que las actividades se completen, se documente el estado final y los entregables se transfieran formalmente a la custodia del PP.
+- Un proceso técnico que se ejecuta de forma exclusiva durante la Fase de Ejecución.
+- El periodo transcurrido una vez aceptados los entregables en el mantenimiento diario.
+=La fase final del proyecto, que garantiza que las actividades se completen, se documente el estado final y los entregables se transfieran formalmente a la custodia del PP.
+>La Fase de Cierre (Sección 8) finiquita la organización temporal del proyecto, saldando cuentas, lecciones y archivando la documentación de forma definitiva.
+---
+¿Qué hito oficial marca el inicio de la Fase de Cierre una vez concluida la Ejecución?
+- La firma del Caso de Negocio por el OGP.
+- La celebración de la Reunión de Revisión de Fin de Proyecto (End of Project Review Meeting).
+- La disolución unilateral del Equipo Central del Proyecto.
+- La superación de la puerta de fase LpP Listo para Planificación.
+=La celebración de la Reunión de Revisión de Fin de Proyecto (End of Project Review Meeting).
+>La Reunión de Revisión de Fin de Proyecto abre formalmente el Cierre, sirviendo de foro para evaluar la experiencia del equipo y captar lecciones.
+---
+¿Cuáles son los objetivos principales que se persiguen al celebrar la Reunión de Revisión de Fin de Proyecto?
+- Fichar de forma directa a los desarrolladores del contratista externo.
+- Asegurar que los miembros debatan sobre sus experiencias para identificar Lecciones Aprendidas y Mejores Prácticas, evaluando el desempeño del equipo y contratistas.
+- Aprobar de manera directa los cambios en los requisitos del Caso de Negocio.
+- Iniciar la disolución de los recursos del contratista externo.
+=Asegurar que los miembros debatan sobre sus experiencias para identificar Lecciones Aprendidas y Mejores Prácticas, evaluando el desempeño del equipo y contratistas.
+>El objetivo de la sesión es didáctico y evaluativo: analizar fallos, aciertos, medir rendimientos de proveedores y sugerir mejoras para el futuro.
+---
+¿Quién es el Responsable de organizarla y quién aprueba el acta resultante en la matriz RASCI de la Reunión de Revisión de Fin de Proyecto (Sección 8.1)?
+- La organiza el Responsable de Negocio y la aprueba de forma independiente el AdC.
+- La organiza el Director de Proyecto (DP) (R) y el Comité de Dirección (CDP) aprueba el acta (A).
+- La organiza el Equipo Central y la aprueba la OSP local de la UE.
+- La organiza el PS y la aprueba estratégicamente el Propietario del Proyecto.
+=La organiza el Director de Proyecto (DP) (R) y el Comité de Dirección (CDP) aprueba el acta (A).
+>El DP lidera la reunión de fin de proyecto (R), mientras que el acta del cierre de debates técnicos requiere el refrendo formal del CDP (A).
+---
+¿Qué representa estratégicamente el proceso de 'Lecciones Aprendidas y Recomendaciones Post-Proyecto' en PM²?
+- La auditoría de cumplimiento financiero que efectúa la Comisión Europea.
+- El núcleo de la mejora continua y la memoria organizacional, capturando ideas sobre la operación del producto y sugerencias para proyectos futuros.
+- Un procedimiento puramente administrativo de archivo de patentes tecnológicas.
+- La recopilación de datos de contacto de los interesados en la Fase de Inicio.
+=El núcleo de la mejora continua y la memoria organizacional, capturando ideas sobre la operación del producto y sugerencias para proyectos futuros.
+>Este proceso extrae valor pedagógico de los errores y aciertos del proyecto, enriqueciendo el capital de conocimiento de toda la organización.
+---
+¿Cuál es el momento idóneo (timing) para realizar la recopilación de las lecciones aprendidas y oportunidades de mejora de acuerdo con las directrices de PM²?
+- Se deben recopilar de manera exclusiva en las últimas dos semanas de la Fase de Cierre.
+- Se deben recoger según van surgiendo durante el proyecto, de lo contrario podrían olvidarse o perderse si se espera hasta la Fase de Cierre.
+- Deben redactarse antes de firmar el Caso de Negocio en la Fase de Inicio.
+- Únicamente se recogen cuando se detecta un sobrecoste superior al umbral por el CDP.
+=Se deben recoger según van surgiendo durante el proyecto, de lo contrario podrían olvidarse o perderse si se espera hasta la Fase de Cierre.
+>Para evitar sesgos y olvidos, PM² aconseja que el registro de lecciones aprendidas se actualice dinámicamente en caliente a lo largo de todo el ciclo de vida.
+---
+¿Por qué aconseja la guía PM² como Mejor Práctica que la sesión de recopilación de Lecciones Aprendidas sea dirigida por un facilitador externo?
+- Para eximir al DP de su responsabilidad de redactar el Informe de Fin de Proyecto.
+- Permite que la sesión sea más objetiva y neutra, permitiendo al DP expresarse y contribuir como un participante más.
+- Para que actúe de auditor formal y pueda sancionar las faltas de rendimiento técnico.
+- Es obligatorio por regulaciones legales de licitación externa del OGP.
+=Permite que la sesión sea más objetiva y neutra, permitiendo al DP expresarse y contribuir como un participante más.
+>Un facilitador neutro (un tercero o miembro de la PMO) destensa la sesión, permitiendo que tanto el DP como el equipo compartan opiniones sinceras y provechosas.
+---
+¿Qué es el 'Informe de Fin de Proyecto' (Project End Report) y qué tipo de información evalúa?
+- Un manual técnico de mantenimiento elaborado por el contratista en la Fase de Ejecución.
+- Un documento maestro que resume la experiencia general, evaluando la eficacia respecto a costes, cronograma, alcance, calidad, riesgos y lecciones.
+- La solicitud estratégica de reautorización de presupuesto enviada al OGP.
+- El registro donde se archivan de manera diaria las solicitudes de cambio.
+=Un documento maestro que resume la experiencia general, evaluando la eficacia respecto a costes, cronograma, alcance, calidad, riesgos y lecciones.
+>Este reporte constituye el balance final del proyecto: evalúa el rendimiento real frente a las líneas de base aprobadas y consolida las recomendaciones post-proyecto.
+---
+¿Quién tiene la responsabilidad de redactar (R) el Informe de Fin de Proyecto y quién debe aprobarlo (A) en la matriz RASCI de PM²?
+- El Responsable de Negocio (RN) lo redacta, y el PP lo aprueba.
+- El Director de Proyecto (DP) lo redacta (R), con soporte de GCP y ECP, y el Comité de Dirección (CDP) lo aprueba (A).
+- La OSP lo diseña, y el Aseguramiento de Calidad de forma independiente lo aprueba.
+- El ECP lo prepara de forma autónoma, y el Proveedor de Soluciones lo aprueba.
+=El Director de Proyecto (DP) lo redacta (R), con soporte de GCP y ECP, y el Comité de Dirección (CDP) lo aprueba (A).
+>El DP compila y redacta el informe final del proyecto (R), requiriendo que todo el Comité de Dirección (CDP) apruebe y valide el balance antes de su archivo (A).
+---
+¿Qué destino corporativo debe tener el Informe de Fin de Proyecto una vez que ha sido formalmente aprobado?
+- Debe guardarse en los archivos personales del contratista externo por motivos de confidencialidad.
+- Debe formar parte de un repositorio central o base de datos de conocimiento de la organización para el éxito de futuros proyectos.
+- Debe destruirse de forma segura una vez que se han cerrado administrativamente las cuentas.
+- Debe enviarse de manera directa al Servicio de Publicaciones de la UE para su traducción.
+=Debe formar parte de un repositorio central o base de datos de conocimiento de la organización para el éxito de futuros proyectos.
+>Este informe es capital de conocimiento. Almacenarlo en una base de datos de la PMO corporativa permite que futuros proyectos utilicen sus estimaciones e histórico.
+---
+¿Cómo define la guía el proceso de 'Cierre Administrativo' y qué hito crucial representa?
+- El primer paso de la Fase de Inicio para autorizar fondos con el OGP.
+- El último paso formal donde el equipo se disuelve oficialmente, se liberan y archivan los registros de forma segura y se cierran obligaciones contractuales.
+- El traspaso provisional de la custodia de los servidores informáticos al PS.
+- La auditoría externa de las cuentas bancarias asignadas a los subcontratistas.
+=El último paso formal donde el equipo se disuelve oficialmente, se liberan y archivan los registros de forma segura y se cierran obligaciones contractuales.
+>El Cierre Administrativo pone fin al modo de gestión de proyecto de forma controlada, reintegrando recursos, archivando registros y habilitando el modo operativo.
+---
+¿Cómo asiste operativamente la Oficina de Soporte a Proyectos (OSP) durante el Cierre Administrativo?
+- Asumiendo de forma directa la liquidación de las obligaciones contractuales.
+- Ayudando a revisar, organizar y archivar de forma segura toda la documentación y registros del proyecto.
+- Sustituyendo al DP en la firma final de los entregables del cliente.
+- Redactando de manera independiente las lecciones aprendidas de los contratistas.
+=Ayudando a revisar, organizar y archivar de forma segura toda la documentación y registros del proyecto.
+>La OSP actúa de garante del archivo documental del proyecto, custodiando que los registros históricos queden debidamente organizados y legibles.
+---
+¿Cuándo se considera que un proyecto PM² se ha cerrado formal y oficialmente en su totalidad?
+- Cuando el DP entrega los productos al Equipo Central en la Fase de Ejecución.
+- Únicamente una vez que el Propietario del Proyecto (PP) aprueba el Cierre Administrativo, asumiendo el cuidado, custodia y control de los entregables.
+- Tras la finalización del periodo de garantía de tres años fijado en el plan de externalización.
+- En el momento en que el CDP aprueba de manera colegiada el Informe de Fin de Proyecto.
+=Únicamente una vez que el Propietario del Proyecto (PP) aprueba el Cierre Administrativo, asumiendo el cuidado, custodia y control de los entregables.
+>La firma de defunción formal de un proyecto la otorga en exclusiva el PP al aceptar el cierre administrativo, tomando la custodia y tutela final del producto.
+---
+¿Quién asume de forma excepcional el rol de Aprobador (A) en la matriz RASCI del proceso de 'Cierre Administrativo' (Sección 8.4)?
+- El Comité de Dirección del Proyecto (CDP) de forma colegiada.
+- El Propietario del Proyecto (PP) de manera exclusiva (no el CDP).
+- El Director de Proyecto del Contratista de forma única.
+- El Órgano de Gobernanza Pertinente de la organización.
+=El Propietario del Proyecto (PP) de manera exclusiva (no el CDP).
+>A diferencia de otros planes aprobados por el CDP, el acta del Cierre Administrativo la aprueba únicamente el PP, ratificando su fin como patrocinador cliente.
+---
+¿En qué momento exacto del ciclo de vida del proyecto se debe disolver formalmente el equipo de proyecto?
+- De manera automática al transferir los productos en la Fase de Ejecución.
+- Únicamente en el Cierre Administrativo, una vez que la documentación ha sido archivada y se han cerrado todos los contratos.
+- Justo después de superar la puerta de fase LpE Listo para Ejecución.
+- Cuando el Aseguramiento de Calidad inicia las auditorías finales de procesos.
+=Únicamente en el Cierre Administrativo, una vez que la documentación ha sido archivada y se han cerrado todos los contratos.
+>La disolución del equipo no es un acto impulsivo; se realiza como última tarea dentro de la Fase de Cierre tras archivar la documentación y liquidar obligaciones.
+---
+¿Qué diferencia de gestión existe entre un Riesgo y una Incidencia en el marco conceptual de PM²?
+- Las incidencias las aprueba el OGP, y los riesgos los gestiona el DP en exclusividad.
+- Un riesgo es un evento potencial (amenaza u oportunidad) proactivo; una incidencia es un suceso no planificado que ya ha ocurrido y requiere gestión reactiva.
+- Los riesgos solo aparecen en la Fase de Inicio, y las incidencias en la de Ejecución.
+- No hay diferencias; la guía PM² los unifica en un mismo registro estándar de control.
+=Un riesgo es un evento potencial (amenaza u oportunidad) proactivo; una incidencia es un suceso no planificado que ya ha ocurrido y requiere gestión reactiva.
+>El Riesgo es probabilidad de ocurrencia futura (se previene). La Incidencia es un hecho materializado en el presente que impacta el proyecto y demanda corrección.
+---
+¿En qué consiste la 'Aceptación Condicional' de entregables establecida por la Metodología PM²?
+- La obligación legal de aceptar productos sin derecho a realizar pruebas de calidad.
+- La posibilidad de aceptar entregables con fallos o defectos conocidos documentados, siempre que exista un plan acordado para su resolución.
+- Un acuerdo confidencial entre el DP y el contratista para acortar plazos.
+- La aceptación automática de los entregables que realicen las OLAP locales.
+=La posibilidad de aceptar entregables con fallos o defectos conocidos documentados, siempre que exista un plan acordado para su resolución.
+>PM² es pragmática: permite la aceptación condicional con fallos menores listados, garantizando la puesta en servicio mientras el proveedor subsana los defectos.
+---
+¿Quién es el Responsable (R) de su ejecución y quién es el Aprobador (A) en la matriz RASCI del proceso 'Gestión de la Transición' (Sección 9.11)?
+- El Responsable de Negocio (RN) la ejecuta, y el PP la aprueba.
+- El Director de Proyecto (DP) la ejecuta (R), y el Comité de Dirección del Proyecto (CDP) es el Aprobador (A).
+- El Equipo Central de Proyecto la ejecuta, y la OSP central la aprueba.
+- El contratista la ejecuta, y el OGP de la organización es el Aprobador.
+=El Director de Proyecto (DP) la ejecuta (R), y el Comité de Dirección del Proyecto (CDP) es el Aprobador (A).
+>Poner los entregables en producción técnica es labor del DP (R), pero el CDP como ente decisor colegiado debe evaluar y autorizar la transición (A).
+---
+¿Quién es el Responsable (R) de su gestión y quién es el Aprobador (A) en la matriz RASCI del proceso 'Gestión de la Externalización' (Sección 9.13)?
+- El Director de Proyecto del Contratista la gestiona, y el DP la aprueba.
+- El Director de Proyecto (DP) es el Responsable (R), y el Órgano de Gobernanza Pertinente (OGP) es el Aprobador (A).
+- La OSP la ejecuta de forma administrativa, y el PP la aprueba.
+- El PS la gestiona, y el Comité de Dirección del Proyecto la aprueba.
+=El Director de Proyecto (DP) es el Responsable (R), y el Órgano de Gobernanza Pertinente (OGP) es el Aprobador (A).
+>El DP gestiona la subcontratación y valida hitos (R), pero por las implicaciones contractuales estratégicas, la aprobación (A) reside a nivel directivo en el OGP.
+---
+¿Quién es el Responsable (R) y quién es el Aprobador (A) oficial en la matriz RASCI del proceso 'Gestión de la Calidad' (Sección 9.9)?
+- El ECP es el Responsable, y el Aseguramiento de Calidad es el Aprobador.
+- El Director de Proyecto (DP) es el Responsable (R), y el Proveedor de Soluciones (PS) es el Aprobador (A).
+- La OSP es la única Responsable, y el PP es el Aprobador de manera exclusiva.
+- El RN es el Responsable, y el Comité de Dirección de Proyecto es el Aprobador.
+=El Director de Proyecto (DP) es el Responsable (R), y el Proveedor de Soluciones (PS) es el Aprobador (A).
+>El DP gestiona e implementa el plan de calidad (R), pero la aprobación de controles de calidad (A) reside en el PS como cabeza garante de la solución construida.
+---
+¿Quién es el Responsable (R) y quién es el Aprobador (A) en el proceso 'Gestión de la Implementación en el Negocio' (Sección 9.12)?
+- El Director de Proyecto (DP) es el Responsable, y el CDP es el Aprobador.
+- El Responsable de Negocio (RN) es el Responsable (R), el DP da soporte (S), y el Propietario del Proyecto (PP) es el Aprobador (A).
+- El Grupo de Implementación la diseña, y la OSP de forma autónoma la aprueba.
+- El Aseguramiento de Calidad la ejecuta, y el OGP corporativo la aprueba.
+=El Responsable de Negocio (RN) es el Responsable (R), el DP da soporte (S), y el Propietario del Proyecto (PP) es el Aprobador (A).
+>El RN asume liderar el cambio de procesos en la organización solicitante (R), el DP ayuda actualizando el Plan de Trabajo (S), y el PP lo valida y aprueba (A).
+---
+¿Qué tres excepciones críticas de la matriz RASCI el examen evalúa respecto a los aprobadores habituales en el marco de la gestión y seguimiento?
+- La aprobación del Acta de Constitución, del Caso de Negocio y de las lecciones aprendidas.
+- La Gestión de Calidad (aprueba PS), la Gestión de la Transición (aprueba CDP) y la Gestión de la Externalización (aprueba OGP).
+- La redacción del Manual de Proyecto, el Plan de Trabajo y el plan de recursos.
+- El control del cronograma, el control de costes y la gestión de requisitos del cliente.
+=La Gestión de Calidad (aprueba PS), la Gestión de la Transición (aprueba CDP) y la Gestión de la Externalización (aprueba OGP).
+>Estas tres disciplinas de Seguimiento y Control representan desvíos de la regla general de que el PP aprueba todo; es vital memorizar sus aprobadores específicos.
+---
+¿Cuál es la importancia de la 'gestión de la configuración' dentro de la Gestión de la Calidad (Sección 9.9)?
+- Establecer la estructura jerárquica de la Oficina de Soporte a Proyectos.
+- Garantizar el control de versiones correcto de todos los artefactos para evitar cambios no autorizados en los documentos del proyecto.
+- Rediseñar dinámicamente los Caso de Negocio al final de la Fase de Inicio.
+- Fiscalizar el presupuesto asignado de forma centralizada por el OGP.
+=Garantizar el control de versiones correcto de todos los artefactos para evitar cambios no autorizados en los documentos del proyecto.
+>La gestión de la configuración (Sección 9.9) protege las líneas de base del proyecto asegurando que todo el equipo acceda, modifique y trabaje siempre sobre la versión oficial y autorizada de los documentos.
+---
+¿A qué nivel se deben elevar las desviaciones o sobrecostes presupuestarios considerables durante el seguimiento de un proyecto PM²?
+- Debe resolverlas de manera unilateral el Director de Proyecto del Contratista.
+- Se deben elevar al Propietario del Proyecto (PP) o al Órgano de Gobernanza Pertinente (OGP) si requieren revisiones presupuestarias sustanciales.
+- Se notifican de manera exclusiva a los Representantes de Usuarios para renegociar plazos.
+- La OSP las archiva en las lecciones aprendidas de la Fase de Cierre de forma automática.
+=Se deben elevar al Propietario del Proyecto (PP) o al Órgano de Gobernanza Pertinente (OGP) si requieren revisiones presupuestarias sustanciales.
+>Cualquier desvío financiero que ponga en jaque la viabilidad del Caso de Negocio debe escalarse de inmediato al PP o al OGP, quienes tienen autoridad de dotación de fondos.
+---
+¿Cómo define PM² la naturaleza temporal y la intensidad de las actividades de 'Seguimiento y Control'?
+- Como una fase aislada que solo se activa una vez finalizada la Fase de Ejecución.
+- Son procesos transversales que se llevan a cabo en todas las fases del proyecto, alcanzando su máxima intensidad durante la Fase de Ejecución.
+- Actividades de control administrativo dirigidas exclusivamente en la Fase de Inicio por el PP.
+- Un procedimiento puramente de Cierre que ejecutan los auditores de calidad de forma externa.
+=Son procesos transversales que se llevan a cabo en todas las fases del proyecto, alcanzando su máxima intensidad durante la Fase de Ejecución.
+>El Seguimiento y Control acompaña al proyecto de principio a fin, pero debido a la alta densidad de tareas y recursos de la Fase de Ejecución, alcanza en ella su pico máximo de esfuerzo.
+---
+¿Quién es el responsable último de la ejecución efectiva de todos los procesos de Seguimiento y Control del proyecto?
+- El Aseguramiento de la Calidad (AdC).
+- El Director de Proyecto (DP).
+- El Propietario del Proyecto (PP).
+- El Responsable de Negocio (RN).
+=El Director de Proyecto (DP).
+>El Director de Proyecto (DP) es el líder operativo designado para supervisar el día a día y controlar la salud técnica y temporal del proyecto (Sección 9).
+---
+¿Cuál es la definición formal de 'Seguimiento del Progreso del Proyecto' (Sección 9.1)?
+- La auditoría que realiza de manera externa el departamento de contabilidad de la UE.
+- La recopilación de información sobre el progreso global (alcance, plazos, costes, calidad) y la previsión de su evolución.
+- La redacción y el archivo seguro del Manual de Proyecto en la Fase de Inicio.
+- La asignación definitiva de tareas a los subcontratistas externos en el Plan de Externalización.
+=La recopilación de información sobre el progreso global (alcance, plazos, costes, calidad) y la previsión de su evolución.
+>Seguimiento de Progreso es monitorizar y compilar información de todas las áreas (tiempo, coste, calidad, desvíos) para prever desviaciones futuras y anticipar medidas correctoras.
+---
+¿Qué se utiliza como referencia o línea base de comparación para el Seguimiento del Progreso del Proyecto?
+- La Agenda de la Reunión de Inicio de la Fase de Planificación.
+- Las líneas de base fijadas en el Plan de Trabajo del Proyecto.
+- La Solicitud de Inicio redactada por el Responsable de Negocio.
+- El Informe de Revisión de la Calidad elaborado de forma independiente.
+=Las líneas de base fijadas en el Plan de Trabajo del Proyecto.
+>Para poder medir desvíos de coste, plazos o alcance, el DP debe confrontar el estado real del proyecto frente a la línea base aprobada oficialmente en el Plan de Trabajo.
+---
+¿Cómo define PM² el proceso de 'Control del Cronograma' (Sección 9.2)?
+- La asignación del calendario de vacaciones del personal subcontratado.
+- Asegurar que las tareas se ejecutan según lo programado y se cumplen los plazos establecidos.
+- La definición de las fechas macro en la hoja de ruta del Caso de Negocio.
+- El registro diario de las horas imputadas por el Equipo Central.
+=Asegurar que las tareas se ejecutan según lo programado y se cumplen los plazos establecidos.
+>El Control del Cronograma persigue que las actividades se ajusten a los plazos previstos en el Plan de Trabajo, identificando y atajando cualquier retraso.
+---
+¿Qué acción debe tomar de inmediato el DP si prevé retrasos considerables que superen los umbrales de tolerancia predefinidos en el Control del Cronograma?
+- Reescribir de manera unilateral el Caso de Negocio del proyecto.
+- Informar de inmediato al Comité de Dirección del Proyecto (CDP) y proponer e implementar medidas correctivas.
+- Suspender de manera automática todas las reuniones de seguimiento del equipo.
+- Delegar de manera absoluta el control en los contratistas subcontratados.
+=Informar de inmediato al Comité de Dirección del Proyecto (CDP) y proponer e implementar medidas correctivas.
+>Cuando un retraso pone en riesgo los hitos pactados del proyecto superando las tolerancias, el DP debe reportar al CDP y acordar acciones paliativas inmediatas.
+---
+¿Cuál es la definición formal de 'Control de Costes' (Sección 9.3)?
+- La aprobación unilateral de los contratos del PS por el OGP.
+- Gestionar los costes para que se ajusten a la línea base de esfuerzo y a las restricciones presupuestarias del proyecto.
+- La fiscalización financiera externa que efectúan los auditores institucionales.
+- El ajuste diario del salario de los subcontratistas en función del avance.
+=Gestionar los costes para que se ajusten a la línea base de esfuerzo y a las restricciones presupuestarias del proyecto.
+>El Control de Costes vigila las desviaciones del consumo de esfuerzo y presupuesto frente a la línea de base, previniendo sobrecostes que comprometan la inversión.
+---
+¿En qué consiste el proceso de 'Gestión de las Partes Interesadas' en el ámbito de Seguimiento y Control (Sección 9.4)?
+- Aprobar las lecciones aprendidas de forma colectiva en el Cierre.
+- La monitorización continua de los cambios de actitud de los stakeholders, apoyándose en la Lista de Control de Partes Interesadas para mantener su alineamiento.
+- La firma diaria del acuerdo de privacidad por parte de los contratistas.
+- Excluir a los usuarios del negocio en las reuniones de seguimiento de la Fase de Ejecución.
+=La monitorización continua de los cambios de actitud de los stakeholders, apoyándose en la Lista de Control de Partes Interesadas para mantener su alineamiento.
+>Dado que las expectativas y actitud de los stakeholders pueden fluctuar a lo largo del ciclo de vida, el DP debe vigilar proactivamente su apoyo al proyecto.
+---
+¿Qué rol crucial desempeña el Responsable de Negocio (RN) en la Gestión de las Partes Interesadas de la Fase de Seguimiento y Control?
+- Liderar de manera exclusiva la gestión de la configuración técnica de la OSP.
+- Ayuda a gestionar y alinear a las partes interesadas del lado de la organización solicitante (clientes y usuarios).
+- Supervisar el presupuesto del Proveedor de Soluciones de manera diaria.
+- Redactar los informes de auditoría del Aseguramiento de Calidad.
+=Ayuda a gestionar y alinear a las partes interesadas del lado de la organización solicitante (clientes y usuarios).
+>El RN ejerce de puente político en la parte cliente, ayudando al DP a disipar resistencias de los usuarios y coordinar comunicaciones en el lado solicitante.
+---
+¿Cómo define PM² el proceso de 'Gestión de Requisitos' (Sección 9.5)?
+- El control de calidad final del código fuente de desarrollo.
+- El proceso de recopilar, documentar, validar y gestionar la implementación y cambios de los requisitos a lo largo del ciclo de vida.
+- El diseño de un manual de usuario por parte de los Representantes de Usuarios.
+- La liquidación de las obligaciones contractuales con los contratistas.
+=El proceso de recopilar, documentar, validar y gestionar la implementación y cambios de los requisitos a lo largo del ciclo de vida.
+>La Gestión de Requisitos es transversal y garantiza que las necesidades del negocio queden registradas, validadas y rastreadas hasta su solución física final.
+---
+¿Por qué es vital que cada requisito del proyecto tenga asignada una prueba (test) correspondiente en el marco de la Gestión de Requisitos?
+- Para justificar el presupuesto de externalización asignado por el OGP.
+- Para posibilitar su validación y asegurar que el alcance se cumple de forma correcta de cara a su posterior aceptación formal.
+- Es una norma de confidencialidad de la Oficina de Soporte a Proyectos.
+- Para eximir al DP de la firma de las actas de reunión de la Fase de Ejecución.
+=Para posibilitar su validación y asegurar que el alcance se cumple de forma correcta de cara a su posterior aceptación formal.
+>Cada requisito (que describe la necesidad, no la solución) debe ser auditable; asociarle una prueba de validación técnica asegura que se construyó correctamente.
+---
+¿Cómo define la metodología el proceso de 'Gestión de Cambios' (Sección 9.6)?
+- La disolución controlada del Equipo Central al final de cada fase secuencial.
+- Un proceso estructurado para identificar, evaluar, priorizar, aprobar y controlar modificaciones al proyecto.
+- El rediseño del Caso de Negocio estratégico que realiza el RN cada mes.
+- La reasignación unilateral de recursos técnicos decidida por el PS.
+=Un proceso estructurado para identificar, evaluar, priorizar, aprobar y controlar modificaciones al proyecto.
+>La Gestión de Cambios evita la corrupción del alcance, canalizando cualquier petición de modificación por un flujo riguroso de evaluación y aprobación.
+---
+¿Cuáles son los cinco pasos secuenciales definidos en PM² para tramitar formalmente una Gestión de Cambios?
+- Planificar, Estimar, Diseñar, Ejecutar y Archivar.
+- Identificar (Formulario), Evaluar (impacto/esfuerzo), Aprobar (procedimiento de elevación), Implementar (actualizar Plan de Trabajo) y Controlar (Registro).
+- Redactar, Auditar, Aprobar por OGP, Contratar y Cerrar administrativamente.
+- Identificar el riesgo, Evaluar tolerancia, Evitar la amenaza y Aceptar el cambio.
+=Identificar (Formulario), Evaluar (impacto/esfuerzo), Aprobar (procedimiento de elevación), Implementar (actualizar Plan de Trabajo) y Controlar (Registro).
+>Cualquier cambio sigue el ciclo: registro formal en formulario, estudio de desvío e impacto técnico/financiero, aprobación por el órgano competente, actualización del plan y control en registro.
+---
+¿Qué opciones de resolución formal tiene el Comité de Dirección (CDP) u órgano competente en la etapa de Aprobación de Cambios?
+- Únicamente tiene la opción de aprobar o rechazar de forma binaria.
+- Aprobar, rechazar, posponer (aplazar para evaluación futura) o combinar solicitudes de cambio.
+- Escalar de forma obligatoria todas las solicitudes menores al CoEPM² central.
+- Suspender temporalmente el proyecto hasta que el cliente asuma el coste.
+=Aprobar, rechazar, posponer (aplazar para evaluación futura) o combinar solicitudes de cambio.
+>La gobernanza del CDP le permite evaluar peticiones con flexibilidad, pudiendo rechazar, dar el visto bueno, congelar para el futuro o agrupar cambios sinérgicos.
+---
+¿Cómo define PM² el proceso de 'Gestión de Riesgos' (Sección 9.7)?
+- Un mecanismo financiero para contratar seguros comerciales ante fallos técnicos.
+- Un proceso sistemático y proactivo para identificar, evaluar y gestionar eventos (amenazas u oportunidades) acorde a la tolerancia al riesgo.
+- La resolución de las incidencias técnicas ya materializadas en la red informática.
+- El archivo confidencial de las lecciones aprendidas de los contratistas.
+=Un proceso sistemático y proactivo para identificar, evaluar y gestionar eventos (amenazas u oportunidades) acorde a la tolerancia al riesgo.
+>La Gestión de Riesgos se anticipa al futuro, listando tanto los desvíos negativos (amenazas) como los potenciales aciertos positivos (oportunidades) para planificar respuestas.
+---
+¿Cuáles son las cuatro estrategias estándar definidas por PM² para dar respuesta ante amenazas (riesgos negativos)?
+- Rediseñar, Subcontratar, Evitar y Finalizar de inmediato el proyecto.
+- Evitar, Reducir, Transferir/Compartir, y Aceptar.
+- Ignorar, Aplazar, Combinar y Sancionar administrativamente.
+- Licitación pública, Auditoría de procesos, Gestión de configuración y Mitigación de costes.
+=Evitar, Reducir, Transferir/Compartir, y Aceptar.
+>Ante una amenaza, el equipo puede reescribir el plan para sortearla (Evitar), bajar su probabilidad/impacto (Reducir), derivar el riesgo a terceros (Transferir) o tolerarlo (Aceptar).
+---
+¿Cuáles son las cuatro estrategias estándar definidas por PM² para dar respuesta ante oportunidades (riesgos positivos)?
+- Evitar, Reducir, Transferir y Aceptar.
+- Explotar, Mejorar, Compartir, y Aceptar.
+- Licitación, Externalización, Certificación y Calidad de Procesos.
+- Diseñar, Financiar, Incrementar alcance y Disolver de inmediato.
+=Explotar, Mejorar, Compartir, y Aceptar.
+>Para captar eventos beneficiosos se aplican acciones para materializarlos (Explotar), subir su probabilidad (Mejorar), consorciarse con aliados (Compartir) o simplemente aprovecharlos si ocurren (Aceptar).
+---
+¿Cómo define la metodología el proceso de 'Gestión de Incidencias' (Sección 9.8)?
+- La planificación preventiva de las amenazas futuras de la organización.
+- La gestión y resolución de sucesos no planificados que ya han ocurrido y que requieren una acción de gestión inmediata.
+- La redacción y actualización mensual del Caso de Negocio por parte del RN.
+- La liquidación administrativa de las facturas devengadas por el PS.
+=La gestión y resolución de sucesos no planificados que ya han ocurrido y que requieren una acción de gestión inmediata.
+>La incidencia es una realidad que ya golpea al proyecto en el presente, demandando que el DP registre, priorice y aplique soluciones tácticas de inmediato.
+---
+¿Cuál es el propósito del 'Registro de Decisiones' (Decision Log) y cómo se vincula con otros registros?
+- Almacenar los datos de contacto de los interesados en la Fase de Inicio.
+- Documentar de forma oficial las decisiones tomadas en el proyecto, vinculándolas a sus causas específicas, tales como riesgos materializados o solicitudes de cambio aprobadas.
+- Registrar las horas diarias imputadas por el personal del contratista.
+- Garantizar que el Aseguramiento de Calidad asuma las decisiones técnicas de TI.
+=Documentar de forma oficial las decisiones tomadas en el proyecto, vinculándolas a sus causas específicas, tales como riesgos materializados o solicitudes de cambio aprobadas.
+>El Registro de Decisiones actúa de bitácora de gobierno, justificando el origen de las decisiones ante futuras auditorías al ligarlas a sus desvíos de origen.
+---
+¿Qué acción debe tomar el DP si una incidencia supera su umbral o límite de autoridad de decisión en la Gestión de Incidencias?
+- Suspender de manera automática la Fase de Ejecución del proyecto.
+- Elevar de inmediato la incidencia al Comité de Dirección del Proyecto (CDP) para su resolución.
+- Modificar de manera unilateral el Plan de Trabajo sin reportar el cronograma.
+- Asignar la resolución directa al Aseguramiento de Calidad de forma independiente.
+=Elevar de inmediato la incidencia al Comité de Dirección del Proyecto (CDP) para su resolución.
+>Si un problema bloqueante sobrepasa las facultades dadas al DP en el Manual de Proyecto, este debe escalar (elevar) el incidente al CDP para que dictamine soluciones corporativas.
+---
+¿Cómo define PM² el proceso de 'Gestión de la Aceptación de Entregables' (Sección 9.10)?
+- La redacción final del Informe de Fin de Proyecto de la Fase de Cierre.
+- Garantizar que los entregables cumplen con los criterios de aceptación predefinidos para que el cliente pueda aceptarlos de manera formal.
+- El proceso de licitación de los contratos de externalización del OGP.
+- La disolución temporal del equipo central de proyecto tras la aceptación técnica.
+=Garantizar que los entregables cumplen con los criterios de aceptación predefinidos para que el cliente pueda aceptarlos de manera formal.
+>Este proceso asegura que los productos construidos superen los filtros de calidad acordados al inicio, garantizando que el PP firme la aceptación oficial sin reticencias.
+---
+¿Cuál es el papel operativo de los Representantes de Usuarios (RU) durante la Gestión de la Aceptación de Entregables?
+- Asignar de forma diaria las tareas al Equipo Central del Proyecto.
+- Apoyan y ejecutan de manera directa las pruebas de calidad de aceptación del usuario para verificar la idoneidad de la solución.
+- Aprobar de manera directa los sobrecostes financieros de las adquisiciones.
+- Sustituir al DP en la elaboración del cronograma detallado de la fase.
+=Apoyan y ejecutan de manera directa las pruebas de calidad de aceptación del usuario para verificar la idoneidad de la solución.
+>Los RU, como usuarios finales, ejecutan las UAT (User Acceptance Testing) para testear y validar físicamente que el producto satisface los requisitos declarados.
+---

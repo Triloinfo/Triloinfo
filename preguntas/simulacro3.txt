@@ -1,0 +1,1199 @@
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- PMI.
+- Naciones Unidas.
+- La Comisión Europea.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Cuatro.
+- Tres.
+- Cinco.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Caso de Negocio.
+- Acta de Constitución.
+- Plan de Trabajo.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- LpP (Listo para Planificación).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Caso de Negocio.
+- Registro de Riesgos.
+- Manual del Proyecto.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
+---
+¿Cuál es el objetivo principal de la Guía PM²?
+- Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+- Presentar un estándar ISO.
+- Sustituir todas las metodologías.
+- Eliminar la documentación.
+=Permitir comprender eficazmente PM² al comenzar a ponerla en práctica.
+>La guía indica que proporciona la información necesaria y suficiente para comprender PM² al comenzar a aplicarla.
+---
+¿Quién desarrolló la metodología PM²?
+- IPMA.
+- La Comisión Europea.
+- PMI.
+- Naciones Unidas.
+=La Comisión Europea.
+>El temario indica que PM² fue desarrollada por la Comisión Europea.
+---
+¿Cuántas fases secuenciales tiene el ciclo de vida PM²?
+- Tres.
+- Cinco.
+- Cuatro.
+- Seis.
+=Cuatro.
+>El ciclo de vida PM² consta de Inicio, Planificación, Ejecución y Cierre.
+---
+¿Qué documento justifica el proyecto?
+- Manual del Proyecto.
+- Acta de Constitución.
+- Plan de Trabajo.
+- Caso de Negocio.
+=Caso de Negocio.
+>El Caso de Negocio proporciona la justificación del proyecto.
+---
+¿Qué puerta de fase sigue a Inicio?
+- LpP (Listo para Planificación).
+- LpE (Listo para Ejecución).
+- LpC (Listo para Cierre).
+- Cierre Administrativo.
+=LpP (Listo para Planificación).
+>LpP es la puerta de fase al final de Inicio.
+---
+¿Qué artefacto documenta roles y enfoque de gestión?
+- Plan de Trabajo.
+- Manual del Proyecto.
+- Caso de Negocio.
+- Registro de Riesgos.
+=Manual del Proyecto.
+>El Manual del Proyecto documenta el enfoque y los roles.
