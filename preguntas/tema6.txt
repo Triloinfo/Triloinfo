@@ -1,0 +1,399 @@
+¿Cuál es el objetivo principal de la Fase de Planificación según la metodología PM²?
+- Definir los resultados deseados y crear el Caso de Negocio.
+- Coordinar la aceptación formal del proyecto y recopilar lecciones aprendidas.
+- Coordinar la ejecución de los planes del proyecto y producir entregables.
+=Desarrollar el objetivo del proyecto en un plan específico y práctico listo para ser ejecutado.
+>Durante la Fase de Planificación, el objetivo del proyecto se desarrolla en un plan específico y práctico listo para su ejecución, especificando el alcance, cronograma y recursos.
+---
+¿Qué artefacto NO se crea durante la Fase de Planificación?
+- Manual del Proyecto.
+- Acta de Constitución del Proyecto.
+- Plan de Trabajo del Proyecto.
+- Plan de Implementación en el Negocio.
+=Acta de Constitución del Proyecto.
+>El Acta de Constitución del Proyecto es una salida de la Fase de Inicio, mientras que los demás son artefactos de la Fase de Planificación.
+---
+¿Qué puerta de fase marca la finalización exitosa de la Fase de Planificación?
+- LpP (Listo para Planificación).
+- LpC (Listo para Cierre).
+- LpE (Listo para Ejecución).
+- LpI (Listo para Inicio).
+=LpE (Listo para Ejecución).
+>La puerta de fase al final de la Fase de Planificación es LpE (Listo para Ejecución), lo que permite al proyecto pasar a la Fase de Ejecución.
+---
+¿Cuál es uno de los objetivos de la Reunión de Inicio de la Planificación?
+- Transferir los entregables terminados a los usuarios finales.
+- Crear el Acta de Constitución del Proyecto.
+- Aclarar las expectativas de todas las partes interesadas que son clave en el proyecto.
+- Cargar los datos finales del proyecto en el repositorio de la organización.
+=Aclarar las expectativas de todas las partes interesadas que son clave en el proyecto.
+>Los objetivos de esta reunión incluyen asegurar la comprensión del alcance, aclarar expectativas, identificar riesgos y discutir los planes del proyecto.
+---
+¿Quién es el responsable de organizar la Reunión de Inicio de la Planificación?
+- El Propietario del Proyecto (PP).
+- El Director de Proyecto (DP).
+- El Proveedor de Soluciones (PS).
+- El Órgano de Gobernanza Pertinente (OGP).
+=El Director de Proyecto (DP).
+>Según la matriz RASCI y la descripción del proceso, el Director de Proyecto (DP) es el responsable (R) de organizar la Reunión de Inicio de la Planificación.
+---
+¿Qué documento actúa como entrada obligatoria para la Reunión de Inicio de la Planificación?
+- El Informe de Fin de Proyecto.
+- El Documento de Aceptación de los Entregables.
+- El Acta de Constitución del Proyecto.
+- La Matriz de Partes Interesadas del Proyecto.
+=El Acta de Constitución del Proyecto.
+>Las entradas formales para esta reunión son el Caso de Negocio y el Acta de Constitución del Proyecto.
+---
+Durante la Reunión de Inicio de la Planificación, ¿qué se debe hacer respecto a los roles y responsabilidades?
+- Asignarlos exclusivamente al Proveedor de Soluciones.
+- Omitirlos si el proyecto es pequeño.
+- Describirlos y debatirlos para asegurar una comprensión común.
+- Transferirlos al Órgano de Gobernanza Pertinente.
+=Describirlos y debatirlos para asegurar una comprensión común.
+>Durante la reunión, es fundamental describir y debatir los roles y responsabilidades del proyecto para alinear al equipo.
+---
+¿A quién se debe distribuir el Acta de la Reunión (AdR) después de la Reunión de Inicio de la Planificación?
+- A todos los empleados de la organización.
+- Exclusivamente al Propietario del Proyecto (PP).
+- A las partes interesadas apropiadas identificadas en el Acta de Constitución del Proyecto.
+- Solamente al Equipo Central del Proyecto (ECP).
+=A las partes interesadas apropiadas identificadas en el Acta de Constitución del Proyecto.
+>El AdR debe distribuirse a las partes interesadas pertinentes según se haya identificado previamente en el Acta de Constitución del Proyecto.
+---
+¿Qué propósito principal cumple el Manual del Proyecto?
+- Registrar las horas de trabajo del Equipo Central del Proyecto.
+- Autorizar formalmente el inicio presupuestario del proyecto.
+- Resumir los objetivos del proyecto y documentar el enfoque seleccionado para lograrlos.
+- Evaluar el desempeño del contratista al finalizar la ejecución.
+=Resumir los objetivos del proyecto y documentar el enfoque seleccionado para lograrlos.
+>El Manual del Proyecto establece los procesos clave de control, la resolución de conflictos, políticas, reglas y el enfoque del proyecto.
+---
+¿Qué elemento se documenta explícitamente en el Manual del Proyecto para manejar los desacuerdos importantes?
+- El Plan de Implementación en el Negocio.
+- El procedimiento de elevación (escalado) y resolución de conflictos.
+- La Matriz de Probabilidad/Impacto de Riesgos.
+- El código fuente de las aplicaciones informáticas.
+=El procedimiento de elevación (escalado) y resolución de conflictos.
+>El Manual del Proyecto define el procedimiento de resolución y escalado de conflictos (procedimiento de elevación) y sus tolerancias.
+---
+¿Quién es el responsable (R) de preparar el Manual del Proyecto según la matriz RASCI de PM²?
+- El Director de Proyecto (DP).
+- El Responsable de Negocio (RN).
+- El Propietario del Proyecto (PP).
+- El Equipo Central del Proyecto (ECP).
+=El Director de Proyecto (DP).
+>El Director de Proyecto (DP) es el Responsable (R) de elaborar el Manual del Proyecto, aunque consulte al ECP y al RN.
+---
+¿Qué tipo de planes se consideran parte integral del Manual del Proyecto en PM²?
+- Los planes operativos de toda la organización.
+- Todos los Planes de Gestión de Proyecto (p. ej. Gestión de Cambios, Riesgos, etc.).
+- Únicamente el Plan de Transición.
+- Los planes estratégicos a largo plazo del Órgano de Gobernanza Pertinente.
+=Todos los Planes de Gestión de Proyecto (p. ej. Gestión de Cambios, Riesgos, etc.).
+>En PM², todos los Planes de Gestión de Proyecto (como Calidad, Riesgos, Cambios) deben considerarse parte del Manual del Proyecto.
+---
+¿Qué sucede si un proyecto requiere roles y responsabilidades distintos a los estándar definidos por PM²?
+- No está permitido modificar los roles estándar bajo ninguna circunstancia.
+- El proyecto debe cancelarse de inmediato.
+- Se debe redactar un Caso de Negocio completamente nuevo.
+- Cualquier desviación de los roles estándar debe estar justificada y documentada en el Manual del Proyecto.
+=Cualquier desviación de los roles estándar debe estar justificada y documentada en el Manual del Proyecto.
+>El Manual documenta los roles de gobernanza; cualquier nuevo rol definido o desviación de los estándar debe justificarse y documentarse claramente allí.
+---
+¿Qué función desempeñan las "Preguntas Poco Frecuentes" (PPF) mencionadas en el contexto del Enfoque PM²?
+- Auditar externamente el presupuesto del proyecto.
+- Recordar al equipo los comportamientos eficaces y mantener la atención en lo crucial para el éxito.
+- Evaluar el desempeño técnico del Proveedor de Soluciones.
+- Sustituir a las actas de reunión.
+=Recordar al equipo los comportamientos eficaces y mantener la atención en lo crucial para el éxito.
+>El Enfoque PM² utiliza las PPF para ayudar a los equipos a reposicionar sus objetivos y recordarles actitudes y comportamientos eficaces (esto aplica al marco que rige el proyecto, documentado en el Manual).
+---
+¿Qué rol aprueba (A) el Manual del Proyecto en la metodología PM²?
+- El Director de Proyecto (DP).
+- El Propietario del Proyecto (PP).
+- El Grupo de Implementación en el Negocio (GIN).
+- El Analista de Negocio.
+=El Propietario del Proyecto (PP).
+>En la matriz RASCI del Manual del Proyecto, el Propietario del Proyecto (PP) figura como Aprobador (A).
+---
+Si un proyecto es de TI y requiere documentos de "Diseño del Sistema", ¿cómo clasifica PM² este artefacto dentro del Manual del Proyecto?
+- Como un Plan de Gestión de Proyecto Estándar.
+- Como un Artefacto Específico de Dominio.
+- Como un Plan de Externalización.
+- Como un Registro de Incidencias.
+=Como un Artefacto Específico de Dominio.
+>Los diseños de sistemas o arquitectónicos son específicos del dominio del proyecto y la Metodología PM² no proporciona plantillas para ellos, pero deben listarse en el Manual del Proyecto.
+---
+¿Qué información principal contiene la Matriz de Partes Interesadas del Proyecto?
+- Los costes detallados de cada recurso material.
+- La enumeración de las partes interesadas clave, sus datos de contacto y sus funciones en el proyecto.
+- El código de desarrollo de los entregables técnicos.
+- La evaluación técnica del Proveedor de Soluciones.
+=La enumeración de las partes interesadas clave, sus datos de contacto y sus funciones en el proyecto.
+>La Matriz identifica a todas las partes interesadas clave, documenta su rol y puede incluir su clasificación/categorización, facilitando la gestión de comunicaciones.
+---
+Al elaborar la Matriz de Partes Interesadas, ¿qué consideración especial debe tenerse en cuenta respecto a la información documentada?
+- Debe publicarse obligatoriamente en las redes sociales de la organización.
+- Se debe omitir el nombre del Director de Proyecto por confidencialidad.
+- Debe respetar todas las regulaciones aplicables sobre derechos de privacidad y datos personales.
+- Debe incluir la información salarial de todos los contratistas.
+=Debe respetar todas las regulaciones aplicables sobre derechos de privacidad y datos personales.
+>Dado que contiene datos de contacto y roles, la guía establece explícitamente que debe respetarse toda regulación de privacidad y datos personales.
+---
+En el desarrollo de la Matriz de Partes Interesadas del Proyecto, ¿quién asiste principalmente al Director de Proyecto (DP) identificando interesados relacionados con el cliente?
+- El Representante de Usuarios (RU).
+- El Responsable de Negocio (RN).
+- El Aseguramiento de la Calidad (AdC).
+- La Oficina de Arquitectura TI (OATI).
+=El Responsable de Negocio (RN).
+>El Responsable de Negocio (RN) ayuda al DP, particularmente en la identificación de las partes interesadas que pertenecen al lado del cliente/negocio.
+---
+¿Qué rol es responsable (R) de crear la Matriz de Partes Interesadas del Proyecto?
+- El Director de Proyecto (DP).
+- El Responsable de Negocio (RN).
+- El Propietario del Proyecto (PP).
+- El Comité de Dirección del Proyecto (CDP).
+=El Director de Proyecto (DP).
+>Según la matriz RASCI, el Director de Proyecto (DP) es quien la prepara (Responsable - R).
+---
+¿Cuáles son los tres elementos que componen el Plan de Trabajo del Proyecto en PM²?
+- Caso de Negocio, Acta de Constitución y Manual del Proyecto.
+- Desglose del Trabajo, Estimación de Esfuerzo y Costes, y Cronograma del Proyecto.
+- Plan de Transición, Plan de Calidad y Registro de Riesgos.
+- Solicitud de Inicio, Presupuesto Base y Cierre.
+=Desglose del Trabajo, Estimación de Esfuerzo y Costes, y Cronograma del Proyecto.
+>El Plan de Trabajo del Proyecto especifica su alcance detallado dividiéndose en Desglose del Trabajo, Estimación de Esfuerzo y Costes, y el Cronograma del Proyecto.
+---
+¿Qué proporciona la sección "Desglose del Trabajo" dentro del Plan de Trabajo del Proyecto?
+- Una lista de los riesgos más probables del proyecto.
+- Un organigrama jerárquico exclusivo de los miembros del Comité de Dirección.
+- Una subdivisión jerárquica de todo el trabajo que debe realizarse para satisfacer las necesidades del cliente.
+- Una descripción detallada de los requisitos de negocio iniciales.
+=Una subdivisión jerárquica de todo el trabajo que debe realizarse para satisfacer las necesidades del cliente.
+>El Desglose del Trabajo divide el proyecto en componentes más manejables como entregables, paquetes de trabajo, actividades y tareas.
+---
+¿Qué elemento del Plan de Trabajo del Proyecto se utiliza como entrada directa para crear el cronograma?
+- La Matriz de Partes Interesadas.
+- Las Estimaciones de Esfuerzo y Costes.
+- El Plan de Implementación en el Negocio.
+- El Registro de Decisiones.
+=Las Estimaciones de Esfuerzo y Costes.
+>Las estimaciones de esfuerzo y duración de cada tarea (junto con las dependencias) se utilizan directamente para determinar las fechas y crear el cronograma del proyecto.
+---
+¿Quién es el Aprobador (A) del Plan de Trabajo del Proyecto según la matriz RASCI?
+- El Propietario del Proyecto (PP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Director de Proyecto (DP).
+- El Órgano de Gobernanza Pertinente (OGP).
+=El Comité de Dirección del Proyecto (CDP).
+>El Comité de Dirección del Proyecto (CDP) es el encargado de aprobar (A) formalmente el Plan de Trabajo del Proyecto para establecer la línea de base.
+---
+¿Qué rol puede proporcionar asesoramiento técnico (p. ej., para la preparación del cronograma) al desarrollar el Plan de Trabajo?
+- El Proveedor de Soluciones (PS).
+- La Oficina de Soporte a Proyectos (OSP).
+- El Grupo de Implementación en el Negocio (GIN).
+- Los Representantes de Usuarios (RU).
+=La Oficina de Soporte a Proyectos (OSP).
+>La OSP (cuando existe en el proyecto) puede asistir y proporcionar asesoramiento técnico para preparar el cronograma y otros planes.
+---
+¿Qué aspecto clave se documenta en el "Cronograma del Proyecto" (parte del Plan de Trabajo)?
+- Los salarios individuales de cada miembro del Equipo Central del Proyecto.
+- Las dependencias entre tareas, sus fechas de inicio y finalización, y la duración total.
+- Las expectativas de los usuarios sobre el diseño estético del producto.
+- La justificación estratégica de la inversión.
+=Las dependencias entre tareas, sus fechas de inicio y finalización, y la duración total.
+>El objetivo de la sección de Cronograma es documentar las dependencias, determinar fechas de inicio/fin y calcular la duración total del proyecto.
+---
+En el contexto del Plan de Trabajo del Proyecto, una vez acordado y finalizado, ¿qué sucede con este documento?
+- Se destruye por motivos de seguridad de la información.
+- Se archiva y nunca más se actualiza.
+- Se establece como línea de base y se utiliza para dar seguimiento y controlar el proyecto.
+- Se publica en la web abierta de la organización.
+=Se establece como línea de base y se utiliza para dar seguimiento y controlar el proyecto.
+>El Plan de Trabajo del Proyecto, una vez aprobado, establece la línea de base sobre la que se medirá y controlará el progreso real durante la Fase de Ejecución.
+---
+¿Qué entradas son fundamentales para comenzar a elaborar el Plan de Trabajo del Proyecto?
+- Las lecciones aprendidas de la Fase de Cierre.
+- El Plan de Implementación en el Negocio.
+- El Caso de Negocio y el Acta de Constitución del Proyecto.
+- Los Informes de Progreso del Proyecto.
+=El Caso de Negocio y el Acta de Constitución del Proyecto.
+>Estos dos documentos de la Fase de Inicio proporcionan el alcance de alto nivel necesario para desarrollar detalladamente el Plan de Trabajo del Proyecto.
+---
+¿Qué define principalmente el Plan de Externalización?
+- Los criterios de aceptación técnica para las pruebas de usuario.
+- El qué y cómo para cualquier producto o servicio que se vaya a adquirir o contratar fuera de la organización.
+- Las transiciones de personal interno hacia nuevos departamentos.
+- Las pautas de protección de datos para los empleados internos.
+=El qué y cómo para cualquier producto o servicio que se vaya a adquirir o contratar fuera de la organización.
+>El Plan de Externalización describe el alcance de productos/servicios a comprar, las estrategias de subcontratación y las responsabilidades del ciclo de subcontratación.
+---
+Al preparar el Plan de Externalización, ¿qué normativa fundamental debe respetarse siempre?
+- Únicamente las reglas informales del Director de Proyecto.
+- Las políticas de recursos humanos para empleados contratados directamente.
+- Las reglas y procedimientos internos de adquisición/licitación de la organización.
+- Las normativas exclusivas del país del contratista externo, ignorando las propias.
+=Las reglas y procedimientos internos de adquisición/licitación de la organización.
+>El plan debe cumplir estrictamente con los procedimientos y reglas formales de adquisición o licitación que posea la organización ejecutora.
+---
+¿Quién es el encargado de aprobar (A) el Plan de Externalización según PM²?
+- El Director de Proyecto (DP).
+- El Órgano de Gobernanza Pertinente (OGP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Equipo Central del Proyecto (ECP).
+=El Órgano de Gobernanza Pertinente (OGP).
+>Según la matriz RASCI específica del Plan de Externalización, el Aprobador es el Órgano de Gobernanza Pertinente (OGP).
+---
+En el Plan de Externalización, ¿por qué es importante enumerar criterios de evaluación para la selección de contratistas?
+- Para asegurar que la selección se base en un proceso objetivo preestablecido y sin influencias indebidas.
+- Para reducir el presupuesto del proyecto de manera arbitraria.
+- Para evitar tener que firmar contratos formales con los proveedores.
+- Para delegar la gestión del proyecto íntegramente al contratista.
+=Para asegurar que la selección se base en un proceso objetivo preestablecido y sin influencias indebidas.
+>Listar los criterios (experiencia, capacidad, etc.) garantiza que el contratista sea seleccionado en base a criterios preestablecidos y no por influencia personal o de un grupo.
+---
+¿Cuál es el propósito del Plan de Aceptación de Entregables?
+- Documentar los criterios y el enfoque acordados para aceptar formalmente los entregables por parte del cliente.
+- Describir cómo se externalizarán las partes técnicas del proyecto.
+- Establecer las sanciones legales para el contratista en caso de retraso.
+- Documentar los cambios en el alcance solicitados por las partes interesadas.
+=Documentar los criterios y el enfoque acordados para aceptar formalmente los entregables por parte del cliente.
+>Aumenta la probabilidad de que los entregables sean aceptados planificando los criterios objetivos, plazos y responsabilidades de aceptación.
+---
+¿Qué rol aprueba (A) el Plan de Aceptación de Entregables?
+- El Director de Proyecto (DP).
+- El Responsable de Negocio (RN).
+- El Comité de Dirección del Proyecto (CDP).
+- El Propietario del Proyecto (PP).
+=El Comité de Dirección del Proyecto (CDP).
+>La matriz RASCI indica que el CDP es quien aprueba (A) el Plan de Aceptación de Entregables.
+---
+Para evitar duplicaciones, ¿con qué otros planes debe alinearse estrechamente el Plan de Aceptación de Entregables?
+- Plan de Transición y Plan de Externalización.
+- Plan de Gestión de Requisitos y Plan de Gestión de Calidad.
+- Plan de Gestión de Comunicaciones y Manual del Proyecto.
+- Plan de Implementación en el Negocio y Matriz de Partes Interesadas.
+=Plan de Gestión de Requisitos y Plan de Gestión de Calidad.
+>Se debe asegurar que las actividades de validación de requisitos y control de calidad estén perfectamente alineadas y no duplicadas con el proceso de aceptación.
+---
+¿Qué documento complementario se adapta y utiliza junto al Plan de Aceptación de Entregables para guiar las actividades concretas de aceptación?
+- La Lista de Control de Calidad.
+- La Lista de Control de Aceptación de Entregables.
+- El Registro de Decisiones.
+- El Formulario de Solicitud de Cambio.
+=La Lista de Control de Aceptación de Entregables.
+>En los pasos de este plan se indica que se debe adaptar la "Lista de Control de Aceptación de Entregables" según las actividades definidas.
+---
+En caso de que una parte del proyecto sea subcontratada, ¿dónde debe quedar documentado el proceso de aceptación de esos entregables específicos?
+- En el Registro de Riesgos.
+- En el Acta de Constitución del Proyecto.
+- Exclusivamente en el Manual del Proyecto.
+- En el contrato firmado con el proveedor.
+=En el contrato firmado con el proveedor.
+>Para trabajo subcontratado, el proceso de Aceptación de Entregables debe documentarse formal y legalmente en el contrato.
+---
+¿Cuál es el objetivo principal del Plan de Transición?
+- Planificar las reuniones diarias de seguimiento del equipo.
+- Asegurar una transición controlada minimizando el impacto de cualquier disrupción en el negocio al poner en marcha los entregables.
+- Transmitir la propiedad intelectual del proyecto a una entidad externa.
+- Modificar el Caso de Negocio original para justificar sobrecostes.
+=Asegurar una transición controlada minimizando el impacto de cualquier disrupción en el negocio al poner en marcha los entregables.
+>Define objetivos, requisitos previos y actividades para pasar del estado antiguo al nuevo de forma fluida y sin disrupciones severas.
+---
+¿Quién es el encargado de revisar y aprobar (A) el Plan de Transición?
+- El Director de Proyecto (DP).
+- El Equipo Central del Proyecto (ECP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Grupo de Implementación en el Negocio (GIN).
+=El Comité de Dirección del Proyecto (CDP).
+>Según la matriz RASCI de la fase de planificación, el Aprobador de este plan es el Comité de Dirección del Proyecto (CDP).
+---
+Al desarrollar el Plan de Transición, ¿qué debe documentarse obligatoriamente antes de que la transición pueda comenzar?
+- El costo final exacto de las futuras operaciones a 10 años.
+- Los requisitos previos y las actividades que deben estar completadas antes de que la transición pueda comenzar y finalizar.
+- La lista completa del personal que será despedido debido a la automatización.
+- Todas las solicitudes de cambio rechazadas.
+=Los requisitos previos y las actividades que deben estar completadas antes de que la transición pueda comenzar y finalizar.
+>El paso 2 de la creación de este plan exige documentar qué debe estar completado antes de iniciar y finalizar la transición.
+---
+¿Cómo se integran las actividades definidas en el Plan de Transición dentro de la planificación general del proyecto?
+- Se ignoran porque pertenecen a la fase de operaciones, no de proyecto.
+- Se incluyen y programan en el Plan de Trabajo del Proyecto.
+- Se transfieren íntegramente al Plan de Externalización.
+- Se documentan únicamente en el Caso de Negocio.
+=Se incluyen y programan en el Plan de Trabajo del Proyecto.
+>Todas las actividades de transición forman parte del Plan de Trabajo del Proyecto y se programan y controlan como parte del proyecto general.
+---
+¿Qué aspecto de la comunicación es vital incluir en el Plan de Transición?
+- Anunciar aumentos de sueldo para el Equipo Central.
+- Asegurar que se planifica un anuncio formal del inicio y el final de la transición a las partes interesadas.
+- Publicar el Registro de Riesgos en la intranet pública de la empresa.
+- Comunicar los errores técnicos del contratista.
+=Asegurar que se planifica un anuncio formal del inicio y el final de la transición a las partes interesadas.
+>Un paso clave es asegurar que las interrupciones se comuniquen a tiempo y se haga un anuncio formal del inicio y fin de la transición.
+---
+¿Qué busca aumentar el Plan de Implementación en el Negocio?
+- El número de cambios solicitados por los usuarios.
+- La duración de la Fase de Planificación.
+- La probabilidad de lograr los resultados y beneficios deseados integrando eficazmente los entregables en la organización.
+- El presupuesto asignado para externalización.
+=La probabilidad de lograr los resultados y beneficios deseados integrando eficazmente los entregables en la organización.
+>Al gestionar el cambio organizacional y las comunicaciones, este plan asegura que los entregables se integren y generen beneficios.
+---
+¿Quién es el Responsable (R) de elaborar el Plan de Implementación en el Negocio?
+- El Director de Proyecto (DP).
+- El Propietario del Proyecto (PP).
+- El Responsable de Negocio (RN).
+- El Proveedor de Soluciones (PS).
+=El Responsable de Negocio (RN).
+>El Responsable de Negocio (RN) representa al cliente y prepara este plan, con la ayuda del Director de Proyecto (DP).
+---
+¿Qué actividad clave se lleva a cabo durante la creación del Plan de Implementación en el Negocio?
+- Auditar las cuentas financieras del proyecto del año anterior.
+- Analizar el impacto del proyecto en los procesos, la cultura y las personas de la organización.
+- Escribir el código de los programas de TI requeridos.
+- Negociar el contrato con proveedores externos.
+=Analizar el impacto del proyecto en los procesos, la cultura y las personas de la organización.
+>Comprender los estados previos y posteriores y evaluar el impacto sobre procesos, cultura y personas es el primer paso de este plan.
+---
+¿Quién otorga la aprobación (A) final al Plan de Implementación en el Negocio?
+- El Propietario del Proyecto (PP).
+- El Grupo de Implementación en el Negocio (GIN).
+- El Director de Proyecto (DP).
+- El Comité de Dirección del Proyecto (CDP).
+=El Propietario del Proyecto (PP).
+>La matriz RASCI establece al Propietario del Proyecto (PP) como Aprobador (A) del Plan de Implementación en el Negocio.
+---
+¿Qué debe hacerse con las actividades de implementación en el negocio que ocurren después del cierre oficial del proyecto?
+- Se incorporan al Cronograma del Proyecto actual alargando la Fase de Ejecución indefinidamente.
+- Se documentan, identificándolas para que la organización las realice como parte de las operaciones o en futuros proyectos.
+- Se descartan, ya que no importan una vez cerrado el proyecto.
+- Se subcontratan automáticamente al Proveedor de Soluciones.
+=Se documentan, identificándolas para que la organización las realice como parte de las operaciones o en futuros proyectos.
+>Las actividades post-proyecto (mantenimiento del cambio) se identifican y planifican para que la organización se haga cargo de ellas en el futuro.
+---
+¿Qué significa la sigla "LpE" que da nombre a la puerta de fase final de la Planificación?
+- Listo para Estimar.
+- Listo para Evaluar.
+- Listo para Ejecución.
+- Listo para Entrega.
+=Listo para Ejecución.
+>LpE significa "Listo para Ejecución", punto de control donde se autoriza avanzar a la Fase de Ejecución.
+---
+¿Qué herramienta proporciona PM² al Director de Proyecto (DP) para guiar la revisión y evaluación en la puerta de fase LpE?
+- El Formulario de Solicitud de Cambio.
+- La Plantilla de Caso de Negocio Ágil.
+- La Lista de Control de Salida de Fase.
+- El Registro de Decisiones de Fase.
+=La Lista de Control de Salida de Fase.
+>PM² proporciona una plantilla de "Lista de Control de Salida de Fase" (o Lista de Control de Puerta de Fase) para ayudar a evaluar si se alcanzaron los objetivos.
+---
+En la Puerta de Fase LpE, si se identifican desviaciones importantes del Caso de Negocio o del Acta de Constitución, ¿qué se requiere antes de pasar a la Ejecución?
+- El Director de Proyecto (DP) aprueba la desviación unilateralmente.
+- El proyecto debe cancelarse sin posibilidad de revisión.
+- El Comité de Dirección del Proyecto (CDP) debe recibir una aprobación adicional del Órgano de Gobernanza Pertinente (OGP).
+- Se ignora la desviación si el presupuesto aún es positivo.
+=El Comité de Dirección del Proyecto (CDP) debe recibir una aprobación adicional del Órgano de Gobernanza Pertinente (OGP).
+>Desviaciones significativas del plan original aprobado requieren escalar y obtener aprobación del nivel superior, el OGP, antes de iniciar la ejecución.
+---
