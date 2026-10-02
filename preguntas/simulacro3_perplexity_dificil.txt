@@ -1,0 +1,1199 @@
+¿Cuál de los siguientes es un objetivo de la Iniciativa Open PM²?
+- Restringir el acceso a la metodología a instituciones de la UE exclusivamente.
+- Eliminar la metodología PM² y sustituirla por estándares privados.
+- Establecer un lenguaje y procesos comunes para una comunicación más eficaz.
+- Centralizar toda la gestión de proyectos en la Comisión Europea.
+= Establecer un lenguaje y procesos comunes para una comunicación más eficaz.
+> Open PM² consigue sus objetivos racionalizando la orientación, estableciendo un lenguaje y procesos comunes que conllevan una comunicación más eficaz, proporcionando un enfoque común y productivo, permitiendo mayor transparencia y visibilidad, facilitando una mejor gestión de proyectos y permitiendo un mejor seguimiento y control de proyectos financiados por la UE.
+---
+¿Qué decisión de la Comisión Europea aplica la Iniciativa Open PM² para promover la accesibilidad y reutilización?
+- El Pacto Verde Europeo de 2019.
+- El Reglamento General de Protección de Datos (RGPD).
+- La Decisión 2011/833/UE de 12 de diciembre.
+- La Decisión 2014/910/UE sobre gobernanza de proyectos.
+= La Decisión 2011/833/UE de 12 de diciembre.
+> Open PM² aplica la decisión de la Comisión Europea de 12 de diciembre de 2011 (2011/833/UE) relativa a "la reutilización de documentos de la Comisión para promocionar su accesibilidad y reutilización", lo que permite el acceso abierto a las publicaciones PM².
+---
+¿Qué proporciona la guía PM² como introducción a otros modelos PM²?
+- Una formación certificada en gestión de carteras.
+- Un software propio de gestión de proyectos.
+- Una introducción a PM² Ágil, PM²-PgM (Gestión de Programas) y PM²-PfM (Gestión de Carteras).
+- Una certificación oficial internacional de项目管理.
+= Una introducción a PM² Ágil, PM²-PgM (Gestión de Programas) y PM²-PfM (Gestión de Carteras).
+> La guía PM² ofrece una introducción a otros modelos PM², como PM² Ágil, PM²-PgM (para Gestión de Programas) y PM²-PfM (Para Gestión de Carteras), además de un vocabulario común, mejores prácticas y enlaces a recursos.
+---
+¿Cuál de las siguientes es una razón por la que los proyectos se inician según la guía PM²?
+- Para mantener el status quo organizacional sin cambios.
+- Para reducir la comunicación entre departamentos.
+- En respuesta a una auditoría que pone de manifiesto mejoras que se deben acometer.
+- Para eliminar la necesidad de documentación formal.
+= En respuesta a una auditoría que pone de manifiesto mejoras que se deben acometer.
+> Los proyectos pueden iniciarse por muchas razones, incluyendo: en respuesta a la solicitud de un cliente, en respuesta a una demanda del mercado, en respuesta a un cambio de legislación, en respuesta a una auditoría que pone de manifiesto mejoras, en respuesta a un nuevo producto de un competidor, para hacer uso de una nueva tecnología, para integrar procesos tras una fusión, para actualizar un proceso, para reubicarse, para crear conciencia, para proporcionar una prueba de concepto, para migrar información, o para mejorar un servicio.
+---
+Según la guía PM², ¿cuál es el verdadero propósito de un proyecto?
+- Producir entregables con el máximo nivel de detalle posible.
+- Mantener al equipo de proyecto activo de forma indefinida.
+- Lograr unos resultados determinados que produzcan beneficios medibles.
+- Reemplazar las operaciones cotidianas de la organización.
+= Lograr unos resultados determinados que produzcan beneficios medibles.
+> Los entregables de los proyectos son únicamente un medio para lograr un fin. El verdadero propósito de un proyecto es lograr unos resultados determinados que produzcan beneficios medibles. Los entregables introducen un cambio que da lugar a un resultado, y los beneficios son las mejoras medibles que se derivan de este resultado.
+---
+¿Cuál de las siguientes funciones puede realizar una Oficina de Soporte a Proyectos (OSP)?
+- Tomar todas las decisiones estratégicas del proyecto.
+- Aprobar el Acta de Constitución del Proyecto.
+- Mantener un repositorio centralizado del proyecto (documentos,.
+- Designar al Propietario del Proyecto.
+= Mantener un repositorio centralizado del proyecto (documentos,.
+> Una OSP puede ofrecer apoyo administrativo, recopilar y analizar datos, ayudar en la definición del cronograma y planificación de recursos, mantener un repositorio centralizado del proyecto (de Documentos, Riesgos, Lecciones Aprendidas), coordinar actividades de configuración y calidad, supervisar el cumplimiento de directrices y adaptar la metodología a nuevas mejores prácticas.
+---
+¿Cuál de las siguientes afirmaciones sobre las carteras de proyectos es correcta?
+- Los proyectos de una cartera son siempre interdependientes entre sí.
+- Las carteras son de nivel inferior a los programas y proyectos.
+- Los proyectos o programas de una cartera no son necesariamente interdependientes o interrelacionados.
+- Las decisiones de inversión se toman a nivel de proyecto individual.
+= Los proyectos o programas de una cartera no son necesariamente interdependientes o interrelacionados.
+> Una cartera de proyectos es un conjunto de proyectos, programas y otras actividades que se agrupan para permitir un mejor control de los recursos. Los proyectos o programas de una cartera no son necesariamente interdependientes o están interrelacionados entre sí. Las carteras son componentes de nivel superior a los programas y proyectos, y es a nivel de cartera donde se toman las decisiones de inversión.
+---
+En una estructura funcional, ¿cuál es la autoridad típica del Director de Proyecto?
+- Autoridad total sobre todos los recursos de la organización.
+- Autoridad equivalente a la de un Director de Programa.
+- Autoridad limitada, necesitando involucrar a la alta gerencia en incidencias importantes.
+- Autoridad completa sobre el presupuesto corporativo.
+= Autoridad limitada, necesitando involucrar a la alta gerencia en incidencias importantes.
+> En una estructura funcional, el Director de Proyecto (DP) tiende a tener una autoridad limitada y necesita involucrar a la alta gerencia en la gestión de incidencias importantes del proyecto. El trabajo del proyecto se considera habitualmente como de menor prioridad que el trabajo cotidiano.
+---
+¿Qué caracteriza a una estructura orientada a proyectos?
+- Los recursos trabajan en múltiples proyectos simultáneamente.
+- No existe ninguna jerarquía permanente en la organización.
+- Existe una jerarquía funcional básica permanente y todo el trabajo se organiza en proyectos temporales.
+- El Director de Proyecto no tiene autoridad sobre los recursos.
+= Existe una jerarquía funcional básica permanente y todo el trabajo se organiza en proyectos temporales.
+> En una estructura orientada a proyectos solo existe una jerarquía (funcional) básica permanente y todo el trabajo se organiza y se lleva a cabo en organizaciones temporales de proyectos. Los recursos se reúnen específicamente para el proyecto y trabajan prácticamente en exclusiva en él.
+---
+¿Qué debe hacer un Director de Proyecto para desarrollar sus competencias según PM²?
+- Limitarse a estudiar la guía PM² sin práctica real.
+- Evitar el contacto con otros Directores de Proyecto para mantener independencia.
+- Convertirse en miembro activo de la Comunidad PM² y participar en foros de discusión.
+- Delegar toda la formación en el Equipo Central del Proyecto.
+= Convertirse en miembro activo de la Comunidad PM² y participar en foros de discusión.
+> Para desarrollar competencias, un DP debe comprender cómo se gestionan los proyectos, revisar metodologías existentes, realizar cursos de gestión de proyectos, reflexionar sobre su propia gestión, convertirse en miembro activo de la Comunidad PM² participando en foros de discusión, y debatir con Directores de Proyecto con más experiencia.
+---
+¿Cuál de las siguientes es una competencia personal según la tabla de PM² (IPMA-ICB adaptado)?
+- Estrategia.
+- Poder e interés.
+- Gestión de conflictos y crisis.
+- Cumplimiento, estándares y regulaciones.
+= Gestión de conflictos y crisis.
+> Las competencias personales incluyen: autorreflexión y autogestión, integridad personal y fiabilidad, comunicación personal, relaciones e interacción, liderazgo, trabajo en equipo, gestión de conflictos y crisis, ingenio, negociación y orientación a resultados. Las competencias contextuales incluyen estrategia, gobernanza/estructuras/procesos, cumplimiento/estándares/regulaciones, poder e interés, cambio y transformación, y cultura y valores.
+---
+Según la guía PM², ¿qué filtro determina lo que es más importante en la aplicación de competencias?
+- El nivel de experiencia del Director de Proyecto.
+- El tamaño del proyecto.
+- Los valores y la ética.
+- La estructura organizativa.
+= Los valores y la ética.
+> El filtro que determina lo que es más importante (interés propio o común, tiempo o calidad, resultados o equilibrio) radica en los valores y la ética. Las competencias relacionadas con el reconocimiento de los valores y la ética ostentan una posición preeminente, ya que los aspectos éticos ejercen de guía en la aplicación de las competencias.
+---
+¿Qué proporciona el Enfoque PM² como aglutinante de la metodología?
+- Un conjunto de plantillas obligatorias para todos los proyectos.
+- Un sistema jerárquico de toma de decisiones.
+- Un conjunto común de creencias y valores para todos los que ponen en práctica PM².
+- Un cronograma fijo para la ejecución de proyectos.
+= Un conjunto común de creencias y valores para todos los que ponen en práctica PM².
+> El Enfoque PM² es el aglutinante que mantiene unidos los procesos y prácticas de PM². Proporciona un conjunto común de creencias y valores para todos aquellos que ponen en práctica PM², ayudando a manejar las complejidades, a reposicionar objetivos en un contexto más amplio y recordando lo verdaderamente importante.
+---
+¿Cuál de las siguientes es una de las "Ps" que el Enfoque PM² busca equilibrar?
+- Productividad.
+- Profesionalidad.
+- Propósito.
+- Proactividad.
+= Propósito.
+> El Enfoque PM² establece un equilibrio entre las "Ps" de producto, propósito, proceso, plan, planeta, personas, placer/dolor, participación, percepción y política, que con frecuencia entran en conflicto entre sí en la gestión del proyecto.
+---
+¿Cuál de las siguientes pautas se recomienda al adaptar la metodología PM²?
+- Eliminar completamente fases que no aporten valor inmediato.
+- Sustituir el Enfoque PM² por un enfoque propietario.
+- Recortar lo que pueda sobrar (enfoque "lean") pero permanecer alineado con el espíritu de PM².
+- Desviarse libremente del diseño integrado de la metodología.
+= Recortar lo que pueda sobrar (enfoque "lean") pero permanecer alineado con el espíritu de PM².
+> Al adaptar o personalizar PM², se debe recortar lo que pueda sobrar (enfoque "lean"), pero permanecer alineado con el espíritu de la Metodología PM², tal como se refleja en sus cuatro pilares y su enfoque. También se debe recordar que la metodología fue diseñada como un todo integrado, evitando desviaciones innecesarias.
+---
+¿Qué proporciona PM² a los equipos Ágiles según la guía?
+- Un conjunto de herramientas que elimina la necesidad de gobernanza.
+- Un reemplazo completo de los enfoques Ágiles tradicionales.
+- Una estructura que ayuda a cumplir requisitos de licitación y auditoría sin perder agilidad.
+- Un método para evitar la coordinación con otros proyectos.
+= Una estructura que ayuda a cumplir requisitos de licitación y auditoría sin perder agilidad.
+> PM² proporciona una estructura que ayuda a los equipos Ágiles a alcanzar el nivel ágil deseado sin dejar de cumplir con estrictos requisitos de licitación y auditoría, una buena coordinación con los niveles de programa y cartera, y la colaboración con otros proyectos, contratistas y organizaciones externas.
+---
+¿Quién compone el Comité de Dirección del Proyecto (CDP) como mínimo?
+- Todos los miembros del Equipo Central del Proyecto.
+- Solo el Propietario del Proyecto y el Director de Proyecto.
+- Los cuatro roles de las capas de Dirección y Gestión (PP, PS, RN y DP).
+- El OGP y el CDP exclusivamente.
+= Los cuatro roles de las capas de Dirección y Gestión (PP, PS, RN y DP).
+> El Comité de Dirección del Proyecto (CDP) está compuesto, al menos, por los cuatro roles de las capas de Dirección y Gestión (PP, PS, RN y DP) y ofrece una combinación equilibrada de representantes de las partes solicitante y proveedora. Pueden participar también otros roles según las necesidades del proyecto.
+---
+¿Cuál de las siguientes responsabilidades corresponde al Propietario del Proyecto (PP)?
+- Preparar el Plan de Trabajo del Proyecto.
+- Coordinar el Equipo Central del Proyecto en el día a día.
+- Presidir el Comité de Dirección del Proyecto (CDP).
+- Preparar el Plan de Externalización del proyecto.
+= Presidir el Comité de Dirección del Proyecto (CDP).
+> El Propietario del Proyecto (PP) actúa como abanderado del proyecto, preside el CDP, ofrece liderazgo y dirección estratégica al RN y al DP, establece los objetivos de negocio, acepta el Caso de Negocio, es propietario de los riesgos de negocio, moviliza recursos, supervisa el progreso, coordina la resolución de incidencias elevadas e impulsa el cambio organizativo.
+---
+¿Qué responsabilidad tiene el Proveedor de Soluciones (PS) respecto a los entregables externalizados?
+- Decide unilateralmente los criterios de aceptación sin consultar al cliente.
+- Prepara personalmente todos los entregables externalizados.
+- Aprueba los objetivos de las actividades externalizadas y se hace responsable del desempeño del contratista.
+- Gestiona directamente todas las incidencias de los usuarios finales.
+= Aprueba los objetivos de las actividades externalizadas y se hace responsable del desempeño del contratista.
+> El Proveedor de Soluciones (PS) asume la responsabilidad global sobre los entregables y servicios del proyecto, moviliza los recursos de la parte proveedora, nombra al Director de Proyecto (DP), y aprueba los objetivos de aquellas actividades y entregables externalizados haciéndose responsable del desempeño del contratista.
+---
+¿Cuál de las siguientes es una responsabilidad del Responsable de Negocio (RN)?
+- Preparar el Manual del Proyecto.
+- Supervisar la creación de todos los artefactos de gestión.
+- Coordinar el Grupo de Implementación en el.
+- Aprobar el presupuesto final del proyecto a nivel corporativo.
+= Coordinar el Grupo de Implementación en el.
+> El RN garantiza la cooperación con el DP, coordina el GIN y actúa como enlace entre los Representantes de Usuarios (RU) y la organización proveedora, se asegura de que los entregables satisfagan las necesidades de los usuarios, gestiona las actividades de la parte del negocio, decide cómo introducir cambios, lidera la implementación de cambios y coordina la formación a usuarios.
+---
+¿Qué rol lidera al personal del contratista que trabaja en el proyecto?
+- El Director de Proyecto (DP).
+- El Propietario del Proyecto (PP).
+- El Director de Proyecto del Contratista (DPC).
+- El Responsable de Negocio (RN).
+= El Director de Proyecto del Contratista (DPC).
+> El Director de Proyecto del Contratista (DPC) lidera al personal del contratista que trabaja en el proyecto, planificando, controlando e informando sobre la producción de los entregables externalizados. Trabaja en estrecha colaboración con el DP, asegurando que el trabajo se lleve a cabo a tiempo y con los estándares acordados.
+---
+¿Qué rol puede actuar como sustituto del Director de Proyecto en reuniones?
+- El Aseguramiento de la Calidad (AdC).
+- El Propietario del Proyecto (PP).
+- El Adjunto al Director de Proyecto (ADP).
+- El Responsable de Negocio (RN).
+= El Adjunto al Director de Proyecto (ADP).
+> El Adjunto al Director de Proyecto (ADP) puede trabajar en tareas de coordinación asignadas por el DP y puede actuar como sustituto del DP en reuniones. No obstante, la responsabilidad sobre todas las actividades y entregables del proyecto recae sobre el Director de Proyecto (DP). El ADP puede formar parte del Equipo de Soporte a Proyectos (ESP).
+---
+¿Quién define la composición y estructura del Equipo Central del Proyecto (ECP)?
+- El Propietario del Proyecto (PP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Director de Proyecto (DP), en función de las necesidades del proyecto.
+- El Responsable de Negocio (RN).
+= El Director de Proyecto (DP), en función de las necesidades del proyecto.
+> El Equipo Central del Proyecto (ECP) consta de roles especialistas encargados de crear los entregables. Su composición y estructura dependen del tamaño y tipo de proyecto y es definido por el Director de Proyecto (DP), en función de las necesidades del proyecto.
+---
+¿Qué hacen los Representantes de Usuarios (RU) respecto a las especificaciones y entregables?
+- Designan al Director de Proyecto del Contratista.
+- Aprueban el presupuesto definitivo del proyecto.
+- Se aseguran de que las especificaciones y.
+- Preparan el Plan de Gestión de Calidad.
+= Se aseguran de que las especificaciones y.
+> Los Representantes de Usuarios (RU) ayudan a definir las necesidades y requisitos del negocio, se aseguran de que las especificaciones y entregables satisfagan las necesidades de todos los usuarios, revisan especificaciones y criterios de aceptación, comunican opiniones en el CDP, participan en demostraciones y pilotos, realizan pruebas de aceptación y firman documentos relacionados con el usuario.
+---
+En la matriz RASCI, ¿qué significa la letra "C" (Consultado)?
+- Aquellos que hacen el trabajo de la tarea.
+- Aquellos a los que se les mantiene informados del progreso.
+- Aquellos cuyas opiniones son solicitadas y con los que hay comunicación bidireccional.
+- Aquellos que aprueban y rinden cuentas de la tarea.
+= Aquellos cuyas opiniones son solicitadas y con los que hay comunicación bidireccional.
+> En la tabla RASCI, la letra C significa Consultado: aquellos cuyas opiniones son solicitadas y con los que hay una comunicación bidireccional. El rol consultado no ayuda a completar la tarea. R es Responsable, A es Aprobador, S es Soporte e I es Informado.
+---
+En la matriz RASCI, ¿qué significa la letra "I" (Informado)?
+- Aquellos que aprueban y rinden cuentas de la tarea.
+- Aquellos que hacen el trabajo de la tarea.
+- Aquellos a los que se les mantiene informados de los progresos.
+- Aquellos cuyo soporte ayuda a completar la tarea.
+= Aquellos a los que se les mantiene informados de los progresos.
+> En la tabla RASCI, la letra I significa Informado: aquellos a los que se les mantiene informados de los progresos. La comunicación es unidireccional, a diferencia del Consultado que tiene comunicación bidireccional.
+---
+¿Qué contiene la Solicitud de Inicio de Proyecto además del contexto y los resultados esperados?
+- El cronograma detallado de todas las tareas del proyecto.
+- El Plan de Trabajo completo del proyecto.
+- Información básica sobre el esfuerzo y coste estimados y el marco temporal.
+- Las Lecciones Aprendidas de proyectos anteriores.
+= Información básica sobre el esfuerzo y coste estimados y el marco temporal.
+> La Solicitud de Inicio de Proyecto contiene información básica sobre el esfuerzo y el coste estimados para llevar a cabo el proyecto, así como el marco temporal para completarlo y el tipo de entrega. También describe el impacto esperado, resume los criterios de éxito y señala los principales supuestos, restricciones y riesgos.
+---
+¿Quién desarrolla el Caso de Negocio, apoyado por el PS y el DP?
+- El Propietario del Proyecto (PP).
+- El Equipo Central del Proyecto (ECP).
+- El Responsable de Negocio (RN).
+- El Órgano de Gobernanza Pertinente (OGP).
+= El Responsable de Negocio (RN).
+> El Responsable de Negocio (RN) desarrolla el Caso de Negocio, apoyado por el Proveedor de Soluciones (PS) y el Director de Proyecto (DP) (si ya se ha designado). El PP es responsable del Caso de Negocio y lo aprueba o rechaza. El CDP preliminar o el OGP lo aprueban a nivel institucional.
+---
+¿Cuál de los siguientes es un aspecto que el Caso de Negocio debe analizar y presentar?
+- El cronograma detallado de cada tarea del proyecto.
+- El registro completo de incidencias del proyecto.
+- Una evaluación DAFO de varias soluciones, una de las cuales se propone para implementación.
+- El Plan de Trabajo con el desglose del trabajo completo.
+= Una evaluación DAFO de varias soluciones, una de las cuales se propone para implementación.
+> El RN redacta el Caso de Negocio incluyendo: la justificación e impacto, el posicionamiento estratégico, una evaluación DAFO de varias soluciones (una propuesta para implementación), un análisis coste-beneficio por solución, las sinergias e interdependencias con otros proyectos, y una hoja de ruta de alto nivel con los hitos principales.
+---
+¿Cuándo se designa normalmente al Director de Proyecto (DP) en el ciclo de la Solicitud de Inicio?
+- Antes de redactar la Solicitud de Inicio de Proyecto.
+- Exclusivamente durante la Fase de Cierre del proyecto.
+- Normalmente después de que el Caso de Negocio está aprobado, o como muy tarde antes de completar el Acta de Constitución.
+- Únicamente después de la Reunión de Revisión de Fin de Proyecto.
+= Normalmente después de que el Caso de Negocio está aprobado, o como muy tarde antes de completar el Acta de Constitución.
+> El Proveedor de Soluciones (PS) designa al Director de Proyecto (DP) y al Equipo Central del Proyecto (ECP). El DP se designa normalmente después de que el Caso de Negocio está aprobado (o como muy tarde antes de completar el Acta de Constitución), mientras que el ECP se designa normalmente antes de la Reunión de Inicio de la Planificación.
+---
+¿Qué directriz se recomienda al crear el Acta de Constitución del Proyecto?
+- Incluir requisitos detallados y exhaustivos desde el inicio.
+- Documentar todos los riesgos con sus planes de mitigación completos.
+- Evitar presentar requisitos detallados; presentar solo características y necesidades de alto nivel.
+- Crear un cronograma detallado con todas las tareas del proyecto.
+= Evitar presentar requisitos detallados; presentar solo características y necesidades de alto nivel.
+> Al crear el Acta de Constitución del Proyecto, se recomienda evitar presentar requisitos detallados y presentar solo las características y necesidades de alto nivel. Los requisitos detallados se pueden proporcionar en otros artefactos (p. ej. un Documento de Requisitos) o en un anexo durante la fase de planificación.
+---
+¿Cuál es el primer paso antes de la Reunión de Inicio de Planificación?
+- Redactar el Manual del Proyecto completo.
+- Crear el Plan de Trabajo del Proyecto.
+- Planificar la reunión y redactar la Agenda indicando los puntos a discutir.
+- Aprobar el Caso de Negocio definitivo.
+= Planificar la reunión y redactar la Agenda indicando los puntos a discutir.
+> Antes de la Reunión de Inicio de la Planificación, los pasos son: planificar la reunión, redactar la Agenda indicando los puntos a discutir, enviar la Agenda con suficiente antelación, asegurar la asistencia de los participantes requeridos, y abordar cualquier necesidad logística y preparar la documentación.
+---
+¿Qué se discute durante la Reunión de Inicio de Planificación respecto a los planes del proyecto?
+- Se aprueba definitivamente el Plan de Trabajo del Proyecto.
+- Se firma el contrato con el contratista principal.
+- Se discuten los planes del proyecto necesarios para su ejecución, que se documentarán en el Manual del Proyecto.
+- Se realiza el cierre administrativo del proyecto.
+= Se discuten los planes del proyecto necesarios para su ejecución, que se documentarán en el Manual del Proyecto.
+> Durante la Reunión de Inicio de la Planificación se discuten los planes del proyecto necesarios para su ejecución. El conjunto final de planes del proyecto necesarios se documentará en el Manual del Proyecto. También se dialoga sobre riesgos, limitaciones, suposiciones y se presentan las herramientas de apoyo.
+---
+¿Qué entradas utiliza el Director de Proyecto para preparar el Manual del Proyecto?
+- La Solicitud de Inicio y el Informe de Fin de Proyecto.
+- El Plan de Trabajo y el Registro de Cambios.
+- El Caso de Negocio, el Acta de Constitución y el Acta de la Reunión de Inicio de Planificación.
+- El Plan de Externalización y el Informe de Auditoría.
+= El Caso de Negocio, el Acta de Constitución y el Acta de la Reunión de Inicio de Planificación.
+> Las entradas para el Manual del Proyecto son el Caso de Negocio y el Acta de Constitución del Proyecto, y el Acta de la Reunión (AdR) de Inicio de la Planificación. El Manual del Proyecto documenta el enfoque de gestión, los FCE, los roles, los procesos de control y cualquier decisión de adaptación.
+---
+¿Cuál de las siguientes es una directriz para el Manual del Proyecto?
+- Debe incluir el cronograma detallado de todas las tareas.
+- Debe ser un documento estático que no se modifica tras su creación.
+- Debe mantenerse actualizado durante toda la vida del proyecto.
+- Debe ser elaborado exclusivamente por el Equipo Central del Proyecto.
+= Debe mantenerse actualizado durante toda la vida del proyecto.
+> Las directrices del Manual del Proyecto incluyen: usar las notas de la Reunión de Inicio de Planificación como base, mantenerlo actualizado durante toda la vida del proyecto, considerar todos los Planes de Gestión como parte del Manual, y durante la Fase de Cierre archivarlo adecuadamente.
+---
+¿Qué incluye el Desglose del Trabajo como parte del Plan de Trabajo del Proyecto?
+- Una lista de todos los riesgos identificados con sus estrategias de mitigación.
+- Un registro de todas las decisiones tomadas en el proyecto.
+- El presupuesto detallado a cinco años del proyecto.
+- Una subdivisión jerárquica de todo el trabajo que debe realizarse para satisfacer las necesidades del cliente.
+= Una subdivisión jerárquica de todo el trabajo que debe realizarse para satisfacer las necesidades del cliente.
+> El Desglose del Trabajo proporciona un desglose jerárquico (subdivisión) de todo el trabajo que debe realizarse para satisfacer las necesidades del cliente. Esbozar las tareas permite realizar una estimación de sus requisitos de esfuerzo y coste. Tiene múltiples niveles con entregables y trabajos progresivamente más detallados.
+---
+¿Qué entradas se utilizan para desarrollar el Cronograma del Proyecto?
+- El Registro de Riesgos y el Registro de Incidencias.
+- El Manual del Proyecto y la Matriz de Partes Interesadas.
+- El Caso de Negocio y el Plan de Externalización.
+- El Acta de Constitución y el Plan de Trabajo (Desglose del Trabajo, Estimación de Esfuerzo y Costes).
+= El Acta de Constitución y el Plan de Trabajo (Desglose del Trabajo, Estimación de Esfuerzo y Costes).
+> Las entradas para el Cronograma del Proyecto son el Acta de Constitución del Proyecto y el Plan de Trabajo del Proyecto (Desglose del Trabajo, Estimación de Esfuerzo y Costes). El cronograma documenta las dependencias entre tareas, determina fechas de inicio y finalización y calcula la duración total del proyecto.
+---
+¿Quién revisa el Plan de Externalización?
+- El Propietario del Proyecto (PP).
+- El Equipo Central del Proyecto (ECP).
+- El Responsable de Negocio (RN).
+- El Proveedor de Soluciones (PS).
+= El Proveedor de Soluciones (PS).
+> El Director de Proyecto (DP) prepara el Plan de Externalización y el Proveedor de Soluciones (PS) lo revisa. El plan define el qué y cómo para cualquier producto o servicio externalizado, incluyendo el alcance, estrategias de subcontratación y responsabilidades.
+---
+¿Cuál de los siguientes es un paso en la preparación del Plan de Externalización?
+- Identificar el cronograma completo del proyecto con todas sus tareas.
+- Preparar la Matriz de Partes Interesadas del Proyecto.
+- Redactar el Acta de Constitución del Proyecto.
+- Enumerar los criterios de evaluación para la selección de los contratistas.
+= Enumerar los criterios de evaluación para la selección de los contratistas.
+> Entre los pasos del Plan de Externalización se incluye enumerar los criterios de evaluación para la selección de los contratistas, asegurando que un contratista sea seleccionado en base a criterios preestablecidos. Los criterios pueden incluir capacidad, experiencia previa en proyectos similares, u otros elementos relevantes.
+---
+¿Cuál de las siguientes es una directriz del Plan de Aceptación de Entregables?
+- Evitar incluir actividades de aceptación en el Plan de Trabajo del Proyecto.
+- No definir funciones y responsabilidades claras para la aceptación de cada entregable.
+- Realizar las actividades de aceptación únicamente al final de la Fase de Ejecución.
+- Asegurarse de que se tengan en cuenta todos los entregables del proyecto, incluido cualquier material de apoyo.
+= Asegurarse de que se tengan en cuenta todos los entregables del proyecto, incluido cualquier material de apoyo.
+> Las directrices del Plan de Aceptación de Entregables incluyen asegurar que se tengan en cuenta todos los entregables del proyecto, incluido cualquier material de apoyo (manuales de usuario, etc.). También se debe asegurar que no haya duplicación con otros planes y que las actividades de aceptación sigan el cronograma de entrega del proyecto.
+---
+¿Qué entrada NO se utiliza para preparar el Plan de Transición?
+- El Plan de Gestión de Cambios de Proyecto.
+- El Caso de Negocio y el Acta de Constitución del Proyecto.
+- El Plan de Trabajo del Proyecto.
+- El Plan de Externalización.
+= El Plan de Externalización.
+> Las entradas del Plan de Transición son: el Caso de Negocio y el Acta de Constitución del Proyecto, el Plan de Trabajo del Proyecto, el Plan de Gestión de Cambios de Proyecto y el Plan de Implementación en el Negocio. El Plan de Externalización no es una entrada del Plan de Transición.
+---
+¿Cuál de los siguientes es un paso en la preparación del Plan de Implementación en el Negocio?
+- Aprobar el presupuesto final del proyecto a nivel corporativo.
+- Definir el cronograma detallado de todas las tareas técnicas del proyecto.
+- Preparar el Registro de Riesgos del proyecto.
+- Identificar las necesidades de formación de las personas en la organización.
+= Identificar las necesidades de formación de las personas en la organización.
+> Los pasos del Plan de Implementación en el Negocio incluyen: comprender los estados previo y posterior al proyecto, planificar el rediseño de procesos, marcar una estrategia de comunicación, identificar fuentes de resistencia, determinar las necesidades de formación, incluir actividades en el Plan de Trabajo e identificar actividades post-proyecto.
+---
+¿Cuáles son las entradas de la Reunión de Inicio de Ejecución?
+- Únicamente la Solicitud de Inicio de Proyecto del proyecto.
+- Solo el Plan de Trabajo del Proyecto y el Registro de Cambios.
+- Exclusivamente el Informe de Fin de Proyecto y las Lecciones Aprendidas.
+- El Caso de Negocio, el Acta de Constitución, el Manual, el Plan de Trabajo, todos los planes y registros y documentos de requisitos.
+= El Caso de Negocio, el Acta de Constitución, el Manual, el Plan de Trabajo, todos los planes y registros y documentos de requisitos.
+> Las entradas de la Reunión de Inicio de Ejecución incluyen: el Caso de Negocio y el Acta de Constitución del Proyecto, el Manual del Proyecto, el Plan de Trabajo del Proyecto, todos los planes y registros del proyecto, y los Documentos de requisitos. Esta reunión asegura que el equipo conoce los elementos clave y las reglas del proyecto.
+---
+¿Qué se presenta durante la Reunión de Inicio de Ejecución?
+- El Informe de Fin de Proyecto para su aprobación.
+- El Plan de Externalización para firma del contratista.
+- El Acta de Constitución del Proyecto para su revisión final.
+- El Manual del Proyecto y el Plan de Trabajo del Proyecto con el nivel de detalle apropiado.
+= El Manual del Proyecto y el Plan de Trabajo del Proyecto con el nivel de detalle apropiado.
+> Durante la Reunión de Inicio de Ejecución se presenta el Manual del Proyecto y el Plan de Trabajo del Proyecto con el apropiado nivel de detalle, se presenta el Plan de Gestión de las Comunicaciones, se acuerda el proceso de resolución de conflictos, se presenta la Matriz de Partes Interesadas, y se presentan los procesos de gestión de riesgos, incidencias, cambios y calidad.
+---
+¿Cuál de las siguientes es una actividad de la Coordinación del Proyecto?
+- Crear el Acta de Constitución del Proyecto.
+- Preparar el Informe de Fin de Proyecto.
+- Aprobar el Caso de Negocio del proyecto.
+- Asignar tareas al Equipo Central del Proyecto.
+= Asignar tareas al Equipo Central del Proyecto.
+> La Coordinación del Proyecto incluye: administrar y dirigir las actividades, asignar tareas al ECP y coordinar su ejecución según el Plan de Trabajo, proporcionar información al ECP, verificar la finalización de tareas, aceptar entregables intermedios, proporcionar liderazgo y motivación, gestionar dinámicas de equipo y utilizar negociación y resolución de conflictos.
+---
+¿Qué rol es el Aprobador (A) en la RAM de la Coordinación del Proyecto?
+- El Comité de Dirección del Proyecto (CDP).
+- El Proveedor de Soluciones (PS).
+- El Director de Proyecto (DP).
+- El Propietario del Proyecto (PP).
+= El Propietario del Proyecto (PP).
+> En la RAM (RASCI) de la Coordinación del Proyecto, el PP es el Aprobador (A), el DP es el Responsable (R), el RN tiene función de Soporte (S), y el OGP, CDP, GIN, PS y ECP son Informados (I).
+---
+¿Qué entradas utiliza el Aseguramiento de la Calidad?
+- El Plan de Externalización y el Registro de Cambios.
+- El Manual del Proyecto y la Matriz de Partes Interesadas.
+- El Caso de Negocio y el Acta de Constitución.
+- El Plan de Gestión de la Calidad y el Plan de Trabajo del Proyecto.
+= El Plan de Gestión de la Calidad y el Plan de Trabajo del Proyecto.
+> Las entradas del Aseguramiento de la Calidad son el Plan de Gestión de la Calidad y el Plan de Trabajo del Proyecto. Las actividades de aseguramiento deben ser parte del Plan de Trabajo, y el ECP debe proporcionar evidencias de adhesión a las normas y procedimientos de aseguramiento.
+---
+¿Qué debe incluir el Informe de Situación del Proyecto según PM²?
+- El presupuesto detallado a cinco años del proyecto.
+- El cronograma completo con todas las tareas y sus dependencias.
+- La lista de todos los riesgos cerrados del proyecto.
+- Un resumen del progreso del proyecto (más que información detallada sobre las tareas).
+= Un resumen del progreso del proyecto (más que información detallada sobre las tareas).
+> El Informe de Situación del Proyecto, elaborado por el DP, debe proporcionar un resumen del progreso (más que información detallada sobre las tareas). Debe incluir información de seguimiento de costes, cronograma, alcance/cambios, riesgos e incidencias, informar sobre hitos importantes y proporcionar previsiones para futuros periodos de presentación de informes.
+---
+¿Cuándo se puede utilizar el Informe de Progreso del Proyecto para obtener aprobación del proyecto de cara al año siguiente?
+- Cuando el proyecto ha sido cancelado.
+- Cuando el proyecto no tiene presupuesto aprobado.
+- Cuando el proyecto está en su Fase de Cierre.
+- Cuando el proyecto es plurianual y su visión/alcance general no ha cambiado.
+= Cuando el proyecto es plurianual y su visión/alcance general no ha cambiado.
+> Si un proyecto es plurianual y su visión/alcance general no ha cambiado, el Informe de Progreso del Proyecto puede utilizarse para obtener la aprobación del proyecto de cara al año siguiente. Sin embargo, si la visión/alcance del proyecto ha cambiado, se debe presentar un Acta de Constitución de Proyecto actualizada.
+---
+¿Qué entradas se utilizan para la Distribución de Información?
+- El Plan de Gestión de Calidad y el Registro de Riesgos.
+- El Caso de Negocio, el Acta de Constitución y el Manual del Proyecto.
+- El Plan de Externalización y el Registro de Cambios.
+- El Plan de Gestión de las Comunicaciones, el Plan de Trabajo, los Informes y Registros y las Actas de Reuniones.
+= El Plan de Gestión de las Comunicaciones, el Plan de Trabajo, los Informes y Registros y las Actas de Reuniones.
+> Las entradas de la Distribución de Información son: el Plan de Gestión de las Comunicaciones, el Plan de Trabajo del Proyecto, los Informes y Registros del Proyecto, y las Actas de Reuniones (AdR). La información relevante debe comunicarse a las partes correspondientes en el momento oportuno y formato apropiado.
+---
+¿Quién aprueba la aplicación de la estrategia y el calendario de aceptación documentados en el Plan de Aceptación?
+- El Director de Proyecto (DP).
+- El Aseguramiento de la Calidad (AdC).
+- El Propietario del Proyecto (PP).
+- El Comité de Dirección del Proyecto (CDP).
+= El Comité de Dirección del Proyecto (CDP).
+> En la Gestión de la Aceptación de Entregables, el CDP aprueba la aplicación de la estrategia y el calendario de aceptación documentados en el Plan de Aceptación de Entregables. El DP garantiza que se aplican los procedimientos, y el PP otorga la aceptación final de los entregables del proyecto.
+---
+¿Quién proporciona recursos cualificados para dar soporte a la aceptación de los entregables por parte de los usuarios?
+- El Director de Proyecto (DP).
+- El Proveedor de Soluciones (PS).
+- El Comité de Dirección del Proyecto (CDP).
+- El Responsable de Negocio (RN).
+= El Responsable de Negocio (RN).
+> En la Gestión de la Aceptación de Entregables, el Responsable de Negocio (RN) proporciona recursos (cualificados) para dar soporte a la aceptación de los entregables por parte de los usuarios. El DP asegura que se suministran entregables de apoyo además de los principales, y el PP acepta formalmente los entregables.
+---
+¿Qué debe hacer el Director de Proyecto en la Gestión de la Transición si no hay un Plan de Transición específico?
+- Cancelar todas las actividades de transición hasta que se cree el plan.
+- Identificar los roles y partes interesadas responsables del proceso de transición.
+- Delegar toda la responsabilidad de la transición al Equipo Central del Proyecto.
+- Solicitar al OGP que asuma la gestión de la transición.
+= Identificar los roles y partes interesadas responsables del proceso de transición.
+> Si no hay un Plan de Transición específico, el Director de Proyecto (DP) debe identificar los roles y partes interesadas responsables del proceso de transición, identificar qué debe lograrse antes de que la transición se considere finalizada, asegurar copias de seguridad, asegurar la implementación en el negocio y la formación, coordinar la entrega de entregables, y asegurar que las actividades de mantenimiento y soporte empiezan según el plan.
+---
+¿Quién asegura que el contratista es elegido de acuerdo con los procesos y criterios definidos?
+- El Director de Proyecto (DP).
+- El Comité de Dirección del Proyecto (CDP).
+- El Proveedor de Soluciones (PS).
+- El Órgano de Gobernanza Pertinente (OGP).
+= El Comité de Dirección del Proyecto (CDP).
+> En la Gestión de la Externalización, el Comité de Dirección del Proyecto (CDP) asegura que el contratista es elegido de acuerdo con los procesos y estándares de la organización y con los criterios definidos para el proyecto. También asegura que todos los contratos recogen claramente las expectativas de ambas partes.
+---
+¿Quién valida los entregables y hitos intermedios y finales basándose en criterios previamente acordados?
+- El Órgano de Gobernanza Pertinente (OGP) directamente.
+- El Equipo Central del Proyecto (ECP) en solitario.
+- El Aseguramiento de la Calidad (AdC) exclusivamente.
+- El Director de Proyecto (DP) y/o el Comité de Dirección del Proyecto (CDP).
+= El Director de Proyecto (DP) y/o el Comité de Dirección del Proyecto (CDP).
+> En la Gestión de la Externalización, el Director de Proyecto (DP) y/o el Comité de Dirección del Proyecto (CDP) validan los entregables y/o los hitos intermedios y finales basándose en criterios previamente acordados y tal y como se define en el Plan de Externalización.
+---
+¿Qué debe incluir el Acta de la Reunión de Revisión de Fin de Proyecto?
+- El presupuesto definitivo aprobado del proyecto.
+- Un resumen de las incidencias planteadas, riesgos identificados, decisiones tomadas y cambios propuestos.
+- El Plan de Trabajo actualizado para el año siguiente.
+- La lista completa de todos los entregables pendientes de aceptación.
+= Un resumen de las incidencias planteadas, riesgos identificados, decisiones tomadas y cambios propuestos.
+> El Acta de la Reunión de Revisión de Fin de Proyecto, al igual que otras actas, debe incluir un resumen de las incidencias planteadas, los riesgos identificados, las decisiones adoptadas y los cambios propuestos. Estos elementos también deben registrarse en los registros correspondientes del proyecto.
+---
+¿Qué temas debe abordar el Informe de Fin de Proyecto según las directrices de PM²?
+- Solo los éxitos del proyecto, omitiendo las dificultades.
+- Eficacia del proyecto, costes, cronograma, gestión de riesgos, calidad, comunicación y Lecciones Aprendidas.
+- Exclusivamente el presupuesto final y los costes reales del proyecto.
+- Únicamente la satisfacción del cliente y los beneficios obtenidos.
+= Eficacia del proyecto, costes, cronograma, gestión de riesgos, calidad, comunicación y Lecciones Aprendidas.
+> El Informe de Fin de Proyecto debe abordar: eficacia del proyecto, costes/cronograma/alcance/gestión de calidad, gestión de riesgos, gestión de incidencias, gestión de cambios, gestión de la comunicación, gestión de recursos humanos y partes interesadas, aceptación de entregables, implementación en el negocio, desempeño del ECP, Mejores Prácticas y Lecciones Aprendidas, y Recomendaciones Post-Proyecto.
+---
+¿Qué debe hacer el Director de Proyecto en el Cierre Administrativo?
+- Aprobar el presupuesto del proyecto para el año siguiente.
+- Preparar un nuevo Caso de Negocio para la siguiente fase.
+- Designar al Director de Proyecto para el proyecto siguiente.
+- Asegurar que toda la documentación y registros sean revisados, organizados y archivados.
+= Asegurar que toda la documentación y registros sean revisados, organizados y archivados.
+> En el Cierre Administrativo, los pasos son: asegurar que toda la documentación y registros sean revisados, organizados y archivados; liberar todos los recursos; asegurar que el proyecto es aceptado y aprobado por las partes interesadas; asegurar que el PP da la aprobación final; y verificar que todas las obligaciones contractuales han sido satisfechas.
+---
+¿Cuáles son las salidas del Cierre Administrativo?
+- El Manual del Proyecto y el Plan de Trabajo actualizado.
+- El Archivo de proyectos (actualizado) y el Documento de Aceptación del Proyecto (si se requiere).
+- El Caso de Negocio y el Acta de Constitución del Proyecto.
+- El Informe de Progreso y el Registro de Cambios.
+= El Archivo de proyectos (actualizado) y el Documento de Aceptación del Proyecto (si se requiere).
+> Las salidas del Cierre Administrativo son el Archivo de proyectos (actualizado) y el Documento de Aceptación del Proyecto (si se requiere). El DP supervisa todas las actividades de cierre y la liberación de recursos, y el PP otorga la aprobación final del proyecto.
+---
+¿Qué hace el Director de Proyecto en el Seguimiento del Progreso del Proyecto con el Equipo Central?
+- Prepara el Informe de Fin de Proyecto.
+- Asigna el presupuesto definitivo del proyecto a cada tarea.
+- Aprueba formalmente todos los entregables del proyecto.
+- Intercambia regularmente información sobre el estado actual.
+= Intercambia regularmente información sobre el estado actual.
+> En el Seguimiento del Progreso del Proyecto, el DP intercambia regularmente información sobre el estado actual del proyecto y los próximos pasos con el Equipo Central del Proyecto (ECP) en reuniones formales e informales, y reúne información sobre tareas, salidas clave, utilización de recursos, registros y personas.
+---
+¿Qué aspectos específicos supervisa el DP en el seguimiento de la utilización de recursos?
+- Si el OGP ha aprobado el presupuesto del año siguiente.
+- Si los usuarios finales están satisfechos con el producto.
+- Si el contratista ha firmado el contrato.
+- Si los recursos utilizados están según lo previsto y los costes según lo presupuestado.
+= Si los recursos utilizados están según lo previsto y los costes según lo presupuestado.
+> En el seguimiento de la utilización de recursos, el DP supervisa si los recursos utilizados están según lo previsto y los costes según lo presupuestado. También supervisa tareas (estado del camino crítico), salidas clave (entregables completados e hitos), registros (estado de riesgos e incidencias) y personas (moral del equipo, participación, dinámicas y productividad).
+---
+¿Qué debe hacer el Director de Proyecto si el cronograma está en riesgo o se prevén retrasos considerables?
+- Cancelar el proyecto inmediatamente.
+- Informar al CDP y diseñar, acordar y aplicar medidas correctivas.
+- Esperar a la Fase de Cierre para documentar el retraso.
+- Modificar el cronograma sin comunicar los cambios a nadie.
+= Informar al CDP y diseñar, acordar y aplicar medidas correctivas.
+> En el Control del Cronograma, si el cronograma está en riesgo o se prevén retrasos considerables (más allá de los umbrales predefinidos), es necesario informar al Comité de Dirección del Proyecto (CDP) y se deben diseñar, acordar y aplicar medidas correctivas. También se debe notificar a las partes interesadas afectadas.
+---
+¿Qué entradas utiliza el Control de Costes?
+- La Matriz de Partes Interesadas y el Plan de Gestión de Calidad.
+- El Caso de Negocio, el Acta de Constitución y el Plan de Transición.
+- El Informe de Fin de Proyecto y las Lecciones Aprendidas.
+- El Manual del Proyecto, el Plan de Trabajo, el Plan de Externalización, el Registro de Cambios y Actas/Informes previos.
+= El Manual del Proyecto, el Plan de Trabajo, el Plan de Externalización, el Registro de Cambios y Actas/Informes previos.
+> Las entradas del Control de Costes incluyen: el Manual del Proyecto, el Plan de Trabajo del Proyecto, el Plan de Externalización (si procede), el Registro de Cambios (y otros Registros relevantes), y las Actas de Reuniones e Informes de Proyecto de periodos de referencia previos.
+---
+¿Qué paso del Control de Costes implica al Órgano de Gobernanza Pertinente (OGP)?
+- Revisar el presupuesto del proyecto con el Propietario del Proyecto.
+- Si el presupuesto debe revisarse sustancialmente, el OGP debe dar su aprobación formal antes de modificar las líneas de base.
+- Comunicar diferencias entre costes presupuestados y reales.
+- Diseñar acciones correctivas para reconducir el presupuesto.
+= Si el presupuesto debe revisarse sustancialmente, el OGP debe dar su aprobación formal antes de modificar las líneas de base.
+> En el Control de Costes, si el presupuesto del proyecto debe revisarse de manera sustancial, debe justificarse y documentarse, y el OGP debe dar su aprobación formal antes de modificar las líneas de base de los planes afectados. Si hay impacto sobre cronograma, riesgos o calidad, debe ser revisado y aprobado por el PP.
+---
+¿Quién ayuda al Director de Proyecto en la Gestión de las Partes Interesadas?
+- El Órgano de Gobernanza Pertinente (OGP).
+- El Proveedor de Soluciones (PS).
+- El Equipo Central del Proyecto (ECP).
+- El Responsable de Negocio (RN).
+= El Responsable de Negocio (RN).
+> En la Gestión de las Partes Interesadas, el RN ayuda al Director de Proyecto (DP), particularmente con la gestión de las partes interesadas de la parte solicitante (p. ej. los usuarios). Todos los miembros del CDP deberían participar, en particular el RN. Se debe utilizar la Lista de Control de Partes Interesadas.
+---
+¿Cuál de las siguientes es una directriz de la Gestión de Requisitos?
+- Los requisitos deben describir la solución, no la necesidad.
+- Los requisitos deben describir la necesidad, no la solución, utilizando términos no ambiguos.
+- Los requisitos detallados deben documentarse en el Acta de Constitución.
+- No es necesario validar los requisitos con pruebas.
+= Los requisitos deben describir la necesidad, no la solución, utilizando términos no ambiguos.
+> Las directrices de la Gestión de Requisitos establecen que los requisitos deben describir la necesidad, no la solución, utilizando términos no ambiguos y evitando enunciados orientados a tecnologías o soluciones. Para cada requisito identificado deberá existir una prueba (test) correspondiente para validar su aceptación.
+---
+¿Qué es lo primero que se hace en el proceso de Gestión de Cambios?
+- Implementar el cambio directamente.
+- Identificar el cambio, documentando las solicitudes de cambio.
+- Aprobar el cambio sin evaluación previa.
+- Comunicar el cambio a todas las partes interesadas sin documentarlo.
+= Identificar el cambio, documentando las solicitudes de cambio.
+> El primer paso del proceso de Gestión de Cambios es identificar el cambio: identificar y documentar las solicitudes de cambio. El DP asegura que la Solicitud de Cambio se documenta adecuadamente a través de un Formulario de Solicitud de Cambio y en el Registro de Cambios.
+---
+¿Qué implica el paso "Evaluar el cambio" en la Gestión de Cambios?
+- Decidir si aprobar o rechazar el cambio.
+- Evaluar si la solicitud es efectivamente un.
+- Implementar el cambio en el Plan de Trabajo del Proyecto.
+- Comunicar la decisión al solicitante del cambio.
+= Evaluar si la solicitud es efectivamente un.
+> El paso de evaluar el cambio implica: a) evaluar si la solicitud es efectivamente un cambio, b) considerar el impacto de no implementar el cambio propuesto, c) estimar el tamaño del cambio en base a su impacto en objetivos, cronograma, coste y esfuerzo, y d) priorizar la implementación con relación a otras solicitudes.
+---
+¿Qué debe hacer el Director de Proyecto después de que un cambio es aprobado o combinado?
+- Comunicar inmediatamente el rechazo al solicitante.
+- Incorporar todas las acciones relacionadas en el Plan de Trabajo del Proyecto y actualizar la documentación.
+- Cerrar el Registro de Cambios definitivamente.
+- Cancelar el proyecto por el impacto del cambio.
+= Incorporar todas las acciones relacionadas en el Plan de Trabajo del Proyecto y actualizar la documentación.
+> Para cambios aprobados o combinados, el Director de Proyecto (DP) debe incorporar todas las acciones relacionadas en el Plan de Trabajo del Proyecto y actualizar la documentación y registros asociados (p. ej. Registros de Riesgos, Incidencias, Cambios y Decisiones y otros planes).
+---
+¿Cuál es el primer paso del proceso de Gestión de Riesgos?
+- Desarrollar una estrategia de respuesta a riesgos.
+- Identificar riesgos que pueden tener impacto en los objetivos del proyecto.
+- Realizar una valoración de riesgos.
+- Informar al CDP de las actividades relacionadas con riesgos.
+= Identificar riesgos que pueden tener impacto en los objetivos del proyecto.
+> El primer paso del proceso de Gestión de Riesgos es identificar riesgos: identificar y documentar los riesgos que pueden tener impacto en los objetivos del proyecto. Pueden aparecer nuevos riesgos en cualquier momento y deben añadirse al Registro de Riesgos para su análisis/actuación.
+---
+¿Qué implica la valoración de riesgos en el proceso de Gestión de Riesgos?
+- Comunicar el riesgo a todas las partes interesadas del proyecto.
+- Decidir si aceptar o rechazar el riesgo.
+- Implementar medidas de mitigación inmediatamente.
+- Evaluar la probabilidad de cada riesgo y la severidad de su impacto en los objetivos del proyecto.
+= Evaluar la probabilidad de cada riesgo y la severidad de su impacto en los objetivos del proyecto.
+> La valoración de riesgos sirve para evaluar la probabilidad de cada riesgo y la severidad de su impacto en los objetivos del proyecto. Esta valoración es necesaria antes de poder planificar una respuesta a los riesgos. Los riesgos de nivel medio a alto se tratan con mayor prioridad.
+---
+¿Quién supervisa los proyectos con alto nivel de exposición al riesgo?
+- El Director de Proyecto (DP) en solitario.
+- El Comité de Dirección del Proyecto (CDP).
+- El Equipo Central del Proyecto (ECP).
+- El Aseguramiento de la Calidad (AdC).
+= El Comité de Dirección del Proyecto (CDP).
+> En la Gestión de Riesgos, el Comité de Dirección del Proyecto (CDP) supervisa los proyectos con alto nivel de exposición al riesgo. El DP supervisa y controla los riesgos, el ECP se involucra en la identificación y respuesta, y otras partes interesadas identifican y comunican riesgos en áreas especializadas.
+---
+¿Qué son las incidencias en el contexto de la Gestión de Incidencias?
+- Sucesos planificados relacionados con el proyecto.
+- Sucesos no planificados relacionados con el proyecto que requieren una acción de gestión.
+- Estrategias de respuesta a riesgos positivos.
+- Actividades de aseguramiento de la calidad.
+= Sucesos no planificados relacionados con el proyecto que requieren una acción de gestión.
+> Las incidencias se definen como sucesos no planificados relacionados con el proyecto que requieren una acción de gestión en el marco del proyecto. El proceso de gestión de incidencias ayuda al DP a evaluar y actuar ante incidencias que pueden repercutir en el alcance, tiempo, coste, calidad, riesgo o satisfacción de las partes interesadas.
+---
+¿Qué debe hacer el DP si el tamaño o número de incidencias es significativo?
+- Cancelar el proyecto inmediatamente.
+- Actualizar el Plan de Trabajo del Proyecto.
+- Ignorar las incidencias hasta la Fase de Cierre.
+- Delegar la gestión de incidencias al OGP.
+= Actualizar el Plan de Trabajo del Proyecto.
+> En la Gestión de Incidencias, si el tamaño o el número de incidencias/acciones es significativo, se debe actualizar el Plan de Trabajo del Proyecto con las principales actividades de gestión de incidencias. También se deben elevar las incidencias más graves al CDP y supervisar y controlar la resolución.
+---
+¿Qué vínculo se establece entre decisiones y otros elementos registrados?
+- Las decisiones se documentan sin relación con otros registros.
+- Las decisiones se vinculan a la resolución de otros elementos registrados (riesgos, incidencias y cambios).
+- Las decisiones no necesitan comunicarse a las partes interesadas.
+- Las decisiones se toman exclusivamente por el Director de Proyecto sin registro.
+= Las decisiones se vinculan a la resolución de otros elementos registrados (riesgos, incidencias y cambios).
+> En la gestión de decisiones, se vinculan las decisiones a la resolución de otros elementos registrados (riesgos, incidencias y cambios). El DP informa regularmente del estado de las decisiones a las partes interesadas del proyecto. Las decisiones se documentan especialmente en la Fase de Ejecución.
+---
+¿Qué dimensiones aborda la gestión de la seguridad informática?
+- Escalabilidad, rendimiento y disponibilidad.
+- Autenticidad, confidencialidad y trazabilidad.
+- Rentabilidad, eficiencia y productividad.
+- Confidencialidad, integridad y disponibilidad.
+= Confidencialidad, integridad y disponibilidad.
+> La gestión de la seguridad informática garantiza tres dimensiones fundamentales: confidencialidad (datos accesibles solo para usuarios autorizados), integridad (datos no alterados sin autorización) y disponibilidad (datos accesibles y funcionales cuando sea necesario). Aborda amenazas como accidentes, errores, ataques deliberados y eventos naturales.
+---
+¿Qué tipo de modelo describe normalmente la gestión de la seguridad informática en las organizaciones?
+- Un modelo de un solo nivel basado en auditorías externas.
+- Un modelo de tres niveles: gestión de riesgos, revisiones de cumplimiento y auditorías internas de seguridad.
+- Un modelo de dos niveles: planificación y ejecución.
+- Un modelo de cuatro niveles: estrategia, diseño, implementación y mantenimiento.
+= Un modelo de tres niveles: gestión de riesgos, revisiones de cumplimiento y auditorías internas de seguridad.
+> Las medidas de seguridad informática deben adaptarse para alinearse con las amenazas específicas y cumplir con las políticas y regulaciones de la organización, que suelen describir un modelo de tres niveles, que comprende la gestión de riesgos, las revisiones de cumplimiento y las auditorías internas de seguridad.
+---
+¿Cuándo deben integrarse las consideraciones de seguridad informática en el proyecto?
+- Únicamente durante la Fase de Cierre del proyecto.
+- Desde el principio, en las prioridades y el plan de trabajo del proyecto.
+- Exclusivamente durante la Fase de Ejecución.
+- Solo después de que se hayan producido incidentes de seguridad.
+= Desde el principio, en las prioridades y el plan de trabajo del proyecto.
+> Un enfoque de gestión de riesgos orientado a la seguridad comienza en la conceptualización de las soluciones digitales, en la fase de inicio de los proyectos, y continúa hasta su cierre. Las consideraciones de seguridad informática deben integrarse desde el principio en las prioridades y el plan de trabajo del proyecto.
+---
+¿Qué principios del RGPD deben priorizar los equipos de proyecto para la protección de datos?
+- Rentabilidad, eficiencia y productividad.
+- Legalidad, equidad y transparencia, precisión, minimización de datos y seguridad.
+- Confidencialidad, integridad y disponibilidad exclusivamente.
+- Innovación, competitividad y rapidez de ejecución.
+= Legalidad, equidad y transparencia, precisión, minimización de datos y seguridad.
+> Para lograr la protección de datos por defecto y desde el diseño, los equipos deben priorizar principios fundamentales: Legalidad, Equidad y Transparencia, Precisión, Limitación de Propósito, Minimización de Datos, Limitación de Almacenamiento y Seguridad de Datos, incluyendo Integridad y Confidencialidad.
+---
+¿Qué abarca la sostenibilidad según la guía PM²?
+- Únicamente la gestión medioambiental del proyecto.
+- La intrincada interacción entre el bienestar económico, ambiental y social.
+- Exclusivamente la reducción de costes operativos del proyecto.
+- Solo el cumplimiento de normativas legales ambientales.
+= La intrincada interacción entre el bienestar económico, ambiental y social.
+> La sostenibilidad comprende algo más que la gestión medioambiental; abarca la intrincada interacción entre el bienestar económico, ambiental y social. Exige un enfoque holístico que vaya más allá de la mitigación del daño y se centre en crear impactos positivos duraderos.
+---
+¿Qué ciclo de vida tiene un programa PM²?
+- Tres fases: Inicio, Desarrollo y Cierre.
+- Cuatro fases denominadas igual que en los.
+- Cinco fases: Inicio, Planificación, Desarrollo, Pruebas y Cierre.
+- Dos fases: Planificación y Ejecución.
+= Cuatro fases denominadas igual que en los.
+> Un programa tiene un comienzo y un final definidos. El ciclo de vida del programa PM² tiene cuatro fases, que se denominan de la misma manera que en los proyectos, pero mantienen diferencias respecto al ciclo de vida del proyecto PM²: la Fase de Inicio, la Fase de Planificación, la Fase de Ejecución y la Fase de Cierre, con actividades de Seguimiento y Control a lo largo de toda la vida.
+---
+¿Quién compone el Comité de Dirección de Programa (CDPg)?
+- El OGP y los Representantes de Usuarios únicamente.
+- Exclusivamente el Propietario de Programa (PPg).
+- Todos los Directores de Proyecto del programa.
+- El Propietario de Programa (PPg), el Responsable de Negocio de Programa (RNPg) y el Director de Programa (DPg).
+= El Propietario de Programa (PPg), el Responsable de Negocio de Programa (RNPg) y el Director de Programa (DPg).
+> El Comité de Dirección de Programa (CDPg) está integrado por el Propietario de Programa (PPg), el Responsable de Negocio de Programa (RNPg) y el Director de Programa (DPg). Otros roles expertos pueden participar según sea necesario. El CDPg es responsable de la consecución de los objetivos y beneficios del programa.
+---
+¿Qué es el Equipo de Apoyo al Programa (EAPg)?
+- Un equipo permanente que gestiona todos los proyectos de la organización.
+- Un equipo temporal que proporciona asistencia administrativa al programa y a los proyectos que lo componen.
+- Un comité que aprueba todos los cambios de cartera.
+- Un grupo de auditores externos que evalúa el programa.
+= Un equipo temporal que proporciona asistencia administrativa al programa y a los proyectos que lo componen.
+> Un programa también puede tener un Equipo de Apoyo al Programa (EAPg) temporal para proporcionar asistencia administrativa al programa y a los proyectos que lo componen. El PPg es responsable del éxito del programa, mientras que la gestión diaria se delega en el DPg.
+---
+¿Cuál de los siguientes es un grupo de actividades del proceso de gestión de carteras PM²?
+- Cierre de Proyectos, que incluye la liberación de recursos.
+- Inicio de Proyectos, que incluye la redacción de Solicitudes de Inicio.
+- Ejecución de Tareas, que incluye el desarrollo de entregables.
+- Composición de la Cartera, que incluye evaluar elementos candidatos y tomar decisiones de inversión.
+= Composición de la Cartera, que incluye evaluar elementos candidatos y tomar decisiones de inversión.
+> El proceso de gestión de carteras PM² comprende cuatro grupos: 1. Definición del Marco General de la Cartera, 2. Composición de la Cartera (evaluar elementos candidatos, decisiones de inversión, asignar recursos), 3. Realización de la Cartera (gestión continua de programas y proyectos autorizados), y 4. Gestión de las Partes Interesadas y Comunicación.
+---
+¿Qué alimenta el proceso de Composición de la Cartera al proceso de Realización?
+- Solicitudes de cambio de proyecto.
+- Documentos de Lecciones Aprendidas.
+- Informes de auditoría externa.
+- Nuevos componentes de la cartera (programas o proyectos).
+= Nuevos componentes de la cartera (programas o proyectos).
+> El proceso de Composición de la Cartera alimenta los procesos continuos de Realización de la Cartera con nuevos componentes de la cartera (es decir, programas o proyectos), cuyo progreso y resultados se comunican mediante la ejecución del proceso de Gestión de Partes Interesadas y Comunicación de la cartera.
+---
+¿Qué proporciona la extensión Ágil de PM² para proyectos de TI?
+- Un reemplazo completo del ciclo de vida PM².
+- Roles y responsabilidades Ágiles, integración con el ciclo de vida PM² y un conjunto de artefactos Ágiles PM².
+- Un nuevo sistema de gobernanza independiente de PM².
+- Una metodología exclusiva de gestión de carteras.
+= Roles y responsabilidades Ágiles, integración con el ciclo de vida PM² y un conjunto de artefactos Ágiles PM².
+> La extensión Ágil de PM² proporciona para proyectos de TI: Roles y responsabilidades Ágiles (como extensión a la gobernanza PM²), Integración con el ciclo de vida global del proyecto PM², y Un conjunto de artefactos Ágiles PM², sugeridos como extensión de los artefactos PM².
+---
+¿En cuántas categorías se agrupan los artefactos Ágiles de PM²?
+- En dos categorías: artefactos de gestión y artefactos técnicos.
+- En tres categorías: específicos del enfoque Ágil, de coordinación y comunicación, y de gobernanza del proyecto.
+- En cuatro categorías: de inicio, planificación, ejecución y cierre.
+- En cinco categorías: de estrategia, gobernanza, gestión, ejecución y cierre.
+= En tres categorías: específicos del enfoque Ágil, de coordinación y comunicación, y de gobernanza del proyecto.
+> Un conjunto de artefactos respalda el uso de PM² Ágil. Estos artefactos se agrupan en tres categorías: artefactos específicos del enfoque Ágil, artefactos de coordinación y comunicación, y artefactos de gobernanza del proyecto. Documentar el trabajo planificado y realizado es crítico para la transparencia entre las capas de la organización.
+---
+¿Qué incluye el proceso de gestión de la configuración en el Plan de Gestión de Calidad?
+- La designación del Director de Proyecto del Contratista.
+- La elaboración del cronograma detallado del proyecto.
+- La preparación del Plan de Externalización.
+- La definición de elementos de configuración y el control de sus versiones y lanzamientos.
+= La definición de elementos de configuración y el control de sus versiones y lanzamientos.
+> El Plan de Gestión de Calidad documenta un procedimiento de gestión de la configuración. Esto incluye definir qué se considerará un elemento de configuración, identificar quién es responsable de los cambios en los elementos de configuración y de mantener y controlar sus versiones y lanzamientos, y definir los artefactos y herramientas para la gestión.
+---
+¿Qué debe incluir el Plan de Gestión de las Comunicaciones?
+- El cronograma detallado de todas las tareas del proyecto.
+- Las actividades de comunicación, sus objetivos, contenido, formato, frecuencia y público.
+- El presupuesto detallado del proyecto a cinco años.
+- El Registro de Riesgos con todas las respuestas planificadas.
+= Las actividades de comunicación, sus objetivos, contenido, formato, frecuencia y público.
+> El Plan de Gestión de las Comunicaciones define y documenta las actividades de comunicación, sus objetivos, contenido, formato, frecuencia y público. También define la forma de comunicar el estado del proyecto e incluye una estrategia de comunicación para cada una de las principales partes interesadas, basada en sus intereses, expectativas e influencia.
+---
+¿Qué entradas utiliza el Plan de Gestión de las Comunicaciones?
+- El Registro de Cambios y el Registro de Incidencias.
+- El Caso de Negocio y el Plan de Externalización.
+- El Informe de Fin de Proyecto y las Lecciones Aprendidas.
+- El Acta de Constitución, el Manual, la Matriz de Partes Interesadas y el Plan de Trabajo del Proyecto.
+= El Acta de Constitución, el Manual, la Matriz de Partes Interesadas y el Plan de Trabajo del Proyecto.
+> Las entradas del Plan de Gestión de las Comunicaciones son: el Acta de Constitución del Proyecto, el Manual del Proyecto, la Matriz de Partes Interesadas del Proyecto, y el Plan de Trabajo del Proyecto. El DP lo prepara y el RN proporciona información y ayuda en su creación.
+---
+¿Qué entradas utiliza el Plan de Gestión de Requisitos?
+- El Plan de Trabajo y el Registro de Riesgos.
+- El Caso de Negocio y el Plan de Externalización.
+- El Informe de Fin de Proyecto y el Registro de Cambios.
+- El Acta de Constitución, el Manual y la Matriz de Partes Interesadas.
+= El Acta de Constitución, el Manual y la Matriz de Partes Interesadas.
+> Las entradas del Plan de Gestión de Requisitos son: el Acta de Constitución del Proyecto, el Manual del Proyecto, y la Matriz de Partes Interesadas. El DP lo prepara y el RN se le consulta para la adaptación y elaboración del artefacto. Los requisitos se documentan en artefactos separados.
+---
+¿Cuál es una directriz del Plan de Gestión de Requisitos?
+- Asegurar que el proceso de gestión de requisitos no esté alineado con el proceso de gestión de cambios.
+- Asegurar que el proceso de gestión de requisitos esté alineado con el proceso de gestión de cambios.
+- Evitar definir los posibles estados del ciclo de vida de un requisito.
+- No definir los roles y responsabilidades de cada etapa del proceso.
+= Asegurar que el proceso de gestión de requisitos esté alineado con el proceso de gestión de cambios.
+> Una directriz del Plan de Gestión de Requisitos es asegurar que el proceso de gestión de requisitos está alineado con el proceso de gestión de cambios y que los cambios en los requisitos se reflejan en los entregables y las actividades. También se deben definir los estados del ciclo de vida de un requisito y los roles y responsabilidades.
+---
+¿Qué estados puede tener un cambio en el Registro de Cambios?
+- Pendiente, En progreso, Completado y Cancelado.
+- Abierta, Aplazada, Resuelta y Cerrada.
+- Activo, Inactivo, En revisión y Cerrado.
+- Propuesto, En evaluación, Pendiente de aprobación, Aprobado,.
+= Propuesto, En evaluación, Pendiente de aprobación, Aprobado,.
+> El estado del cambio en el Registro de Cambios puede ser: Presentado (estado inicial), En evaluación, Pendiente de aprobación, Aprobado, Rechazado, Aplazado, Combinado (se combina con otro cambio) o Implementado (el trabajo se ha incorporado al Plan de Trabajo del Proyecto).
+---
+¿Qué es la magnitud de una incidencia en el Registro de Incidencias?
+- El impacto financiero de la incidencia en el proyecto.
+- El esfuerzo necesario para resolverla, en una escala de 1 a 5.
+- La probabilidad de que la incidencia se repita.
+- El número de personas afectadas por la incidencia.
+= El esfuerzo necesario para resolverla, en una escala de 1 a 5.
+> La magnitud de la incidencia representa el esfuerzo necesario para resolverla. Los valores posibles son: 5=Muy alto, 4=Alto, 3=Medio, 2=Bajo, 1=Muy bajo. También se registran la urgencia y el impacto, cada uno en la misma escala de 1 a 5.
+---
+¿Qué es el Valor Planificado (VP) en la Gestión del Valor Ganado?
+- El coste en que realmente se incurre hasta un punto dado en el tiempo.
+- También conocido como Valor del Trabajo Programado (VTP).
+- El coste presupuestado del trabajo realizado.
+- La diferencia entre el coste real y el valor ganado.
+= También conocido como Valor del Trabajo Programado (VTP).
+> Los principales indicadores de la GVG son: el Valor Planificado (VP), también conocido como Valor del Trabajo Programado (VTP); el Coste Real (CR), también conocido como Coste Real del Trabajo Realizado (CRTR); y el Valor Ganado, también conocido como Coste Presupuestado del Trabajo Realizado (CPTR).
+---
+¿Qué es el Valor Ganado en la GVG?
+- La diferencia entre el valor planificado y el coste real.
+- El coste en que realmente se incurre hasta un punto dado.
+- El valor del trabajo planificado pero no realizado.
+- También conocido como Coste Presupuestado del Trabajo Realizado (CPTR).
+= También conocido como Coste Presupuestado del Trabajo Realizado (CPTR).
+> El Valor Ganado, también conocido como Coste Presupuestado del Trabajo Realizado (CPTR), es uno de los tres indicadores principales de la GVG, junto con el Valor Planificado (VP/VTP) y el Coste Real (CR/CRTR). A través de su combinación se obtienen ICR como la Variación del Coste (VC) y el Índice de Rendimiento del Coste (IRC).
+---
+¿Qué es el Árbol de Decisión?
+- Un diagrama de barras para el cronograma del proyecto.
+- Un tipo de matriz RASCI para asignar responsabilidades.
+- Un método de estimación por tres puntos.
+- Una herramienta visual de apoyo a la decisión compuesta por nodos y ramas.
+= Una herramienta visual de apoyo a la decisión compuesta por nodos y ramas.
+> El Árbol de Decisión es una herramienta visual de apoyo a la decisión, compuesta por nodos y ramas que ayuda a describir las posibles alternativas. Utiliza tres tipos de nodos: nodos de decisión (cuadrados), nodos de posibilidad (círculos) y nodos finales (triángulos). Se utiliza junto con el Valor Monetario Previsto (VMP).
+---
+¿Qué tipos de nodos utiliza el Árbol de Decisión?
+- Nodos de inicio, nodos de proceso y nodos de fin.
+- Nodos de decisión (cuadrados), nodos de posibilidad (círculos) y nodos finales (triángulos).
+- Nodos de riesgo, nodos de cambio y nodos de incidencia.
+- Nodos de planificación, nodos de ejecución y nodos de cierre.
+= Nodos de decisión (cuadrados), nodos de posibilidad (círculos) y nodos finales (triángulos).
+> El Árbol de Decisión utiliza tres tipos de nodos: a) Nodos de decisión (representados por cuadrados), b) Nodos de posibilidad (representados por círculos) y c) Nodos finales (representados por triángulos). El árbol se utiliza principalmente junto con el Valor Monetario Previsto (VMP).
+---
+¿Qué es el Cronograma del Proyecto como técnica de gestión?
+- Un enfoque ágil de gestión iterativa.
+- Un método para estimar el esfuerzo y coste de cada tarea.
+- Una herramienta para identificar los riesgos principales del proyecto.
+- Una técnica para identificar dependencias entre tareas,.
+= Una técnica para identificar dependencias entre tareas,.
+> El Cronograma del Proyecto tiene por objeto identificar dependencias entre tareas, asignar recursos a cada una de ellas, identificar sus fechas de inicio y finalización y calcular la duración total del proyecto. Pueden utilizarse diferentes métodos: lista de fechas, plan de hitos, gráficos de barras, diagramas de red y diagramas de Gantt.
+---
+¿Qué representación visual utiliza el Diagrama de Gantt?
+- Un organigrama jerárquico vertical.
+- Un diagrama circular de sectores.
+- Un diagrama de dispersión de puntos.
+- Un tipo de gráfico de barras horizontales.
+= Un tipo de gráfico de barras horizontales.
+> El Diagrama de Gantt es un tipo de gráfico de barras (generalmente horizontales) que representa el cronograma, las fases y las actividades de un proyecto. Se centra en la secuencia, la duración, las dependencias y el estado del proyecto, y puede mostrar sombreados porcentuales completos y una línea vertical "hoy".
+---
+¿Qué es el Análisis Hacer o Comprar?
+- Un diagrama de causa-efecto para incidencias del proyecto.
+- Un método de estimación por tres puntos de duración.
+- Una matriz de probabilidad e impacto de riesgos.
+- Una técnica que ayuda a decidir qué subcontratar y qué no subcontratar considerando costes, tecnología y procesos.
+= Una técnica que ayuda a decidir qué subcontratar y qué no subcontratar considerando costes, tecnología y procesos.
+> Un Análisis Hacer o Comprar ayuda a la organización a tomar una decisión fundamentada sobre qué subcontratar y qué no. Entre los factores a considerar figuran la comparación de costes, la tecnología y los procesos comerciales, la información relacionada con los proveedores y los sistemas de soporte.
+---
+¿Qué es el Desglose por Etapas como técnica?
+- Una técnica para representar y organizar el trabajo del proyecto en fases secuenciales o etapas/iteraciones.
+- Un método para estimar el coste total del proyecto.
+- Una matriz de asignación de responsabilidades.
+- Un diagrama de causa-efecto para incidencias.
+= Una técnica para representar y organizar el trabajo del proyecto en fases secuenciales o etapas/iteraciones.
+> El Desglose por Etapas describe una técnica que se utiliza para representar y organizar el trabajo del proyecto en fases secuenciales o etapas/iteraciones. Es una de las técnicas comúnmente utilizadas para la Estructura de Desglose del Trabajo (EDT), junto con el desglose por entregables, por trabajo y por unidades organizacionales.
+---
+¿Qué es la virtud de la prudencia según la guía PM²?
+- La capacidad de decir la verdad sobre nosotros mismos.
+- La habilidad para considerar cuidadosamente cómo podemos lograr nuestro objetivo.
+- El punto medio entre la hostilidad y el servilismo.
+- La gestión del reconocimiento y las distinciones.
+= La habilidad para considerar cuidadosamente cómo podemos lograr nuestro objetivo.
+> La virtud de la prudencia (sabiduría práctica) se refiere a nuestra habilidad para considerar cuidadosamente cómo podemos lograr nuestro objetivo. Se examina en dos niveles: el nivel de propósito (capacidad para establecer metas que merezcan la pena) y el nivel de deliberación (capacidad de considerar el curso y los medios de nuestras acciones).
+---
+¿Qué es la virtud del juicio según la guía PM²?
+- La habilidad para evaluar lo que es cierto y lo que no lo es.
+- La gestión de la asunción de riesgos en el proyecto.
+- El punto medio entre la tacañería y el despilfarro.
+- La disposición a buscar honores y reconocimiento.
+= La habilidad para evaluar lo que es cierto y lo que no lo es.
+> El juicio se refiere a nuestra habilidad para evaluar lo que es cierto y lo que no lo es. Forma nuestra percepción sobre las cosas que nos rodean y afecta fuertemente a nuestra prudencia. Cuando hay una merma en nuestro juicio, podemos considerar como verdadero algo que no lo es y viceversa.
+---
+¿Qué es la virtud de la perspicacia según la guía PM²?
+- La capacidad de percibir las cosas correctamente y comprender las relaciones entre las cosas.
+- La gestión de la amabilidad en nuestras interacciones sociales.
+- El control de la ira en situaciones de conflicto.
+- La disposición a buscar honores y reconocimiento de los demás.
+= La capacidad de percibir las cosas correctamente y comprender las relaciones entre las cosas.
+> La virtud de la perspicacia se refiere a la capacidad de percibir las cosas correctamente, de examinar el contexto con precisión, comprender las relaciones entre las cosas, analizar y sintetizar. Determina nuestra capacidad de aprender lo correcto y lo que no lo es, y de transferir este conocimiento a diversos contextos.
+---
+¿Qué es la virtud del honor según la guía PM²?
+- La disposición a buscar honores y reconocimiento de los demás.
+- La gestión de nuestros deseos y placeres.
+- La capacidad de decir la verdad sobre nosotros mismos.
+- El control de la ira en el día a día.
+= La disposición a buscar honores y reconocimiento de los demás.
+> La virtud del honor se refiere a la disposición a buscar honores y reconocimiento de los demás. Se define como el punto medio entre la falta de ambición (buscar menos reconocimiento del que se merece) y la ambición excesiva (un deseo excesivo de honores).
+---
+¿Qué es la virtud de la honestidad según la guía PM²?
+- La capacidad de decir la verdad sobre nosotros mismos y demostrar quiénes somos realmente.
+- La gestión de las cosas que tienen valor como el tiempo o el dinero.
+- El punto medio entre la hostilidad y el servilismo.
+- La disposición a buscar honores y reconocimiento.
+= La capacidad de decir la verdad sobre nosotros mismos y demostrar quiénes somos realmente.
+> La honestidad se refiere a la capacidad de decir la verdad sobre nosotros mismos y demostrar a los demás quiénes somos realmente, sin negar o exagerar nuestras cualidades. Esta virtud es el punto medio entre la falta de confianza (deficiencia) y la arrogancia (exceso).
+---
+¿Qué es la virtud de la magnificencia según la guía PM²?
+- La gestión de la altura de miras, como punto medio entre la mezquindad y la vulgaridad.
+- La gestión del reconocimiento y las distinciones.
+- El control de la ira entre la indolencia y la irritabilidad.
+- La gestión de nuestros deseos y placeres.
+= La gestión de la altura de miras, como punto medio entre la mezquindad y la vulgaridad.
+> La virtud de la magnificencia es similar a la generosidad, pero se refiere a la gestión de la altura de miras. Se define como el punto medio entre la mezquindad (deficiencia) y la vulgaridad (exceso). La mezquindad aparece cuando se contribuye a una causa importante con avaricia, y la vulgaridad al contribuir excesivamente.
+---
+¿Qué es la virtud de la calma según la guía PM²?
+- El control de la ira, como punto medio entre la indolencia y la irritabilidad.
+- La gestión de nuestros deseos y placeres.
+- La disposición a buscar honores y reconocimiento.
+- La capacidad de decir la verdad sobre nosotros mismos.
+= El control de la ira, como punto medio entre la indolencia y la irritabilidad.
+> La virtud de la calma se refiere al control de la ira. Se encuentra entre la indolencia (deficiencia, falta de ira) y la irritabilidad (exceso de ira, en duración, intensidad y frecuencia). La persona calmada desea permanecer tranquila y no dejarse llevar por la pasión o la ira.
+---
+¿Qué es la virtud del humor según la guía PM²?
+- El punto medio entre la aspereza y la bufonería.
+- El punto medio entre la cobardía y la audacia.
+- El punto medio entre la tacañería y el despilfarro.
+- El punto medio entre la mezquindad y la vulgaridad.
+= El punto medio entre la aspereza y la bufonería.
+> La virtud del humor se define en el punto medio entre la aspereza (deficiencia) y la bufonería (exceso). A la persona áspera no le gusta el humor, mientras que el bufón disfruta del humor en exceso, lo expresa improductivamente, a destiempo o frecuentemente, posiblemente molestando a los demás.
+---
+¿Qué son los Costes de Desarrollo de la Solución?
+- Los costes de los recursos necesarios para desarrollar los entregables del proyecto.
+- Los costes de los recursos para dar formación a los usuarios finales.
+- Los costes de los equipos y materiales para la infraestructura.
+- Los costes de los recursos para dar mantenimiento a los entregables.
+= Los costes de los recursos necesarios para desarrollar los entregables del proyecto.
+> Los Costes de Desarrollo de la Solución se refieren a los costes de los recursos necesarios para desarrollar los entregables del proyecto. Se distinguen de los costes de formación, de infraestructura, de mantenimiento y de soporte, que son categorías de coste diferentes.
+---
+¿Qué son los Costes de Soporte?
+- Los costes de los recursos necesarios para desarrollar los entregables del proyecto.
+- Los costes que resultan necesarios para facilitar el uso de los entregables una vez finalizado el proyecto.
+- Los costes de los equipos y materiales para la infraestructura del proyecto.
+- Los costes de los recursos para dar mantenimiento a los entregables del proyecto.
+= Los costes que resultan necesarios para facilitar el uso de los entregables una vez finalizado el proyecto.
+> Los costes de soporte son aquellos que resultan necesarios para facilitar el uso de los entregables del proyecto una vez que éste ha finalizado. Se distinguen de los costes de desarrollo, de formación, de infraestructura y de mantenimiento de la solución.
+---
+¿Qué es un Beneficio en el glosario de PM²?
+- Un producto tangible entregado por el proyecto.
+- Un efecto positivo resultante de un proyecto que debe ser medible.
+- Una estrategia de respuesta a riesgos negativos.
+- Un tipo de matriz de asignación de responsabilidades.
+= Un efecto positivo resultante de un proyecto que debe ser medible.
+> Un Beneficio es un efecto positivo resultante de un proyecto (es decir, visto como positivo por una o más partes interesadas). Los beneficios deben ser medibles. Se diferencian de los criterios de éxito, que se pueden medir al cierre del proyecto, ya que los beneficios a menudo se logran mucho después del cierre.
+---
+¿Qué es la Aprobación en el glosario de PM²?
+- La aceptación formal de algo, como un entregable, artefacto, cambio o estrategia de respuesta.
+- La evaluación de la probabilidad de un riesgo.
+- La estimación del esfuerzo necesario para una tarea.
+- La designación de un nuevo rol en el proyecto.
+= La aceptación formal de algo, como un entregable, artefacto, cambio o estrategia de respuesta.
+> La Aprobación es la aceptación formal de algo (es decir, una decisión positiva sobre ese algo), como un entregable, un artefacto, un cambio de proyecto o una estrategia de respuesta al riesgo. Es un concepto clave en la gestión de puertas de fase y aceptación de entregables.
+---
+¿Qué es la Autoridad en el glosario de PM²?
+- El derecho a dar órdenes, tomar decisiones, utilizar recursos y firmar aprobaciones.
+- La capacidad de influir en las partes interesadas sin poder formal.
+- La responsabilidad de preparar los artefactos del proyecto.
+- La gestión de la externalización de servicios.
+= El derecho a dar órdenes, tomar decisiones, utilizar recursos y firmar aprobaciones.
+> La Autoridad es el derecho a dar órdenes, a tomar y hacer cumplir decisiones, a utilizar recursos del proyecto y a firmar aprobaciones. Es un concepto del glosario de PM² relacionado con la gobernanza y la asignación de responsabilidades en el proyecto.
+---
+¿Qué es una Auditoría en el glosario de PM²?
+- Una evaluación independiente para proporcionar aseguramiento del cumplimiento de estándares.
+- Una reunión formal de revisión del progreso del proyecto.
+- Un método de estimación de costes del proyecto.
+- Una técnica de respuesta a riesgos del proyecto.
+= Una evaluación independiente para proporcionar aseguramiento del cumplimiento de estándares.
+> Una Auditoría es una evaluación independiente realizada para proporcionar un nivel adecuado de aseguramiento en cuanto al cumplimiento de los estándares establecidos. Es un concepto del glosario de PM² relacionado con la gestión de calidad y el aseguramiento.
+---
+¿Qué es la Aceptación en el glosario de PM²?
+- El acto de aprobar (firmar) los entregables si cumplen los criterios de aceptación definidos.
+- La evaluación de la probabilidad de un riesgo materializado.
+- La designación formal del Director de Proyecto.
+- La preparación del Plan de Trabajo del Proyecto.
+= El acto de aprobar (firmar) los entregables si cumplen los criterios de aceptación definidos.
+> La Aceptación es el acto de aprobar (firmar) los entregables si cumplen con los criterios de aceptación definidos. Es el Propietario del Proyecto (PP) quien acepta los entregables, durante o al final de la Fase de Ejecución (aceptación de entregables) y durante la Fase de Cierre (aceptación final del proyecto).
+---
+¿Qué es la Aceptación Final en el glosario de PM²?
+- La aceptación de un entregable individual durante la Fase de Ejecución.
+- La aceptación que realiza el PP de los entregables durante la Fase de Cierre, firmando formalmente la aceptación final.
+- La aprobación del Caso de Negocio por el CDP del proyecto.
+- La aceptación del Plan de Trabajo por el Equipo Central.
+= La aceptación que realiza el PP de los entregables durante la Fase de Cierre, firmando formalmente la aceptación final.
+> La Aceptación Final la realiza el Propietario del Proyecto (PP) durante la Fase de Cierre, después de consultar al Comité de Dirección del Proyecto (CDP), a través de la firma formal de la aceptación final del proyecto. Se diferencia de la aceptación de entregables que ocurre durante la Fase de Ejecución.
+---
+¿Qué es el Aseguramiento de la Calidad (AdC) en el glosario de PM²?
+- La actividad que proporciona evidencia para establecer la calidad del trabajo y confianza en el proyecto.
+- El control de la ira en la gestión de conflictos del proyecto.
+- La designación del Director de Proyecto del Contratista.
+- La preparación del Plan de Externalización.
+= La actividad que proporciona evidencia para establecer la calidad del trabajo y confianza en el proyecto.
+> El Aseguramiento de la Calidad (AdC) es la actividad que proporciona la evidencia necesaria para establecer la calidad del trabajo y, por lo tanto, proporcionar suficiente confianza de que el proyecto satisfará el alcance deseado y los requisitos de calidad dentro de sus restricciones.
+---
+¿Qué son los Atributos de Calidad en el glosario de PM²?
+- Requisitos basados en objetivos, enfoque, entregables, beneficios esperados y recursos disponibles.
+- Las cualidades personales del Director de Proyecto.
+- Las características del cronograma del proyecto.
+- Los criterios de evaluación del contratista.
+= Requisitos basados en objetivos, enfoque, entregables, beneficios esperados y recursos disponibles.
+> Los Atributos de Calidad comprenden requisitos para el proyecto que se basan en sus objetivos, enfoque, entregables, beneficios esperados y recursos disponibles. Se traducen en criterios que se utilizarán para evaluar la alineación de los entregables y artefactos con los resultados esperados.
+---
+¿Qué es la Causa Raíz en el glosario de PM²?
+- La causa original o primaria de una incidencia o un riesgo.
+- El resultado de la gestión de cambios del proyecto.
+- La estimación del esfuerzo necesario para una tarea.
+- La estrategia de respuesta a un riesgo positivo.
+= La causa original o primaria de una incidencia o un riesgo.
+> La Causa Raíz describe la causa original/primaria de una incidencia o un riesgo. Es un concepto del glosario de PM² utilizado en la gestión de incidencias y gestión de riesgos para identificar el origen de los problemas.
+---
+¿Qué es el Camino Crítico en el glosario de PM²?
+- La ruta más larga (como secuencia de actividades) necesaria para entregar los entregables del proyecto.
+- El camino más corto para completar el proyecto.
+- Una lista de todas las partes interesadas del proyecto.
+- Un tipo de matriz RASCI para el proyecto del proyecto.
+= La ruta más larga (como secuencia de actividades) necesaria para entregar los entregables del proyecto.
+> El Camino Crítico es la ruta más larga (como secuencia de actividades) necesaria para entregar los entregables del proyecto. Representa la duración más corta posible del proyecto hasta su conclusión, y las actividades en el camino crítico tienen influencia crítica en la duración total.
+---
+¿Qué es la Capacidad en el glosario de PM²?
+- Una habilidad existente o necesaria de personas, sistemas o dispositivos para apoyar una actividad.
+- El presupuesto total aprobado del proyecto.
+- La autoridad formal del Director de Proyecto.
+- La estrategia de respuesta a un riesgo negativo.
+= Una habilidad existente o necesaria de personas, sistemas o dispositivos para apoyar una actividad.
+> La Capacidad describe una habilidad existente o necesaria de personas (individualmente o combinadas), sistemas de información, o dispositivos que pueden apoyar una actividad, proceso o función. Es un concepto del glosario relacionado con la gestión de recursos y competencias.
+---
+¿Qué es la Competencia en el glosario de PM²?
+- La habilidad y capacidad requeridas para completar las actividades del proyecto.
+- La autoridad para aprobar cambios del proyecto.
+- La estrategia de respuesta a un riesgo del proyecto.
+- La técnica de estimación por tres puntos.
+= La habilidad y capacidad requeridas para completar las actividades del proyecto.
+> Las Competencias describen la habilidad y la capacidad requeridas para completar las actividades (del proyecto). Si los miembros del equipo no poseen las competencias requeridas, el desempeño puede verse en peligro. Los esfuerzos para abordarlo pueden incluir formación, coaching, contratación de consultores o cambios en el alcance.
+---
+¿Qué es el Contexto en el glosario de PM²?
+- El conjunto de factores organizacionales (internos) y externos que influyen en el proyecto.
+- El cronograma detallado de todas las tareas del proyecto.
+- La matriz de asignación de responsabilidades del proyecto.
+- El registro de todos los riesgos identificados.
+= El conjunto de factores organizacionales (internos) y externos que influyen en el proyecto.
+> El Contexto es el conjunto general de factores organizacionales (internos) y externos que influyen o determinan cómo de necesario es el proyecto y su urgencia. Es un concepto del glosario de PM² que ayuda a entender el entorno del proyecto.
+---
+¿Qué es el Control de Calidad en el glosario de PM²?
+- La actividad de seguimiento y consolidación de resultados del AdC para valorar el cumplimiento y desempeño.
+- La preparación del Plan de Trabajo del Proyecto.
+- La designación del Director de Proyecto del Contratista.
+- La evaluación de la probabilidad de un riesgo.
+= La actividad de seguimiento y consolidación de resultados del AdC para valorar el cumplimiento y desempeño.
+> El Control de Calidad es la actividad de seguimiento y consolidación de resultados del Aseguramiento de la Calidad (AdC) para valorar el cumplimiento y el desempeño, recomendar cambios necesarios y planificar actividades nuevas o refinar las existentes.
+---
+¿Qué es la Coordinación de Proyecto en el glosario de PM²?
+- El proceso de gestión y dirección de las actividades del proyecto y de las partes interesadas.
+- La evaluación independiente del cumplimiento de estándares.
+- La preparación del Caso de Negocio del proyecto.
+- La aprobación formal de los entregables del proyecto.
+= El proceso de gestión y dirección de las actividades del proyecto y de las partes interesadas.
+> La Coordinación de Proyecto describe el proceso de gestión y dirección de las actividades del proyecto y de las partes interesadas. Incluye la asignación de recursos, controles de calidad, comunicación continua, y motivación mediante liderazgo, negociación y resolución de conflictos.
+---
+¿Qué es la Dependencia en el glosario de PM²?
+- Las relaciones entre eventos que influyen en el progreso y los resultados del proyecto.
+- La diferencia entre costes presupuestados y reales.
+- La estrategia de respuesta a un riesgo positivo.
+- La matriz de asignación de responsabilidades.
+= Las relaciones entre eventos que influyen en el progreso y los resultados del proyecto.
+> Las Dependencias se refieren a las relaciones entre eventos (decisiones, problemas, actividades, procesos, proyectos, etc.) que influyen en el progreso y los resultados del proyecto y deben tenerse en cuenta al planificar las actividades del proyecto.
+---
+¿Qué es la Especificación en el glosario de PM²?
+- Un conjunto completo, comprobable y documentado de requisitos que debe cumplir una solución.
+- El cronograma detallado del proyecto con todas sus tareas.
+- La matriz de partes interesadas del proyecto.
+- El registro de todos los cambios solicitados.
+= Un conjunto completo, comprobable y documentado de requisitos que debe cumplir una solución.
+> Una Especificación es un conjunto completo, comprobable y documentado de requisitos que debe cumplir una solución específica. Las especificaciones se pueden describir mediante casos de uso, reglas comerciales, guiones gráficos, etc.
+---
+¿Qué es la Estrategia de Respuesta a Riesgos en el glosario de PM²?
+- La forma en que se gestionará un riesgo, agrupada en estrategias para amenazas y oportunidades.
+- La evaluación de la probabilidad de que ocurra un evento de riesgo.
+- La preparación del Plan de Trabajo del Proyecto.
+- La aceptación formal de los entregables del proyecto.
+= La forma en que se gestionará un riesgo, agrupada en estrategias para amenazas y oportunidades.
+> La Estrategia de Respuesta a Riesgos describe la forma en que se gestionará un riesgo. Las estrategias se agrupan en: Amenazas (Evitar, Reducir, Aceptar, Transferir/Compartir) y Oportunidades (Explotar, Mejorar, Aceptar, Compartir).
+---
+¿Qué es la Evaluación de Riesgos en el glosario de PM²?
+- Una valoración del análisis de la probabilidad de un evento y del impacto en los objetivos del proyecto.
+- La preparación del Plan de Externalización del proyecto.
+- La designación del Director de Proyecto del Contratista.
+- La aprobación formal del presupuesto del proyecto.
+= Una valoración del análisis de la probabilidad de un evento y del impacto en los objetivos del proyecto.
+> Una Evaluación de Riesgos es una valoración realizada mediante el análisis de la probabilidad de que ocurra un determinado evento y del impacto en los objetivos del proyecto si este evento ocurre, junto con la tolerancia de riesgo y las vulnerabilidades existentes. Los niveles de riesgo se calculan para cada evento y luego se priorizan.
+---
+¿Qué es el Equipo de Soporte a Proyectos (ESP) en el glosario de PM²?
+- Un grupo compuesto por la OSP, la GCP y la OATI que ofrece soporte administrativo a la organización del proyecto.
+- Un comité que aprueba todos los cambios del proyecto.
+- Un equipo que produce los entregables del proyecto directamente.
+- Un grupo de auditores externos que evalúa el proyecto.
+= Un grupo compuesto por la OSP, la GCP y la OATI que ofrece soporte administrativo a la organización del proyecto.
+> El Equipo de Soporte a Proyectos (ESP) está compuesto por la Oficina de Soporte al Proyecto (OSP), la Garantía de la Calidad del Proyecto (GCP) y la Oficina de Arquitectura TI (OATI). Ofrece soporte administrativo a la organización del proyecto y define requisitos para los proyectos (informes, metodología, calidad, arquitectura).
+---
+¿Qué es el Equipo de Desarrollo (ED) en el glosario de PM²?
+- Un rol aplicable a proyectos con un componente TI, parte del ECP, con habilidades de desarrollo.
+- El comité que aprueba el presupuesto del proyecto.
+- El grupo de auditores externos del proyecto.
+- El equipo que gestiona la cartera de proyectos.
+= Un rol aplicable a proyectos con un componente TI, parte del ECP, con habilidades de desarrollo.
+> El Equipo de Desarrollo (ED) es un rol aplicable a proyectos con un componente TI. Comprende miembros con las habilidades de desarrollo requeridas (programadores, analistas, testadores, etc.) y conocimiento de la aplicación. Es parte del Equipo Central del Proyecto (ECP) y puede ser interno o pertenecer a un contratista externo.
+---
+¿Qué es el Equivalente a Jornada Completa (EJC) en el glosario de PM²?
+- El trabajo equivalente de una persona a tiempo completo en el proyecto.
+- Un tipo de informe de situación del contratista.
+- Una técnica de estimación por tres puntos.
+- Un documento de aceptación formal de entregables.
+= El trabajo equivalente de una persona a tiempo completo en el proyecto.
+> Un Equivalente a Jornada Completa (EJC) equivale al trabajo de una persona a tiempo completo en el proyecto (en semanas, meses o años de personal en plantilla). Medio EJC es el trabajo equivalente de una persona a media jornada, y así sucesivamente.
+---
+¿Qué es la Entrada de Fase en el glosario de PM²?
+- Cualquier artefacto, elemento, producto, decisión o información que se utilizará en las actividades de la fase.
+- La salida formal de una puerta de fase del proyecto.
+- La designación del Director de Proyecto del Contratista.
+- La aprobación final del proyecto por el Propietario.
+= Cualquier artefacto, elemento, producto, decisión o información que se utilizará en las actividades de la fase.
+> Una Entrada de Fase es cualquier artefacto, elemento, producto, decisión o incluso información particular que se utilizará en las actividades de la fase en cuestión. Las entradas de fase suelen ser salidas/entregables de una fase anterior.
+---
+¿Qué es el Elevar en el glosario de PM²?
+- Una actividad que requiere recursos adicionales para cumplir con un entregable/salida.
+- La preparación del Plan de Trabajo del Proyecto.
+- La evaluación de la probabilidad de un riesgo.
+- La aceptación formal de los entregables del proyecto.
+= Una actividad que requiere recursos adicionales para cumplir con un entregable/salida.
+> Elevar se refiere a una actividad que requiere recursos adicionales para cumplir con un entregable/salida. Hay dos tipos de elevación: funcional (si se necesitan más competencias o mayor experiencia) o jerárquico (cuando se debe involucrar a las capas de decisión de mayor nivel).
+---
+¿Qué es el Documento de Aceptación de Entregables?
+- Un artefacto de la Fase de Ejecución por el cual el PP certifica la aceptación de los entregables.
+- El documento que resume la experiencia global del proyecto.
+- El plan que define la estrategia de externalización.
+- El registro de todos los riesgos identificados.
+= Un artefacto de la Fase de Ejecución por el cual el PP certifica la aceptación de los entregables.
+> El Documento de Aceptación de Entregables es un artefacto de la Fase de Ejecución por el cual el Propietario del Proyecto (PP) certifica la aceptación de los entregables (al menos de forma provisional). Se diferencia del Documento de Aceptación del Proyecto, que es el artefacto de la Fase de Cierre que certifica el cierre administrativo.
+---
+¿Qué es el Documento de Aceptación del Proyecto?
+- Un artefacto de la Fase de Inicio que autoriza el proyecto.
+- El artefacto, en la Fase de Cierre, que certifica el cierre administrativo del proyecto.
+- El plan que define el cronograma detallado del proyecto.
+- El registro de todos los cambios solicitados en el proyecto.
+= El artefacto, en la Fase de Cierre, que certifica el cierre administrativo del proyecto.
+> El Documento de Aceptación del Proyecto es el artefacto, en la Fase de Cierre, que certifica el cierre administrativo del proyecto. Se diferencia del Documento de Aceptación de Entregables, que es un artefacto de la Fase de Ejecución donde el PP certifica la aceptación de los entregables de forma provisional.
+---
+¿Qué es el Desglose del Trabajo en el glosario de PM²?
+- Una descripción jerárquica de todo el trabajo que debe realizar el equipo para satisfacer las necesidades del solicitante.
+- La evaluación de la probabilidad de un riesgo materializado.
+- La matriz de asignación de responsabilidades del proyecto.
+- El registro de todas las decisiones tomadas en el proyecto.
+= Una descripción jerárquica de todo el trabajo que debe realizar el equipo para satisfacer las necesidades del solicitante.
+> El Desglose del Trabajo es parte del Plan de Trabajo del Proyecto. Consiste en una descripción jerárquica de todo el trabajo que debe realizar el equipo de proyecto para satisfacer las necesidades del solicitante. Es una descomposición jerárquica del proyecto en componentes más pequeños y manejables.
+---
+¿Qué es el Cronograma en el glosario de PM²?
+- Parte del Plan de Trabajo que planifica hitos, actividades, tareas y entregables con tiempos y fechas.
+- El documento que justifica la inversión en el proyecto.
+- La matriz de asignación de responsabilidades del proyecto.
+- El registro de todos los riesgos identificados.
+= Parte del Plan de Trabajo que planifica hitos, actividades, tareas y entregables con tiempos y fechas.
+> El cronograma es parte del Plan de Trabajo del Proyecto PM². Consiste en una planificación de los hitos, actividades, tareas y entregables del proyecto, con tiempos asignados y fechas de inicio y finalización, vinculadas por dependencias. Un cronograma a menudo se presenta en un diagrama de Gantt.
+---
+¿Qué es el Coste Total para la Propiedad (CTP) en el glosario de PM²?
+- El coste estimado (directo e indirecto) necesario para entregar los entregables, generalmente a cinco años.
+- El coste de los recursos para desarrollar los entregables del proyecto.
+- El coste de los recursos para dar formación a los usuarios finales.
+- El coste de los equipos y materiales para la infraestructura del proyecto.
+= El coste estimado (directo e indirecto) necesario para entregar los entregables, generalmente a cinco años.
+> El Coste Total para la Propiedad (CTP) define el coste estimado (tanto directo como indirecto) necesario para entregar los entregables del proyecto. Como mejor práctica recomendada, generalmente se calcula para un período de cinco años, a menos que se especifique lo contrario.
+---
+¿Qué son los Criterios de Aceptación en el glosario de PM²?
+- La lista priorizada de requisitos que los entregables finales deben cumplir antes de que el PP pueda aceptarlos.
+- La evaluación de la probabilidad de un riesgo del proyecto.
+- La matriz de asignación de responsabilidades del proyecto.
+- El registro de todas las decisiones tomadas en el proyecto.
+= La lista priorizada de requisitos que los entregables finales deben cumplir antes de que el PP pueda aceptarlos.
+> Los criterios de aceptación establecen la lista priorizada de requisitos que los entregables finales deben cumplir antes de que el Propietario del Proyecto (PP) pueda aceptarlos. Los criterios de aceptación están documentados en el Plan de Aceptación de Entregables.
+---
+¿Qué virtud fomenta "compartir lo que sé" y fomenta el conocimiento en otras personas?
+- La fidelidad, que nos ayuda a cumplir nuestros compromisos con honestidad
+- La generosidad, que nos ayuda a compartir lo que sabemos y fomentar el conocimiento en otras personas
+- La sinceridad, que nos ayuda a transmitir lo que pensamos de forma honesta
+- La responsabilidad, que nos ayuda a asumir las consecuencias de nuestros actos
+= La generosidad, que nos ayuda a compartir lo que sabemos y fomentar el conocimiento en otras personas
+> Según el Apéndice F, la generosidad "nos ayuda a compartir lo que sabemos y fomentar el conocimiento en otras personas".
+---
+¿Qué dimensión de la ética de PM² incluye la práctica de "poner atención en las personas que estén alrededor"?
+- Pensar antes de actuar
+- Comprender las necesidades de los demás
+- Tener en cuenta el impacto de nuestras acciones sobre otros
+- Comunicar de forma clara y honesta
+= Tener en cuenta el impacto de nuestras acciones sobre otros
+> El Apéndice F enumera "Tener en cuenta el impacto de nuestras acciones sobre otros, hacer a las personas sentirse a gusto, poner atención en las personas que estén alrededor, escuchar y responder con cuidado, y por último, nunca olvidar el tono y las formas".
+---
+¿Qué actividad de la fase de Ejecución incluye los pasos "gestionar el proceso de seguimiento y control" y "elaborar el informe semanal de proyecto"?
+- Gestionar Cambios y Reabrir Tareas
+- Controlar y Reportar Progreso
+- Obtener Aprobación de los Entregables
+- Gestionar Riesgos
+= Gestionar Cambios y Reabrir Tareas
+> Los pasos de "Gestionar Cambios y Reabrir Tareas" incluyen "estudiar los cambios propuestos por el equipo de proyecto y el ECP", "decidir si un cambio se gestiona o se traspasa a la Oficina de Proyectos", "gestionar el proceso de seguimiento y control", "elaborar el informe semanal de proyecto" y "gestionar las desviaciones y reabrir tareas".
+---
+¿Cuál de los siguientes pasos NO pertenece a la actividad "Controlar y Reportar Progreso"?
+- Identificar progreso de las tareas y ajustar plan de trabajo
+- Gestionar el cierre de tareas del sprint
+- Evaluar la mejora del Plan de Aprendizaje
+- Elaborar y aprobar el informe mensual de proyecto
+= Evaluar la mejora del Plan de Aprendizaje
+> La evaluación del Plan de Aprendizaje pertenece a la actividad "Desarrollar el Plan de Aprendizaje", no a "Controlar y Reportar Progreso", cuyos pasos son medir la mejora y los resultados en curso, actualizar medidas de resultados, registrar lecciones aprendidas, elaborar el informe semanal y el informe mensual de proyecto.
+---
+¿Qué papel tiene el SNR en la fase de Ejecución según la matriz de actividades por fase?
+- SNR en Evaluar Entregables
+- SNR en Calidad y Riesgos del Proyecto
+- SNR en Información y Comunicación
+- SNR en Gobernanza del Proyecto
+= SNR en Calidad y Riesgos del Proyecto
+> En la Tabla 10, el SNR aparece asignado a "Calidad y Riesgos del Proyecto" en la fase de Ejecución, con valor R.
+---
+¿Qué función del OGP relativa a la gestión de información incluye "realizar evaluaciones de proyectos tras su cierre"?
+- Mantener el repositorio central de plantillas y artefactos del proyecto
+- Evaluar el nivel de madurez de la gestión de proyectos
+- Ayudar a la planificación de proyectos complejos
+- Sostener el desarrollo y la promoción del uso de una metodología común
+= Mantener el repositorio central de plantillas y artefactos del proyecto
+> Entre las funciones del OGP en la gestión de información está "mantener el repositorio central de plantillas y artefactos del proyecto para la recogida de prácticas recomendadas, de documentación, de información de proyectos cerrados, y para la realización de evaluaciones de proyectos tras su cierre".
+---
+¿Qué ocurre con un proyecto piloto en el contexto de la gobernanza de la metodología PM²?
+- No se puede gestionar con PM² porque no dispone de OGP
+- Se gestiona con PM² pero recibe solo gobernanza parcial y no requiere todo el esfuerzo formal de gobernanza
+- Se gestiona con PM² pero el sponsor asume el rol del OGP
+- Se gestiona con PM² pero el CDP asume el rol del sponsor
+= Se gestiona con PM² pero recibe solo gobernanza parcial y no requiere todo el esfuerzo formal de gobernanza
+> El Capítulo 2 indica que "un proyecto piloto es gestionado con PM², pero recibe solo gobernanza parcial y no requiere todo el esfuerzo formal de gobernanza".
+---
+¿En qué contexto se menciona el proyecto CHIS como ejemplo en la guía PM²?
+- Como ejemplo de un proyecto piloto de la metodología PM²
+- Como ejemplo de un proyecto en la lista de control de cierre
+- Como ejemplo en la descripción del rol de Business/Benefits Owner
+- Como ejemplo de un proyecto que utiliza el enfoque ágil
+= Como ejemplo en la descripción del rol de Business/Benefits Owner
+> El proyecto CHIS se menciona como ejemplo ilustrativo en la descripción del rol de Business/Benefits Owner, donde se explica cómo la persona responsable de adoptar el nuevo sistema asume el rol de BO.

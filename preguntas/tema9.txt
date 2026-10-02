@@ -1,0 +1,400 @@
+¿En qué fases del proyecto se llevan a cabo las actividades de Seguimiento y Control?
+- Únicamente en la Fase de Ejecución y la Fase de Cierre.
+- En todas las fases del proyecto, pero más intensamente durante la Fase de Ejecución.
+- Exclusivamente después de que se haya aprobado el Plan de Trabajo del Proyecto.
+- Solamente en la Fase de Seguimiento que ocurre tras el cierre del proyecto.
+=En todas las fases del proyecto, pero más intensamente durante la Fase de Ejecución.
+>Las actividades de Seguimiento y Control se llevan a cabo en todas las fases del proyecto, alcanzando su máxima intensidad durante la Ejecución.
+---
+¿Cuál es la diferencia fundamental entre el seguimiento y el control en la metodología PM²?
+- El seguimiento se enfoca en el coste y el control en la calidad.
+- El seguimiento es la medición continua y evaluación del progreso, mientras que el control consiste en identificar y aplicar medidas correctivas.
+- El seguimiento lo realiza el Propietario del Proyecto (PP) y el control el Director de Proyecto (DP).
+- El seguimiento es preventivo y el control es exclusivamente para auditorías externas.
+=El seguimiento es la medición continua y evaluación del progreso, mientras que el control consiste en identificar y aplicar medidas correctivas.
+>El seguimiento rastrea el progreso frente a las líneas de base, mientras que el control implica proponer y aplicar medidas correctivas ante desviaciones.
+---
+¿Qué tipo de artefactos se actualizan regularmente como parte de las actividades de Seguimiento y Control?
+- La Solicitud de Inicio de Proyecto y el Caso de Negocio.
+- Las Actas de Constitución y el Manual del Proyecto.
+- Los Registros (de Riesgos, Incidencias, Decisiones, Cambios) y el Plan de Trabajo del Proyecto.
+- Únicamente los contratos de externalización y las facturas.
+=Los Registros (de Riesgos, Incidencias, Decisiones, Cambios) y el Plan de Trabajo del Proyecto.
+>Durante el seguimiento y control, los Registros del Proyecto se actualizan periódicamente a medida que surge nueva información, al igual que el Plan de Trabajo.
+---
+¿Qué herramienta proporciona PM² para ayudar al Director de Proyecto a controlar mejor el proyecto en hitos clave como las salidas de fase?
+- El Registro de Lecciones Aprendidas.
+- La Matriz de Probabilidad e Impacto.
+- Las Listas de Control (p. ej., Lista de Control de Salida de Fase).
+- El Informe de Fin de Proyecto.
+=Las Listas de Control (p. ej., Lista de Control de Salida de Fase).
+>PM² proporciona varias Listas de Control (de Salida de Fase, Calidad, Aceptación, Transición, etc.) para ayudar al DP a controlar mejor el proyecto.
+---
+¿Quién tiene la responsabilidad última de la ejecución efectiva de los procesos de Seguimiento y Control definidos en los Planes de Gestión?
+- El Comité de Dirección del Proyecto (CDP).
+- El Director de Proyecto (DP).
+- El Aseguramiento de la Calidad (AdC).
+- El Órgano de Gobernanza Pertinente (OGP).
+=El Director de Proyecto (DP).
+>La ejecución efectiva de los procesos de Seguimiento y Control recae, en última instancia, en la responsabilidad del Director de Proyecto (DP).
+---
+¿Qué elementos se utilizan como referencia principal para evaluar el progreso del proyecto?
+- Los comentarios informales de las partes interesadas.
+- Las estimaciones iniciales de la Solicitud de Inicio de Proyecto.
+- Las líneas de base del Plan de Trabajo del Proyecto.
+- Los presupuestos anuales de la organización ejecutora.
+=Las líneas de base del Plan de Trabajo del Proyecto.
+>El DP utiliza las líneas de base aprobadas en el Plan de Trabajo del Proyecto como referencia para el seguimiento del progreso real.
+---
+En el Seguimiento del Progreso del Proyecto, ¿qué aspecto relacionado con las "personas" debe supervisar el Director de Proyecto?
+- Los impuestos y retenciones salariales de cada miembro.
+- La moral del equipo, la participación de las partes interesadas y la dinámica general del proyecto.
+- El tiempo exacto de llegada a la oficina de los miembros del equipo.
+- Las promociones internas de los usuarios finales.
+=La moral del equipo, la participación de las partes interesadas y la dinámica general del proyecto.
+>Al recopilar información de progreso, el DP debe supervisar la moral, la dinámica de equipo, la productividad y la participación de los interesados.
+---
+Según la matriz RASCI del Seguimiento del Progreso del Proyecto, ¿cuál es el rol del Propietario del Proyecto (PP)?
+- Responsable (R).
+- Soporte (S).
+- Consultado (C).
+- Aprobador (A).
+=Aprobador (A).
+>En la actividad de Seguimiento del Progreso del Proyecto, el Propietario del Proyecto (PP) figura como Aprobador (A).
+---
+¿Qué hace el Director de Proyecto (DP) con la información recopilada sobre el progreso del proyecto?
+- La mantiene en secreto hasta la Fase de Cierre.
+- La distribuye a las partes interesadas pertinentes de acuerdo con el Plan de Gestión de las Comunicaciones.
+- La envía exclusivamente al contratista externo.
+- La descarta una vez que se han actualizado los registros.
+=La distribuye a las partes interesadas pertinentes de acuerdo con el Plan de Gestión de las Comunicaciones.
+>La información de progreso y las previsiones se consolidan y distribuyen a los interesados según el Plan de Comunicaciones.
+---
+¿Cuál es la finalidad principal del Control del Cronograma?
+- Asegurar que los miembros del equipo no tomen vacaciones.
+- Asegurar que las tareas del proyecto se llevan a cabo tal y como se programaron y que se cumplen los plazos.
+- Registrar el horario de entrada y salida del personal de apoyo.
+- Validar la calidad técnica del código de las aplicaciones.
+=Asegurar que las tareas del proyecto se llevan a cabo tal y como se programaron y que se cumplen los plazos.
+>Su objetivo es supervisar el calendario y gestionar las diferencias entre los plazos planificados, reales y previstos.
+---
+¿Qué se debe hacer si se prevén retrasos considerables en el cronograma que superan los umbrales predefinidos?
+- Ocultar la información para no alarmar al equipo.
+- Reducir el alcance automáticamente sin consultar.
+- Informar al Comité de Dirección del Proyecto (CDP) y diseñar, acordar y aplicar medidas correctivas.
+- Cambiar la línea de base del cronograma de forma unilateral por el DP.
+=Informar al Comité de Dirección del Proyecto (CDP) y diseñar, acordar y aplicar medidas correctivas.
+>Si el cronograma está en riesgo más allá de los umbrales, se debe escalar al CDP, definir medidas correctivas e informar a los afectados.
+---
+¿Qué artefacto se actualiza directamente como resultado de la aplicación de cambios aprobados en el cronograma (como nuevas tareas o cambio de fechas)?
+- El Plan de Trabajo del Proyecto (cronograma actualizado).
+- El Caso de Negocio.
+- El Plan de Aceptación de Entregables.
+- La Matriz de Partes Interesadas.
+=El Plan de Trabajo del Proyecto (cronograma actualizado).
+>Los cambios que impactan el cronograma se incorporan al Plan de Trabajo del Proyecto, generando un cronograma actualizado.
+---
+¿Quién debe justificar, informar y aprobar los sobrecostes considerables previstos en un proyecto PM²?
+- El Analista de Negocio.
+- El Equipo Central del Proyecto de forma autónoma.
+- El Propietario del Proyecto (PP) o el Órgano de Gobernanza Pertinente (OGP).
+- El contratista externo.
+=El Propietario del Proyecto (PP) o el Órgano de Gobernanza Pertinente (OGP).
+>Si se prevén sobrecostes considerables, estos deben escalarse, justificarse y ser aprobados por el PP o el OGP.
+---
+¿Qué debe hacer el Director de Proyecto (DP) si el presupuesto del proyecto debe revisarse de manera sustancial?
+- Actualizar la línea de base inmediatamente sin consultar a nadie.
+- Cancelar el proyecto y disolver el equipo de trabajo.
+- Justificarlo y documentarlo, y obtener aprobación formal del OGP antes de modificar las líneas de base.
+- Trasladar los costes adicionales a otro proyecto con excedente.
+=Justificarlo y documentarlo, y obtener aprobación formal del OGP antes de modificar las líneas de base.
+>Un cambio sustancial en el presupuesto requiere justificación documentada y aprobación formal del Órgano de Gobernanza Pertinente.
+---
+¿Cuál es el rol del Propietario del Proyecto (PP) en el Control de Costes?
+- Es responsable de ejecutar los pagos a los proveedores.
+- Redacta las facturas y aprueba las nóminas.
+- Es el responsable de los costes presupuestados y aprueba el presupuesto, así como las diferencias significativas.
+- Realiza el trabajo contable del día a día (R).
+=Es el responsable de los costes presupuestados y aprueba el presupuesto, así como las diferencias significativas.
+>El PP aprueba el presupuesto inicial y debe evaluar y aprobar cualquier desviación significativa de los costes del proyecto.
+---
+¿En qué momento comienza y finaliza la actividad de Gestión de las Partes Interesadas en un proyecto PM²?
+- Comienza en la Planificación y acaba en la Ejecución.
+- Comienza en la Fase de Inicio y acaba en la Fase de Cierre.
+- Solo se realiza durante la Reunión de Inicio de la Ejecución.
+- Comienza con la firma del contrato y termina con el primer entregable.
+=Comienza en la Fase de Inicio y acaba en la Fase de Cierre.
+>Es una actividad continua a lo largo de todo el ciclo de vida del proyecto.
+---
+¿Quién debería ayudar especialmente al Director de Proyecto (DP) a gestionar a las partes interesadas que pertenecen a la parte solicitante (p. ej., los usuarios)?
+- El Proveedor de Soluciones (PS).
+- La Oficina de Arquitectura TI.
+- El Responsable de Negocio (RN).
+- El Director de Proyecto del Contratista.
+=El Responsable de Negocio (RN).
+>El RN representa el lado del cliente y ayuda activamente al DP a gestionar las partes interesadas solicitantes y usuarios.
+---
+¿Por qué PM² recalca que un análisis puntual de las partes interesadas no es suficiente, especialmente en proyectos largos?
+- Porque las regulaciones legales cambian mensualmente.
+- Porque el software de gestión de proyectos se actualiza continuamente.
+- Porque las actitudes, nivel de interés e influencia de las partes interesadas pueden cambiar, requiriendo supervisión y gestión continuas.
+- Porque el presupuesto debe recalcularse semanalmente.
+=Porque las actitudes, nivel de interés e influencia de las partes interesadas pueden cambiar, requiriendo supervisión y gestión continuas.
+>Se exige supervisión continua porque las reacciones y actitudes de los interesados pueden evolucionar durante el proyecto.
+---
+¿Con qué plan debe alinearse de forma directa la Gestión de las Partes Interesadas para ser efectiva?
+- Con el Plan de Gestión de Requisitos.
+- Con el Plan de Gestión de las Comunicaciones.
+- Con el Plan de Externalización.
+- Con la Estructura de Desglose del Trabajo.
+=Con el Plan de Gestión de las Comunicaciones.
+>La estrategia de gestión de interesados se apoya estrechamente en el Plan de Gestión de las Comunicaciones para satisfacer sus necesidades de información.
+---
+¿Cuál de los siguientes enunciados describe correctamente el proceso de Gestión de Requisitos en PM²?
+- Es un proceso que se realiza exclusivamente durante la Fase de Inicio.
+- Es el proceso de recopilar, documentar, validar y gestionar la implementación y los cambios de los requisitos a lo largo del proyecto.
+- Es la actividad de programar las funcionalidades en lenguajes técnicos.
+- Es la transferencia de los requisitos legales al departamento de cumplimiento.
+=Es el proceso de recopilar, documentar, validar y gestionar la implementación y los cambios de los requisitos a lo largo del proyecto.
+>Abarca desde la captura inicial hasta la validación de su implementación, prolongándose a lo largo de la vida del proyecto.
+---
+¿Qué principio fundamental debe seguirse al redactar un requisito?
+- Debe describir la solución tecnológica específica a utilizar.
+- Debe utilizar términos ambiguos para dar libertad al equipo de desarrollo.
+- Debe describir la necesidad, no la solución, utilizando términos no ambiguos y evitando enunciados orientados a la tecnología.
+- Debe estar escrito en el código fuente del producto final.
+=Debe describir la necesidad, no la solución, utilizando términos no ambiguos y evitando enunciados orientados a la tecnología.
+>Los requisitos deben enfocarse en el "qué" (la necesidad) y no en el "cómo" (la solución o tecnología).
+---
+¿Qué papel juega el rol del Analista de Negocio en la Gestión de Requisitos?
+- Otorga la aprobación financiera a todos los cambios de requisitos.
+- Es el encargado de evaluar independientemente el desempeño del contratista.
+- Es miembro del ECP y responsable de muchas de las actividades de gestión (documentación, especificaciones, etc.).
+- Aprueba el Plan de Trabajo del Proyecto.
+=Es miembro del ECP y responsable de muchas de las actividades de gestión (documentación, especificaciones, etc.).
+>Como experto dentro del ECP, el Analista de Negocio suele ejecutar la recopilación, documentación y especificación de los requisitos.
+---
+¿Qué constituyen los requisitos acordados y aprobados por todas las partes interesadas?
+- El Manual del Proyecto.
+- La línea de base del alcance del proyecto.
+- El presupuesto definitivo del proyecto.
+- La arquitectura de la solución externa.
+=La línea de base del alcance del proyecto.
+>Una vez aprobados, los requisitos forman la línea de base del alcance, contra la cual se medirá y controlará el proyecto.
+---
+¿Quién evalúa formalmente si la solución implementada satisface la necesidad de negocio inicial (validación de la implementación)?
+- El Director de Proyecto (DP) en solitario.
+- Los Representantes de Usuarios (RU).
+- El Órgano de Gobernanza Pertinente (OGP).
+- El Aseguramiento de Calidad (AdC).
+=Los Representantes de Usuarios (RU).
+>Los RU validan la implementación evaluando si la solución entregada realmente satisface sus necesidades de negocio iniciales.
+---
+¿Cuáles son las cuatro decisiones posibles que se pueden tomar respecto a una Solicitud de Cambio en PM²?
+- Ejecutar, archivar, delegar o eliminar.
+- Aprobar, rechazar, posponer o combinar.
+- Aprobar, escalar, delegar o externalizar.
+- Analizar, diseñar, desarrollar o probar.
+=Aprobar, rechazar, posponer o combinar.
+>Durante el paso "Aprobar el cambio", las decisiones posibles son aprobar, rechazar, posponer o combinar la solicitud.
+---
+¿Qué acción debe realizar el Director de Proyecto si un cambio propuesto en el alcance es aprobado?
+- Terminar inmediatamente el proyecto y reiniciar la fase de inicio.
+- Incorporar todas las acciones relacionadas en el Plan de Trabajo del Proyecto y actualizar la documentación y registros asociados.
+- Aplicarlo en secreto para no alterar las métricas de rendimiento.
+- Cobrar una penalización al cliente por cambiar de opinión.
+=Incorporar todas las acciones relacionadas en el Plan de Trabajo del Proyecto y actualizar la documentación y registros asociados.
+>Tras la aprobación, el DP debe planificar e implementar el cambio actualizando el cronograma, planes y registros afectados.
+---
+¿Qué herramienta o artefacto se utiliza para documentar, supervisar y controlar todos los cambios del proyecto, facilitando su trazabilidad?
+- La Matriz de Partes Interesadas.
+- El Registro de Cambios.
+- El Documento de Requisitos.
+- La Lista de Control de Calidad.
+=El Registro de Cambios.
+>El Registro de Cambios es el artefacto central donde se documentan, rastrean y controlan todas las solicitudes de cambio y su estado.
+---
+En el proceso de Gestión de Cambios, ¿qué se debe considerar durante el paso de evaluación del cambio?
+- Únicamente la opinión del contratista.
+- El impacto de NO implementar el cambio propuesto, junto con el tamaño del impacto en los objetivos, cronograma, coste y esfuerzo.
+- Si el cambio se puede realizar en menos de una hora sin registrarlo.
+- Cuántos miembros del equipo están de vacaciones en ese momento.
+=El impacto de NO implementar el cambio propuesto, junto con el tamaño del impacto en los objetivos, cronograma, coste y esfuerzo.
+>La evaluación exige analizar el tamaño del cambio (coste, esfuerzo, cronograma) y considerar qué sucedería si el cambio NO se implementa.
+---
+¿Qué factores componen la valoración de un riesgo para determinar su nivel (Nivel de Riesgo)?
+- El coste presupuestado y el tiempo de resolución.
+- La urgencia y el impacto.
+- La probabilidad de ocurrencia y la severidad de su impacto.
+- La experiencia del equipo y la dificultad técnica.
+=La probabilidad de ocurrencia y la severidad de su impacto.
+>El nivel de riesgo se evalúa mediante la probabilidad de que el riesgo se materialice multiplicada por el impacto que causaría en los objetivos.
+---
+¿Cuál de las siguientes es una estrategia de respuesta aplicable para riesgos negativos (amenazas) según PM²?
+- Explotar.
+- Mejorar.
+- Evitar.
+- Compartir.
+=Evitar.
+>Para amenazas, las estrategias son Evitar, Transferir/Compartir, Reducir o Aceptar. Explotar y Mejorar son para oportunidades.
+---
+¿Qué diferencia la gestión de riesgos de la gestión de incidencias en cuanto al momento en que ocurren los eventos?
+- Los riesgos son problemas ya ocurridos; las incidencias son problemas potenciales futuros.
+- Los riesgos son eventos posibles en el futuro; las incidencias son sucesos no planificados que ya requieren acción.
+- Los riesgos son exclusivamente positivos, las incidencias son exclusivamente negativas.
+- No hay ninguna diferencia conceptual.
+=Los riesgos son eventos posibles en el futuro; las incidencias son sucesos no planificados que ya requieren acción.
+>La gestión de riesgos es proactiva para eventos futuros (amenazas u oportunidades), mientras que las incidencias son eventos ya ocurridos que demandan gestión.
+---
+Si un riesgo se materializa o se identifica un riesgo crítico nuevo, ¿qué rol se involucra para su supervisión si el nivel de exposición es muy alto?
+- Exclusivamente el Director de Proyecto.
+- El Comité de Dirección del Proyecto (CDP).
+- Los usuarios finales sin poder de decisión.
+- El contratista externo.
+=El Comité de Dirección del Proyecto (CDP).
+>El CDP supervisa los proyectos o eventos con alto nivel de exposición al riesgo y se le debe informar regularmente.
+---
+¿Qué se debe hacer con las actividades de respuesta a los riesgos que precisan un esfuerzo considerable?
+- Mantenerlas únicamente como notas al margen en el Registro de Riesgos.
+- Trasladarlas al plan anual de la organización.
+- Incluirlas y asignarlas formalmente en el Plan de Trabajo del Proyecto.
+- Omitirlas hasta que el riesgo se convierta en incidencia.
+=Incluirlas y asignarlas formalmente en el Plan de Trabajo del Proyecto.
+>Las acciones de mitigación o respuesta al riesgo que requieren recursos y tiempo deben planificarse como tareas en el Plan de Trabajo del Proyecto.
+---
+¿Cómo define la metodología PM² una "incidencia"?
+- Un defecto cosmético en un documento de planificación.
+- Un evento posible en el futuro que requiere un plan de contingencia.
+- Un suceso no planificado relacionado con el proyecto que requiere una acción de gestión.
+- Una solicitud formal de ampliación del alcance por parte del cliente.
+=Un suceso no planificado relacionado con el proyecto que requiere una acción de gestión.
+>Las incidencias se definen explícitamente como sucesos no planificados que ya han ocurrido o están ocurriendo y demandan acción gerencial.
+---
+¿Qué se debe hacer con las incidencias más graves o de mayor impacto que el Director de Proyecto no puede o no debe resolver por sí solo?
+- Borrarlas del registro para evitar auditorías negativas.
+- Asumir la decisión y no informar a la alta dirección.
+- Elevarlas al Comité de Dirección del Proyecto (CDP) siguiendo los umbrales definidos.
+- Delegarlas al miembro más inexperto del Equipo Central.
+=Elevarlas al Comité de Dirección del Proyecto (CDP) siguiendo los umbrales definidos.
+>Las incidencias de alto impacto que superen las tolerancias del DP deben escalarse (elevarse) al CDP para su resolución.
+---
+¿Dónde deben documentarse todas las resoluciones importantes tomadas para afrontar incidencias o cambios de dirección del proyecto?
+- En el Plan de Externalización.
+- En el Registro de Decisiones.
+- En el Caso de Negocio.
+- En la Solicitud de Inicio.
+=En el Registro de Decisiones.
+>El Registro de Decisiones se utiliza para documentar y rastrear todas las decisiones relevantes tomadas en el proyecto.
+---
+En el proceso de Gestión de Incidencias, ¿qué paso sigue a la resolución de una incidencia?
+- Renovar los contratos con los proveedores.
+- Eliminar todo rastro de la incidencia del sistema.
+- Actualizar el Registro de Incidencias, cerrar la incidencia y especificar el procedimiento para actualizar las Lecciones Aprendidas.
+- Aumentar el presupuesto del proyecto en un 10%.
+=Actualizar el Registro de Incidencias, cerrar la incidencia y especificar el procedimiento para actualizar las Lecciones Aprendidas.
+>Las incidencias resueltas deben cerrarse en el registro y servir como fuente para extraer Lecciones Aprendidas.
+---
+¿Cuáles son las actividades principales que engloba la Gestión de Calidad durante el proyecto?
+- Definir la estrategia corporativa y asignar el presupuesto de marketing.
+- Planificación de recursos humanos y firma de contratos.
+- Planificación, aseguramiento, control y mejora de la calidad, junto con la gestión de la configuración.
+- Pruebas de aceptación del usuario exclusivamente.
+=Planificación, aseguramiento, control y mejora de la calidad, junto con la gestión de la configuración.
+>Incluye llevar a cabo planificación, QA, QC, mejora continua a lo largo del proyecto y la gestión de la configuración de los artefactos.
+---
+¿Qué propósito principal tiene la Gestión de la Configuración dentro de la Gestión de la Calidad?
+- Decidir los colores y el logotipo del producto.
+- Garantizar que los equipos manejen eficazmente versiones y entregables, evitando cambios no autorizados y proporcionando trazabilidad.
+- Ajustar el presupuesto base tras los cambios de alcance.
+- Auditar la situación fiscal del contratista.
+=Garantizar que los equipos manejen eficazmente versiones y entregables, evitando cambios no autorizados y proporcionando trazabilidad.
+>Proporciona una referencia fiable de los artefactos, asegurando el control de versiones y entregas correctas.
+---
+Si durante las actividades de control de calidad se identifica una "no conformidad", ¿qué acción debe seguirse?
+- Ocultarla al cliente si no es muy evidente.
+- Aceptar el producto de todos modos para no retrasar el cronograma.
+- Analizar la causa raíz e implementar medidas correctivas.
+- Reducir el salario del miembro del equipo responsable.
+=Analizar la causa raíz e implementar medidas correctivas.
+>El proceso establece identificar no conformidades, analizar su causa raíz e implementar medidas correctivas (mejora).
+---
+¿Qué herramientas de verificación se recomiendan como salida de la Gestión de Calidad en PM²?
+- Listas de Control de Calidad e Informes de Revisión de Calidad.
+- Contratos firmados y Hojas de tiempo.
+- Actas de constitución y Casos de Negocio revisados.
+- Facturas de los proveedores y albaranes.
+=Listas de Control de Calidad e Informes de Revisión de Calidad.
+>Las salidas incluyen Lista de Control de Calidad, Lista de Control de Salida de Fase, Informes de Revisión de Calidad y Auditorías.
+---
+En el contexto de la Aceptación de Entregables, ¿qué sucede si un entregable tiene un conjunto de defectos conocidos pero menores?
+- Debe ser rechazado automáticamente y el proyecto cancelado.
+- El entregable puede ser aceptado condicionalmente si los defectos están documentados y existe un plan para abordarlos.
+- Se debe demandar al contratista sin posibilidad de arreglo.
+- El defecto se ignora completamente y se aprueba como perfecto.
+=El entregable puede ser aceptado condicionalmente si los defectos están documentados y existe un plan para abordarlos.
+>PM² permite la aceptación condicional (provisional) siempre que se documenten las incidencias/defectos y se tenga un plan de resolución.
+---
+Además del producto o entregable principal, ¿qué otro tipo de entregables debe asegurar el Director de Proyecto que se suministran para su aceptación?
+- Sólo el código fuente.
+- Entregables de apoyo, como documentación técnica, manuales de usuario, materiales de formación y notas de la versión.
+- El mobiliario de la oficina temporal.
+- Las nóminas del equipo.
+=Entregables de apoyo, como documentación técnica, manuales de usuario, materiales de formación y notas de la versión.
+>El DP debe asegurarse de que se entregue material de apoyo complementario necesario para operar y mantener el producto.
+---
+¿Quién tiene la responsabilidad de aceptar formal y definitivamente los entregables del proyecto?
+- El Director de Proyecto (DP).
+- El Aseguramiento de Calidad (AdC).
+- El Propietario del Proyecto (PP).
+- El Analista de Negocio.
+=El Propietario del Proyecto (PP).
+>El Propietario del Proyecto (PP) es quien acepta formalmente y en última instancia los resultados del proyecto.
+---
+¿Qué es lo que persigue garantizar la Gestión de la Transición?
+- Que los recursos del equipo pasen rápidamente al desempleo.
+- Una transición controlada y sin sobresaltos desde la situación antigua a la nueva, donde el producto entra en operaciones.
+- Que el proveedor adquiera las acciones de la organización solicitante.
+- Modificar retroactivamente los planes del proyecto para justificar retrasos.
+=Una transición controlada y sin sobresaltos desde la situación antigua a la nueva, donde el producto entra en operaciones.
+>Su objetivo es minimizar el impacto operativo durante el paso del estado antiguo al nuevo, poniendo en marcha los entregables.
+---
+Para lograr una transferencia correcta a la organización cliente durante la transición, ¿qué dos roles deben colaborar estrechamente?
+- El Director de Proyecto (DP) y el Responsable de Negocio (RN).
+- El contratista externo y el auditor contable.
+- El Oficial de Seguridad y el Arquitecto de TI.
+- El Asegurador de Calidad y el usuario final.
+=El Director de Proyecto (DP) y el Responsable de Negocio (RN).
+>La transición requiere una colaboración muy estrecha entre el DP (parte proveedora) y el RN (parte del negocio).
+---
+¿Qué herramienta sirve de salida documental para verificar que se han dado los pasos correctos en el despliegue del producto?
+- El Análisis PESTEL.
+- La Lista de Control de Transición.
+- El Registro de Riesgos de alto impacto.
+- El Manual del Proyecto.
+=La Lista de Control de Transición.
+>La "Lista de Control de Transición" se actualiza y utiliza como salida para verificar que las actividades de transición se completen satisfactoriamente.
+---
+¿Por qué son críticas las actividades de Implementación en el Negocio, incluso de forma complementaria a la transición?
+- Porque permiten prolongar la facturación del contratista indefinidamente.
+- Porque aseguran que se sigan obteniendo los beneficios (cambio organizacional, adopción de procesos) incluso después de transferir los entregables.
+- Porque son un requisito legal para proyectos de construcción civil.
+- Porque sin ellas el proyecto no podría haber empezado.
+=Porque aseguran que se sigan obteniendo los beneficios (cambio organizacional, adopción de procesos) incluso después de transferir los entregables.
+>Las actividades de implementación garantizan la integración cultural, cambio de procesos y apropiación, asegurando la materialización de beneficios.
+---
+¿A quién se asigna la responsabilidad principal (R) de gestionar las actividades de Implementación en el Negocio?
+- Al Director de Proyecto (DP).
+- Al Proveedor de Soluciones (PS).
+- Al Responsable de Negocio (RN).
+- A los usuarios finales.
+=Al Responsable de Negocio (RN).
+>El RN es responsable (R) de gestionar las actividades de implementación y cambio en el negocio, siendo asistido por el DP.
+---
+¿Cuál es la responsabilidad del Director de Proyecto respecto al trabajo externalizado?
+- Diseñar y desarrollar el producto personalmente.
+- Aprobar unilateralmente todos los contratos sin consultar a la organización.
+- Gestionar y supervisar a los contratistas para garantizar la entrega eficaz en tiempo, coste y calidad según el Plan de Externalización.
+- Solo procesar el pago de las facturas una vez terminado el proyecto.
+=Gestionar y supervisar a los contratistas para garantizar la entrega eficaz en tiempo, coste y calidad según el Plan de Externalización.
+>El DP gestiona y supervisa al contratista (DPC) evaluando el progreso, costes y cronograma para asegurar el cumplimiento del contrato y plan.
+---
